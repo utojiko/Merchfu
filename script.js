@@ -29,14 +29,15 @@ document.addEventListener("DOMContentLoaded", function () {
             });
             moyenne_prix = parseInt(moyenne_prix / priceKeys.length);
 
-            const className = moyenne_prix > 0 ? "diminutionPrix" : "augmentationPrix";
+            const diff = lastPrice-moyenne_prix;
+            const className = diff > 0 ? "diminutionPrix" : "augmentationPrix";
             const row = document.createElement('tr');
             row.innerHTML = `
                 <td><img src="https://vertylo.github.io/wakassets/itemTypes/${itemTypesData[item.type]}.png" alt="${item.type}" /></td>
                 <td>${key}</td>
                 <td>${lastPriceDateDiff}</td>
                 <td>${moyenne_prix.toLocaleString('fr-FR')}</td>
-                <td class="${className}">${(moyenne_prix-parseInt(lastPrice)).toLocaleString('fr-FR')}</td>
+                <td class="${className}">${(diff).toLocaleString('fr-FR')}</td>
             `;
             console.log(parseInt(lastPrice) + " -- " + moyenne_prix)
             tableBody.appendChild(row);
