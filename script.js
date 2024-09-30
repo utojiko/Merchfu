@@ -21,7 +21,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 return diffDays > 1 ? sRet + "s" : sRet + "";
             };
             const lastPriceDateDiff = dateDiffInDays(lastPriceDate);
-            console.log(lastPrice)
 
             moyenne_prix = 0;
             priceKeys.forEach(element => {
@@ -40,7 +39,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 <td>${moyenne_prix.toLocaleString('fr-FR')}</td>
                 <td class="${className}">${(diff).toLocaleString('fr-FR')}</td>
             `;
-            console.log(parseInt(lastPrice) + " -- " + moyenne_prix)
             tableBody.appendChild(row);
         });
 
