@@ -204,3 +204,10 @@ body {
     outline: none;
     border: none;
 }
+
+
+.todo {
+    color: white;
+    text-align: center;
+    margin: 50px;
+}
