@@ -1,0 +1,68 @@
+.table-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    margin: 0px 2% 0px 2%;
+    border-collapse: collapse;
+}
+
+.titreTableau {
+    position: sticky;
+    top: 2%;
+    background-color: #083a4e !important;
+    z-index: 2;
+    border: 1px solid #000000;
+}
+
+th {
+    padding: 10px 40px;
+    font-weight: bold;
+    font-size: 25px;
+    color: #f4d89e;
+}
+
+td {
+    color: white;
+    border-bottom: 1px solid #373737;
+    text-align: center;
+}
+
+tr td:nth-child(1) {
+    width: 60px;
+    text-align: center;
+    font-size: 10px;
+}
+
+tr:nth-child(odd) {
+    background-color: #212428;
+    z-index: 1;
+}
+
+tr:nth-child(even):not(.titreTableau) {
+    background-color: #15181c;
+    z-index: 1;
+}
+
+.augmentationPrix {
+    color: green;
+}
+
+.diminutionPrix {
+    color: red;
+}
+
+@media only screen and (max-width: 720px) {
+    table {
+        margin-top: 40px;
+    }
+}
+
+.cacher-haut-tableau {
+    position: sticky;
+    top: 0;
+    background-color: #062531;
+    color: transparent;
+}

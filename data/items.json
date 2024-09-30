@@ -1,0 +1,42 @@
+{
+    "Pierre à kamas": {
+        "type": "pierre",
+        "last_price": "ressource",
+        "average_price": "ressource",
+        "difference": "ressource",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": "1 000"
+            },
+            "2": {
+                "date": "2024-09-30",
+                "value": "2 000"
+            },
+            "3": {
+                "date": "2024-09-30",
+                "value": "5 000"
+            }
+        }
+    },
+    "Caissette d'aventurier": {
+        "type": "sac",
+        "last_price": "ressource",
+        "average_price": "ressource",
+        "difference": "ressource",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": "1 000"
+            },
+            "2": {
+                "date": "2024-09-30",
+                "value": "2 000"
+            },
+            "3": {
+                "date": "2024-09-30",
+                "value": "5 000"
+            }
+        }
+    }
+}
