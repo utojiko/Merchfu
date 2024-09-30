@@ -1,6 +1,6 @@
 {
     "Pierre à kamas": {
-        "type": "pierre",
+        "type": "kamas",
         "price": {
             "1": {
                 "date": "2024-09-29",
@@ -536,6 +536,258 @@
             "1": {
                 "date": "2024-09-30",
                 "value": 4000000
+            }
+        }
+    },
+    "Lunatique": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 8000000
+            }
+        }
+    },
+    "Mesure III": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 7000000
+            }
+        }
+    },
+    "Inflexibilité": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 6900000
+            }
+        }
+    },
+    "Puissance brute III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 6600000
+            }
+        }
+    },
+    "Dévastation III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 6500000
+            }
+        }
+    },
+    "Force légère III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 6000000
+            }
+        }
+    },
+    "Agilité vitale II": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 6000000
+            }
+        }
+    },
+    "Force Herculéenne": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 5850000
+            }
+        }
+    },
+    "Stupéfaction II": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 5800000
+            }
+        }
+    },
+    "Mesure II": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 5800000
+            }
+        }
+    },
+    "Volonté de fer": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 5675000
+            }
+        }
+    },
+    "Maniement : Deux mains": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 5500000
+            }
+        }
+    },
+    "Énergie ancestrale": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 5500000
+            }
+        }
+    },
+    "Intégrité II": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 3500000
+            }
+        }
+    },
+    "Valeur ajoutée III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 2880000
+            }
+        }
+    },
+    "Tolérance II": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 2688000
+            }
+        }
+    },
+    "Influence lente": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 2539000
+            }
+        }
+    },
+    "Ruine Cyclique II": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 2450000
+            }
+        }
+    },
+    "Retour PA": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 2300000
+            }
+        }
+    },
+    "Ruine III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 2300000
+            }
+        }
+    },
+    "Prétention III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 2200000
+            }
+        }
+    },
+    "Poids Plume III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 2180000
+            }
+        }
+    },
+    "Enveloppe rocheuse III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 2000000
+            }
+        }
+    },
+    "Armure lourde II": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 1950000
+            }
+        }
+    },
+    "Destruction III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 1890000
+            }
+        }
+    },
+    "Puissance brute II": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 1780000
+            }
+        }
+    },
+    "Carnage III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 1124000
+            }
+        }
+    },
+    "Brise": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 1000000
             }
         }
     }
