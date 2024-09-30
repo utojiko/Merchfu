@@ -5,16 +5,16 @@
 }
 
 table {
-    margin: 0px 2% 0px 2%;
+    margin: 0px 30px 0px 30px;
     border-collapse: collapse;
+    z-index: 2
 }
 
 .titreTableau {
     position: sticky;
-    top: 2%;
+    top: 30px;
     background-color: #083a4e !important;
     z-index: 2;
-    border: 1px solid #000000;
 }
 
 th {
@@ -65,4 +65,6 @@ tr:nth-child(even):not(.titreTableau) {
     top: 0;
     background-color: #062531;
     color: transparent;
+    z-index: 3;
+    height: 32px;
 }
