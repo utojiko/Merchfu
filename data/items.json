@@ -18,7 +18,7 @@
         }
     },
     "Diamant poli": {
-        "type": "pierre",
+        "type": "metier",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -85,7 +85,7 @@
         "price": {
             "1": {
                 "date": "2024-09-30",
-                "value": 9890000
+                "value": 8000000
             }
         }
     },
@@ -130,7 +130,412 @@
         "price": {
             "1": {
                 "date": "2024-09-30",
-                "value": 17377000
+                "value": 6200000
+            }
+        }
+    },
+    "Force vitale II": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 4000000
+            }
+        }
+    },
+    "Influence vitale III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 9950000
+            }
+        }
+    },
+    "Cicatrisation III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 2200000
+            }
+        }
+    },
+    "Embuscade III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 2900000
+            }
+        }
+    },
+    "Profit II": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 4400000
+            }
+        }
+    },
+    "Ravage III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 4000000
+            }
+        }
+    },
+    "Visibilité I": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 1960000
+            }
+        }
+    },
+    "Visibilité II": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 5000000
+            }
+        }
+    },
+    "Vélocité I": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 1000000
+            }
+        }
+    },
+    "Vélocité II": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 1800000
+            }
+        }
+    },
+    "Brutalité": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 14000000
+            }
+        }
+    },
+    "Engagement": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 13000000
+            }
+        }
+    },
+    "Abnégation": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 13000000
+            }
+        }
+    },
+    "Concentration élémentaire": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 12500000
+            }
+        }
+    },
+    "Distribution": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 12000000
+            }
+        }
+    },
+    "Alternance": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 11000000
+            }
+        }
+    },
+    "Sentinelle": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 11000000
+            }
+        }
+    },
+    "Anatomie": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 10200000
+            }
+        }
+    },
+    "Hypermétrope": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 10000000
+            }
+        }
+    },
+    "Aura de flamme": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 10000000
+            }
+        }
+    },
+    "Par-delà la barrière": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 9900000
+            }
+        }
+    },
+    "Mesure": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 9500000
+            }
+        }
+    },
+    "Constance": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 9220000
+            }
+        }
+    },
+    "Brasero": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 9000000
+            }
+        }
+    },
+    "Dénouement": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 8400000
+            }
+        }
+    },
+    "Stasification": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 8400000
+            }
+        }
+    },
+    "Neutralité III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 8300000
+            }
+        }
+    },
+    "Dérobade continue III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 8000000
+            }
+        }
+    },
+    "Ambition III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 8000000
+            }
+        }
+    },
+    "Maniement : Dague": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 8000000
+            }
+        }
+    },
+    "Constance II": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 8000000
+            }
+        }
+    },
+    "Barbe de Rushu": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 365000
+            }
+        }
+    },
+    "Poils d'Ogrest": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 55000
+            }
+        }
+    },
+    "Fragment d'armure d'Anathar": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 75000
+            }
+        }
+    },
+    "Potion excarnée": {
+        "type": "cle",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 60000
+            }
+        }
+    },
+    "Dora Marabouf": {
+        "type": "casque",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 38000
+            }
+        }
+    },
+    "Clef d'intervention d'Aguabrial": {
+        "type": "cle",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 250000
+            }
+        }
+    },
+    "Clef d'intervention d'Anathar": {
+        "type": "cle",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 288000
+            }
+        }
+    },
+    "Clef d'intervention de Cire Momore": {
+        "type": "cle",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 500000
+            }
+        }
+    },
+    "Pleine Lune": {
+        "type": "cle",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 74000
+            }
+        }
+    },
+    "Clef de l'Antre du Boufrog": {
+        "type": "cle",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 76700
+            }
+        }
+    },
+    "Symbole de l'Antre du Corbeau noir": {
+        "type": "cle",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 23489
+            }
+        }
+    },
+    "Brûlure III": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 2176000
+            }
+        }
+    },
+    "Emblème de l'impur V": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 22500000
+            }
+        }
+    },
+    "Coiffeuse mortelle": {
+        "type": "dague",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 4000000
             }
         }
     }

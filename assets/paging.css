@@ -199,3 +199,8 @@ body {
         transform: rotate(360deg);
     }
 }
+
+#searchInput:focus, #searchInput {
+    outline: none;
+    border: none;
+}

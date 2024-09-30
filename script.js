@@ -106,6 +106,30 @@ document.addEventListener("DOMContentLoaded", function () {
                     rows.forEach(row => tableBody.appendChild(row));
                 });
             });
+
+            // Ajout du gestionnaire d'événements pour la recherche
+            const searchInput = document.getElementById('searchInput');
+            let searchTimeout;
+
+            searchInput.addEventListener('input', () => {
+                clearTimeout(searchTimeout);
+                searchTimeout = setTimeout(() => {
+                    const searchTerm = searchInput.value.toLowerCase();
+                    const rows = Array.from(tableBody.querySelectorAll('tr'));
+
+                    rows.forEach(row => {
+                        const itemNameCell = row.querySelector('td:nth-child(2)');
+                        if (itemNameCell) {
+                            const itemName = itemNameCell.textContent.toLowerCase();
+                            if (itemName.includes(searchTerm)) {
+                                row.style.display = '';
+                            } else {
+                                row.style.display = 'none';
+                            }
+                        }
+                    });
+                }, 600); // 2 secondes de délai
+            });
     })
     .catch(error => console.error('Error fetching the JSON data:', error));
 });
