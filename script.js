@@ -69,7 +69,6 @@ document.addEventListener("DOMContentLoaded", function () {
                         let aCell, bCell;
                         let cellIndex = th.cellIndex;
 
-                        console.log("cellIndex " +cellIndex)
                         // Ajuster l'index de la cellule si colspan est utilisé
                         if (cellIndex >= 3) {
                             cellIndex += 1; // Sautez une cellule pour colspan=2
