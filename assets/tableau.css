@@ -30,11 +30,12 @@ td {
     text-align: center;
 }
 
-tr td:nth-child(1) {
-    width: 60px;
-    text-align: center;
-    font-size: 10px;
+tr td:nth-child(3) {
 }
+tr td:nth-child(4) {
+    text-align: left;
+}
+
 
 tr:nth-child(odd) {
     background-color: #212428;
@@ -67,4 +68,16 @@ tr:nth-child(even):not(.titreTableau) {
     color: transparent;
     z-index: 3;
     height: 32px;
+}
+
+td img {
+    width: 25px;
+}
+
+.sorted-asc::after {
+    content: ' ▲';
+}
+
+.sorted-desc::after {
+    content: ' ▼';
 }

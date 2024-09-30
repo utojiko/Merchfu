@@ -106,5 +106,32 @@
                 "value": 1000000
             }
         }
+    },
+    "Empressement": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 19000000
+            }
+        }
+    },
+    "Élémentalisme": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 17377000
+            }
+        }
+    },
+    "Bourse de Sublimation épique et relique": {
+        "type": "subli2",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 17377000
+            }
+        }
     }
 }
