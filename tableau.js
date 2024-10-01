@@ -28,8 +28,11 @@ document.addEventListener("DOMContentLoaded", function () {
             });
             moyenne_prix = parseInt(moyenne_prix / priceKeys.length);
 
-            const diff = lastPrice-moyenne_prix;
-            const className = diff > 0 ? "diminutionPrix" : "augmentationPrix";
+            const pourcentage = (lastPrice-moyenne_prix) * 100 / moyenne_prix;
+            const symbole = pourcentage >= 0 ? '+' : '-';
+            const pourcentageFormatte = `${symbole}${Math.abs(pourcentage).toFixed(0).toLocaleString('fr-FR')}`;
+
+            const className = pourcentage > 0 ? "diminutionPrix" : "augmentationPrix";
             const row = document.createElement('tr');
             row.innerHTML = `
                 <td><img src="${itemTypesData[item.type]}" alt="${item.type}" /></td>
@@ -37,8 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 <td>${lastPrice.toLocaleString('fr-FR')} </td>
                 <td>${lastPriceDateDiff}</td>
                 <td>${moyenne_prix.toLocaleString('fr-FR')}</td>
-                <td class="${className}">${(diff).toLocaleString('fr-FR')}</td>
-                <td class="addPrixBtn">+</td>
+                <td class="${className}">${pourcentageFormatte}%</td>
             `;
             tableBody.appendChild(row);
         });
@@ -132,57 +134,6 @@ document.addEventListener("DOMContentLoaded", function () {
             }, 600); // 2 secondes de délai
         });
 
-        const overlay = document.querySelector('.newPriceFormContainer');
-        const itemToAddPrice = document.getElementById('itemToAddPrice');
-        const priceInput = document.getElementById('priceInput');
-        const validerPrixBtn = document.querySelector('.validerPrixBtn');
-    
-        document.querySelectorAll('.addPrixBtn').forEach(button => {
-            button.addEventListener('click', function () {
-                const row = button.closest('tr');
-                const itemName = row.querySelector('td:nth-child(2)').textContent;
-                console.log("Item Name:", itemName);
-    
-                // Mettre à jour le contenu de la div itemToAddPrice
-                itemToAddPrice.textContent = itemName;
-    
-                // Afficher l'overlay
-                overlay.classList.add('visible');
-            });
-        });
-    
-        overlay.addEventListener('click', function () {
-            if (overlay.classList.contains('visible')) {
-                overlay.classList.remove('visible');
-            }
-        });
-    
-        // Empêcher la propagation de l'événement de clic sur l'input
-        priceInput.addEventListener('click', function (event) {
-            event.stopPropagation();
-        });
-
-        // Ajouter un gestionnaire d'événements pour le bouton "Valider"
-        validerPrixBtn.addEventListener('click', function () {
-            const itemName = itemToAddPrice.textContent;
-            const newPrice = parseFloat(priceInput.value);
-    
-            fetch('/api/add-price', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({ itemName, newPrice })
-            })
-            .then(response => response.json())
-            .then(data => {
-                console.log(data);
-                overlay.classList.remove('visible');
-            })
-            .catch(error => {
-                console.error('Error:', error);
-            });
-        });
     })
     .catch(error => console.error('Error fetching the JSON data:', error));
 });

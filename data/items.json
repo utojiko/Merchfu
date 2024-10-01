@@ -30,8 +30,16 @@
         "type": "pierre",
         "price": {
             "1": {
+                "date": "2024-09-05",
+                "value": 60000
+            },
+            "2": {
                 "date": "2024-09-30",
                 "value": 78999
+            },
+            "3": {
+                "date": "2024-10-02",
+                "value": 68000
             }
         }
     },
@@ -522,11 +530,20 @@
         }
     },
     "Emblème de l'impur V": {
-        "type": "subli",
+        "type": "embleme",
         "price": {
             "1": {
                 "date": "2024-09-30",
                 "value": 22500000
+            }
+        }
+    },
+    "Emblème de l'impur III": {
+        "type": "embleme",
+        "price": {
+            "1": {
+                "date": "2024-09-30",
+                "value": 19920000
             }
         }
     },
@@ -788,6 +805,178 @@
             "1": {
                 "date": "2024-09-30",
                 "value": 1000000
+            }
+        }
+    },
+    "Larmes d'Ogrest": {
+        "type": "autre",
+        "price": {
+            "1": {
+                "date": "2024-09-05",
+                "value": 1180
+            },
+            "2": {
+                "date": "2024-10-02",
+                "value": 977
+            }
+        }
+    },
+    "Poudre": {
+        "type": "autre",
+        "price": {
+            "1": {
+                "date": "2024-09-05",
+                "value": 51
+            },
+            "2": {
+                "date": "2024-10-02",
+                "value": 44
+            }
+        }
+    },
+    "Éclat": {
+        "type": "subli",
+        "price": {
+            "1": {
+                "date": "2024-09-05",
+                "value": 55
+            },
+            "2": {
+                "date": "2024-10-02",
+                "value": 45
+            }
+        }
+    },
+    "Etoffe de Fléopard": {
+        "type": "autre",
+        "price": {
+            "1": {
+                "date": "2024-09-05",
+                "value": 7900
+            },
+            "2": {
+                "date": "2024-10-02",
+                "value": 14398
+            }
+        }
+    },
+    "Griffe de Blérox": {
+        "type": "autre",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 15899
+            }
+        }
+    },
+    "Œil de Blérox": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 28000
+            }
+        }
+    },
+    "Mouchards de Démentia": {
+        "type": "autre",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 27777
+            }
+        }
+    },
+    "Crochets aquatiques": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-09-05",
+                "value": 149000
+            },
+            "2": {
+                "date": "2024-10-02",
+                "value": 117999
+            }
+        }
+    },
+    "Cape Iraterie": {
+        "type": "cape",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 5890000
+            }
+        }
+    },
+    "Potion de Butin": {
+        "type": "conso",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 198000
+            }
+        }
+    },
+    "Sioupère-Glou Infernale": {
+        "type": "autre",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 1196
+            }
+        }
+    },
+    "Havre-Gemme de Jardin": {
+        "type": "autre",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 3698
+            }
+        }
+    },
+    "Plume de Serre d'Acier": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 174895
+            }
+        }
+    },
+    "Scalp de Soiffard": {
+        "type": "autre",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 20000
+            }
+        }
+    },
+    "Fragment nécromique": {
+        "type": "autre",
+        "price": {
+            "1": {
+                "date": "2024-09-05",
+                "value": 1800
+            },
+            "2": {
+                "date": "2024-10-02",
+                "value": 839
+            }
+        }
+    },
+    "Pierre nécromique": {
+        "type": "autre",
+        "price": {
+            "1": {
+                "date": "2024-09-05",
+                "value": 35000
+            },
+            "2": {
+                "date": "2024-10-02",
+                "value": 14198
             }
         }
     }

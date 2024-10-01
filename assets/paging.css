@@ -211,61 +211,9 @@ body {
     border: none;
 }
 
-
 .todo {
     color: white;
     text-align: center;
     margin: 50px;
     z-index: 50;
-    background-color: red;
-}
-
-.newPriceFormContainer {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100vh;
-    /* Utilisez 100vh pour couvrir toute la hauteur de la fenêtre */
-    background-color: rgba(0, 0, 0, 0.6);
-    z-index: 7;
-    /* Assurez-vous que le conteneur est derrière les éléments avec un z-index plus élevé */
-    display: none;
-    /* Initialement caché */
-}
-
-.newPriceFormContainer.visible {
-    display: block;
-    /* Afficher lorsque la classe 'visible' est ajoutée */
-    color: white;
-}
-
-.itemUpdatePriceContainer {
-    margin-top: 150px;
-    font-size: 40px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center; /* Centrer les éléments horizontalement */
-}
-
-.validerPrixBtn {
-    padding: 10px 20px;
-    font-size: 20px;
-    background-color: #04AA6D;
-    color: white;
-    border: none;
-    cursor: pointer;
-}
-
-#itemToAddPrice {
-    margin-bottom: 20px; /* Ajouter un espace entre le nom de l'item et l'input */
-}
-
-#priceInput {
-    margin-bottom: 20px; /* Ajouter un espace entre l'input et le bouton */
-}
-
-.validerPrixBtn:hover {
-    background-color: #039e5a;
 }

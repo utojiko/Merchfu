@@ -1,6 +1,5 @@
 .table-container {
     position: relative;
-    top: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -80,12 +79,4 @@ td img {
 
 .sorted-desc::after {
     content: ' ▼';
-}
-
-.addPrixBtn {
-    color: green;
-    border: 1px solid black;
-    font-size: 20px;
-    font-weight: bold;
-    background-color: rgb(48, 48, 48);
 }
