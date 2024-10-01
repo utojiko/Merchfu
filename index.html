@@ -13,8 +13,18 @@
         href="https://fonts.googleapis.com/css?family=Sofia&effect=neon|outline|emboss|shadow-multiple">
 </head>
 
-<script defer src="script.js"></script>
+<script defer src="tableau.js"></script>
+<script defer src="api/crud.js"></script>
+
 <body>
+
+    <div class="newPriceFormContainer">
+        <div class="itemUpdatePriceContainer">
+            <div id="itemToAddPrice"></div>
+            <input type="text" id="priceInput" placeholder="Ajouter un prix">
+            <button class="validerPrixBtn">Valider</button>
+        </div>
+    </div>
     <div class="sun">
         <div class="ray_box">
             <div class="ray ray1"></div>
@@ -34,25 +44,25 @@
     </div>
     <div class="ongletRecherche">
         <img defer class="loupe" src="assets/images/loupe.svg" alt="Loupe" />
-        <input type="text" id="searchInput" placeholder="Rechercher..."></div>
+        <input type="text" id="searchInput" placeholder="Rechercher...">
+    </div>
     </div>
     <div class="cacher-haut-tableau">easter egg</div>
 
+    <!-- <input type="text" id="newPrice" placeholder="Nouveau prix">
+        <button id="addPrice">Ajouter</button> -->
     <div class="table-container">
         <table>
             <tr class="titreTableau">
-                <th data-column="type" class="sorted-asc">Type</th>
+                <th data-column="type">Type</th>
                 <th data-column="name">Nom de l'item</th>
                 <th data-column="lastPrice" colspan="2">Dernier prix enregistré</th>
                 <th data-column="averagePrice">Moyenne des prix</th>
                 <th data-column="difference">Différence</th>
+                <th></th>
             </tr>
         </table>
     </div>
-    <div class="todo">
-        A suivre : Augmenter le nombre d'items, créer un mot de passe à la connexion sur le site, créer un système Ajout / Suppression d'entrée de prix.
-    </div>
 </body>
-
 
 </html>

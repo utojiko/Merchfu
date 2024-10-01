@@ -134,7 +134,7 @@
             }
         }
     },
-    "Force vitale II": {
+    "Force vitale": {
         "type": "subli",
         "price": {
             "1": {
@@ -593,7 +593,7 @@
             }
         }
     },
-    "Agilité vitale II": {
+    "Agilité vitale": {
         "type": "subli",
         "price": {
             "1": {
@@ -683,7 +683,7 @@
             }
         }
     },
-    "Influence lente": {
+    "Influence lente III": {
         "type": "subli",
         "price": {
             "1": {
@@ -783,7 +783,7 @@
         }
     },
     "Brise": {
-        "type": "subli",
+        "type": "subli2",
         "price": {
             "1": {
                 "date": "2024-09-30",
