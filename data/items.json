@@ -979,5 +979,95 @@
                 "value": 14198
             }
         }
+    },
+    "Soupe de Champignons": {
+        "type": "conso",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 39900
+            }
+        }
+    },
+    "Egreu-Visse à l'Escamèche": {
+        "type": "conso",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 22900
+            }
+        }
+    },
+    "Fricassée de Corbec à la Kroapule": {
+        "type": "conso",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 3194
+            }
+        }
+    },
+    "Dague Marabouteuse": {
+        "type": "dague",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 33333
+            }
+        }
+    },
+    "Bas-Ventre d'Ésrevni": {
+        "type": "ceinture",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 1500000
+            }
+        }
+    },
+    "Fragment de clef Phytomorphe": {
+        "type": "cle",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 40000
+            }
+        }
+    },
+    "Fragment de clef Vidéant": {
+        "type": "cle",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 380000
+            }
+        }
+    },
+    "Fragment de clef Démhorrible": {
+        "type": "cle",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 400000
+            }
+        }
+    },
+    "Fragment de clef Égaré": {
+        "type": "cle",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 118949
+            }
+        }
+    },
+    "Fragment de clef Ravageur": {
+        "type": "cle",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 288885
+            }
+        }
     }
 }
