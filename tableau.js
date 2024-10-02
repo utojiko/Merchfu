@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
         fetch('./data/itemTypes.json').then(response => response.json())
     ])
     .then(([itemsData, itemTypesData]) => {
-        const tableBody = document.querySelector('table tbody');
+        const tableBody = document.getElementById('tbody-data-items');
         Object.keys(itemsData).forEach(key => {
             const item = itemsData[key];
             const priceKeys = Object.keys(item.price);
@@ -34,6 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             const className = pourcentage > 0 ? "diminutionPrix" : "augmentationPrix";
             const row = document.createElement('tr');
+            row.id = key
             row.innerHTML = `
                 <td><img src="${itemTypesData[item.type]}" alt="${item.type}" /></td>
                 <td>${key}</td>
@@ -45,7 +46,10 @@ document.addEventListener("DOMContentLoaded", function () {
             tableBody.appendChild(row);
         });
 
-        document.querySelectorAll('th').forEach(th => {
+        const itemCountSpan = document.getElementById('totalItems');
+        itemCountSpan.textContent = `${tableBody.rows.length}/${tableBody.rows.length}`;
+
+        document.querySelectorAll('#thead-data-items th').forEach(th => {
             th.addEventListener('click', () => {
                 const column = th.getAttribute('data-column');
                 if (!column) return; // Vérifiez si l'attribut data-column est défini
@@ -53,7 +57,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 const rows = Array.from(tableBody.querySelectorAll('tr'));
 
                 // Retirer les classes de tri des autres en-têtes et réinitialiser l'ordre de tri
-                document.querySelectorAll('th').forEach(header => {
+                document.querySelectorAll('#thead-data-items th').forEach(header => {
                     if (header !== th) {
                         header.classList.remove('sorted-asc', 'sorted-desc');
                         header.removeAttribute('data-order');
@@ -64,8 +68,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 th.classList.add(order === 1 ? 'sorted-asc' : 'sorted-desc');
 
                 rows.sort((a, b) => {
-                    const aCells = Array.from(a.querySelectorAll('td'));
-                    const bCells = Array.from(b.querySelectorAll('td'));
+                    const aCells = Array.from(a.querySelectorAll('#tbody-data-items tr td'));
+                    const bCells = Array.from(b.querySelectorAll('#tbody-data-items tr td'));
 
                     let aCell, bCell;
                     let cellIndex = th.cellIndex;
@@ -119,6 +123,7 @@ document.addEventListener("DOMContentLoaded", function () {
             searchTimeout = setTimeout(() => {
                 const searchTerm = searchInput.value.toLowerCase();
                 const rows = Array.from(tableBody.querySelectorAll('tr'));
+                let visibleItemCount = 0;
 
                 rows.forEach(row => {
                     const itemNameCell = row.querySelector('td:nth-child(2)');
@@ -126,15 +131,79 @@ document.addEventListener("DOMContentLoaded", function () {
                         const itemName = itemNameCell.textContent.toLowerCase();
                         if (itemName.includes(searchTerm)) {
                             row.style.display = '';
+                            visibleItemCount++;
                         } else {
                             row.style.display = 'none';
                         }
                     }
                 });
+                
+                // Mettre à jour le contenu de l'élément <span> avec le nombre d'items
+                itemCountSpan.textContent = `${visibleItemCount}/${tableBody.rows.length}`;
             }, 600); // 2 secondes de délai
         });
+
+        
+        // Ajouter un écouteur d'événements à chaque cellule du tableau
+        const fullTable = document.querySelectorAll('table#table-info-item');
+        const tableCells = document.querySelectorAll('#tbody-data-items tr .augmentationPrix, #tbody-data-items tr .diminutionPrix');
+        const titleInfo = document.getElementById('title-info');
+
+        tableCells.forEach(cell => {
+            cell.addEventListener('click', () => {
+                const infoItemContainer = document.querySelector('.info-item-container');
+                const infoItemTbody = document.querySelector('#tbody-info-items');
+
+                // Rendre visible le composant
+                infoItemContainer.style.visibility = 'visible';
+    
+                // Obtenir les informations de la ligne parente de la cellule cliquée
+                const row = cell.parentElement;
+                const cells = row.querySelectorAll('td');
+                const indice = cells[0].textContent;
+                const nomItemClic = cells[1].textContent;
+                const prixClic = cells[2].textContent;
+                infoItemTbody.innerHTML = "";
+
+                titleInfo.textContent = nomItemClic;
+                console.log(Object.values(itemsData[nomItemClic].price))
+                Object.values(itemsData[nomItemClic].price).forEach((item, index) => {
+                    console.log(item.date);
+                    infoItemTbody.innerHTML += `
+                    <tr>
+                        <td>${index+1}</td>
+                        <td>${formatDate(item.date)}</td>
+                        <td>${item.value.toLocaleString('fr-FR')}</td>
+                    </tr>
+                `;
+                });
+
+                // Mettre à jour le contenu du tbody avec les informations
+                
+            });
+        });
+
+        const closeButton = document.querySelector('.close');
+        closeButton.addEventListener('click', () => {
+            closeButton.parentElement.style.visibility = 'hidden';
+        });
+
 
     })
     .catch(error => console.error('Error fetching the JSON data:', error));
 });
 
+
+function formatDate(dateString) {
+    const months = [
+        'janvier', 'février', 'mars', 'avril', 'mai', 'juin',
+        'juillet', 'août', 'septembre', 'octobre', 'novembre', 'décembre'
+    ];
+
+    const dateParts = dateString.split('-');
+    const year = dateParts[0];
+    const month = months[parseInt(dateParts[1], 10) - 1];
+    const day = parseInt(dateParts[2], 10);
+
+    return `${day} ${month} ${year}`;
+}

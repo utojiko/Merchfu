@@ -427,6 +427,10 @@
             "1": {
                 "date": "2024-09-30",
                 "value": 365000
+            },
+            "2": {
+                "date": "2024-10-02",
+                "value": 495000
             }
         }
     },
@@ -944,8 +948,12 @@
         "type": "boss",
         "price": {
             "1": {
-                "date": "2024-10-02",
+                "date": "2024-10-01",
                 "value": 174895
+            },
+            "2": {
+                "date": "2024-10-02",
+                "value": 210000
             }
         }
     },
@@ -1116,6 +1124,960 @@
             "1": {
                 "date": "2024-10-02",
                 "value": 49495
+            }
+        }
+    },
+    "Fragment de Porte-Clef doré": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 3900
+            }
+        }
+    },
+    "Fragment de bouclier Ventaille": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 10994
+            }
+        }
+    },
+    "Fragment de Bottes de Kovak": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 3300
+            }
+        }
+    },
+    "Fragment de Mark VII": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 4342
+            }
+        }
+    },
+    "Fragment de Casque du guerrier Zoth": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 8999
+            }
+        }
+    },
+    "Fragment de Sulik": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 46699
+            }
+        }
+    },
+    "Fragment de Sangles Sanglantes": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 5700
+            }
+        }
+    },
+    "Fragment de Bottes de Poursuite": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 6100
+            }
+        }
+    },
+    "Fragment de Ceinture de Ghast": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 44000
+            }
+        }
+    },
+    "Fragment de Cape Erforée": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 19995
+            }
+        }
+    },
+    "Fragment de Manteau du Roi-Sorcier": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 11999
+            }
+        }
+    },
+    "Fragment d'Epaulettes de lichen": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 9796
+            }
+        }
+    },
+    "Fragment de Coques Luche": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 4000
+            }
+        }
+    },
+    "Fragment de Ceinture frrrrite": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 2100
+            }
+        }
+    },
+    "Fragment d'Ortiz'": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 5000
+            }
+        }
+    },
+    "Fragment d'Épée du Chevalier de Glace": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 599
+            }
+        }
+    },
+    "Fragment de Cape de Charon": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 2498
+            }
+        }
+    },
+    "Fragment de Mangelâme": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 1800
+            }
+        }
+    },
+    "Fragment de Collier de Lolzewolf": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 3880
+            }
+        }
+    },
+    "Fragment de Bottes de Jr.": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 15000
+            }
+        }
+    },
+    "Fragment de Dernier anneau": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 19799
+            }
+        }
+    },
+    "Fragment de Coiffe du Chêne Mou": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 3799
+            }
+        }
+    },
+    "Fragment d'Epaulettes du Dark Vlad": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 2848
+            }
+        }
+    },
+    "Fragment d'Amulette du Mak Assutra": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 4999
+            }
+        }
+    },
+    "Fragment de Caphasard": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 6600
+            }
+        }
+    },
+    "Fragment de Creux": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 2796
+            }
+        }
+    },
+    "Fragment d'Epaulettes STIM": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 7995
+            }
+        }
+    },
+    "Fragment de Galons Fred": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 500
+            }
+        }
+    },
+    "Fragment de Bouclier du Capitaine Amakna": {
+        "type": "frag",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 10900
+            }
+        }
+    },
+    "Crin de Tal Kasha": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 450000
+            }
+        }
+    },
+    "Fragment d'Ombre": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 355555
+            }
+        }
+    },
+    "Drapeau Pirate": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 24358
+            }
+        }
+    },
+    "Poil de singe noir": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 16990
+            }
+        }
+    },
+    "Carapace du Crustacérébro": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 16990
+            }
+        }
+    },
+    "Toile de Chef Riktus": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 13198
+            }
+        }
+    },
+    "Enewgie Noiwe": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 13198
+            }
+        }
+    },
+    "Pierre de Rubis": {
+        "type": "metier",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 13198
+            }
+        }
+    },
+    "Serrure béante": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 11999
+            }
+        }
+    },
+    "Boîte de Pandore": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 8946
+            }
+        }
+    },
+    "Bougie de Cire Momore": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 319000
+            }
+        }
+    },
+    "Ecaille de Nogord L'Ezarélé": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 317996
+            }
+        }
+    },
+    "Poils de Foul Moon": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 145000
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "ressource_mob",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Crustargneux": {
+        "type": "ressource_mob",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 99997
+            }
+        }
+    },
+    "Fragment de Cire Momore": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 96797
+            }
+        }
+    },
+    "Main de Démhorrible": {
+        "type": "ressource_mob",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 59988
+            }
+        }
+    },
+    "Haut de Forme du Dandy": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 44000
+            }
+        }
+    },
+    "Fragment d'armure Hibourg": {
+        "type": "ressource_mob",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 39898
+            }
+        }
+    },
+    "Masque de forban": {
+        "type": "ressource_mob",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 39494
+            }
+        }
+    },
+    "Reste de Ravageur": {
+        "type": "ressource_mob",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 30888
+            }
+        }
+    },
+    "Viande de Carapatte": {
+        "type": "ressource_mob",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 29999
+            }
+        }
+    },
+    "Substance de Mort-Brûlé": {
+        "type": "ressource_mob",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 27775
+            }
+        }
+    },
+    "Poil Roux": {
+        "type": "ressource_mob",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 25330
+            }
+        }
+    },
+    "Braises de Boufrog": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 24990
+            }
+        }
+    },
+    "Stalagmama": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 23999
+            }
+        }
+    },
+    "Ventre d'Égarés": {
+        "type": "ressource_mob",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 20000
+            }
+        }
+    },
+    "Rayon de miel": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 19999
+            }
+        }
+    },
+    "Corne de Sir Comte Flex": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 19996
+            }
+        }
+    },
+    "Mycélium Royal": {
+        "type": "ressource_mob",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Pointe du Sumorse": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 18885
+            }
+        }
+    },
+    "Totem Fléopard": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 18799
+            }
+        }
+    },
+    "Gantelet stasifié": {
+        "type": "ressource_mob",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 18000
+            }
+        }
+    },
+    "Défenses de Phacochemar": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 17997
+            }
+        }
+    },
+    "Essence de Koko Nutt": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 16999
+            }
+        }
+    },
+    "Queue de Maman Gerbouille": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 16900
+            }
+        }
+    },
+    "Touffe de Tortumulte": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 16499
+            }
+        }
+    },
+    "Fragment de totem": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 16499
+            }
+        }
+    },
+    "Fragment de Remington": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 16298
+            }
+        }
+    },
+    "Queue de Scorpiétineur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 15500
+            }
+        }
+    },
+    "Griffe de Gerbouille": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 14995
+            }
+        }
+    },
+    "Racine du mal": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 14499
+            }
+        }
+    },
+    "Tentacule de Sangsure": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 13999
+            }
+        }
+    },
+    "Cataplasme": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 13990
+            }
+        }
+    },
+    "Dent de Poisseux Abyssal": {
+        "type": "ressource_mob",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 13800
+            }
+        }
+    },
+    "Tête de requin": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 11998
+            }
+        }
+    },
+    "Jus de Potofeu": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 11994
+            }
+        }
+    },
+    "Viande de Mansot": {
+        "type": "ressource_mob",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 10000
+            }
+        }
+    },
+    "Viande de Toundrasoir": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 9000
+            }
+        }
+    },
+    "Viande de Hibourg": {
+        "type": "metier",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 3185
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Viande de Cagnardeur": {
+        "type": "boss",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 119997
+            }
+        }
+    },
+    "Pétillance": {
+        "type": "subli_relique",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 10500000
+            }
+        }
+    },
+    "Face-à-face": {
+        "type": "subli_relique",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 12000000
+            }
+        }
+    },
+    "Contrôle de l'espace II": {
+        "type": "subli_epique",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 12000000
+            }
+        }
+    },
+    "Pétulance": {
+        "type": "subli_relique",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 15000000
             }
         }
     }
