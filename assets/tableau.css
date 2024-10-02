@@ -9,6 +9,7 @@ table {
     margin: 0px 30px 0px 30px;
     border-collapse: collapse;
     z-index: 2;
+    width: 80%;
 }
 
 .titreTableau {
@@ -31,7 +32,9 @@ th {
 td {
     z-index: 6 !important;
     color: white;
-    border-bottom: 1px solid #373737;
+    /* border-bottom: 1px solid #373737; */
+    padding: 8px;
+    border: 1px solid #acacac;
 }
 
 tr td:nth-child(1) {
@@ -39,14 +42,30 @@ tr td:nth-child(1) {
     text-align: center;
 }
 
+tr td:nth-child(2) {
+    width: 30%;
+    text-align: center;
+}
+
 tr td:nth-child(3) {
-    width: 0%;
+    width: 20%;
+    text-align: center;
 }
 
 tr td:nth-child(4) {
-    /* text-align: left; */
+    text-align: left; 
+    width: 80px !important;
 }
 
+tr td:nth-child(5) {
+    width: 20%;
+    text-align: center;
+}
+ 
+tr td:nth-child(6) {
+    width: 10px !important;
+    text-align: center;
+}
 
 tr:nth-child(odd) {
     background-color: #212428;
@@ -59,28 +78,16 @@ tr:nth-child(even):not(.titreTableau) {
 }
 
 .augmentationPrix {
-    color: green;
+    color: rgb(0, 205, 0);
 }
 
 .diminutionPrix {
     color: red;
 }
 
-@media screen and (max-width: 600px) {
-    table {
-        display: block;
-        overflow-x: auto;
-        white-space: nowrap;
-    }
-}
-
-table {
-    border-collapse: collapse;
-}
-
-td {
-    padding: 8px;
-    border: 1px solid #acacac;
+.diminutionPrix, .augmentationPrix {
+    text-shadow: 
+    1px 1px 0 rgb(0, 0, 0); /* Bordure blanche */
 }
 
 .cacher-haut-tableau {
@@ -102,4 +109,12 @@ td img {
 
 .sorted-desc::after {
     content: ' ▼';
+}
+
+@media screen and (max-width: 600px) {
+    table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
 }

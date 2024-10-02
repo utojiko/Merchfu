@@ -11,7 +11,7 @@
     "epaulettes": "https://vertylo.github.io/wakassets/itemTypes/138.png",
     "cle": "https://vertylo.github.io/wakassets/itemTypes/317.png",
     "bouclier": "https://vertylo.github.io/wakassets/itemTypes/520.png",
-    "familier": "https://vertylo.github.io/wakassets/itemTypes/582.png",
+    "familier": "https://vertylo.github.io/wakassets/item/58227205.png",
     "metier": "https://vertylo.github.io/wakassets/itemTypes/537.png",
     "subli": "https://vertylo.github.io/wakassets/itemTypes/812.png",
     "embleme": "https://vertylo.github.io/wakassets/items/64619210.png",
@@ -21,8 +21,15 @@
     "anneau": "https://vertylo.github.io/wakassets/itemTypes/103.png",
     "conso": "https://vertylo.github.io/wakassets/itemTypes/572.png",
     "dague": "https://vertylo.github.io/wakassets/itemTypes/571.png",
-    "subli2": "https://vertylo.github.io/wakassets/items/68325802.png",
+    "subli_epique": "https://vertylo.github.io/wakassets/items/68325796.png",
+    "subli_relique": "https://vertylo.github.io/wakassets/items/68325802.png",
     "boss": "https://vertylo.github.io/wakassets/itemTypes/528.png",
     "kamas": "https://vertylo.github.io/wakassets/achievementRewards/11.png",
-    "autre": "https://vertylo.github.io/wakassets/achievementRewards/11.png"
+    "autre": "https://vertylo.github.io/wakassets/achievementRewards/11.png",
+    "ressource_mob": "https://vertylo.github.io/wakassets/itemTypes/531.png",
+    "sioupere": "https://vertylo.github.io/wakassets/itemTypes/739.png",
+    "havre_gemme": "https://vertylo.github.io/wakassets/itemTypes/294.png",
+    "divers": "https://vertylo.github.io/wakassets/itemTypes/822.png",
+    "deco": "https://vertylo.github.io/wakassets/itemTypes/535.png"
+
 }

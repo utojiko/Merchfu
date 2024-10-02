@@ -116,7 +116,7 @@
         }
     },
     "Empressement": {
-        "type": "subli2",
+        "type": "subli_relique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -125,7 +125,7 @@
         }
     },
     "Élémentalisme": {
-        "type": "subli2",
+        "type": "subli_epique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -134,7 +134,7 @@
         }
     },
     "Bourse de Sublimation épique et relique": {
-        "type": "subli2",
+        "type": "divers",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -233,7 +233,7 @@
         }
     },
     "Brutalité": {
-        "type": "subli2",
+        "type": "subli_epique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -242,7 +242,7 @@
         }
     },
     "Engagement": {
-        "type": "subli2",
+        "type": "subli_epique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -251,7 +251,7 @@
         }
     },
     "Abnégation": {
-        "type": "subli2",
+        "type": "subli_epique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -260,7 +260,7 @@
         }
     },
     "Concentration élémentaire": {
-        "type": "subli2",
+        "type": "subli_epique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -269,7 +269,7 @@
         }
     },
     "Distribution": {
-        "type": "subli2",
+        "type": "subli_relique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -278,7 +278,7 @@
         }
     },
     "Alternance": {
-        "type": "subli2",
+        "type": "subli_relique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -287,7 +287,7 @@
         }
     },
     "Sentinelle": {
-        "type": "subli2",
+        "type": "subli_relique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -296,7 +296,7 @@
         }
     },
     "Anatomie": {
-        "type": "subli2",
+        "type": "subli_epique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -305,7 +305,7 @@
         }
     },
     "Hypermétrope": {
-        "type": "subli2",
+        "type": "subli_relique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -314,7 +314,7 @@
         }
     },
     "Aura de flamme": {
-        "type": "subli2",
+        "type": "subli_relique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -323,7 +323,7 @@
         }
     },
     "Par-delà la barrière": {
-        "type": "subli2",
+        "type": "subli_relique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -332,7 +332,7 @@
         }
     },
     "Mesure": {
-        "type": "subli2",
+        "type": "subli_epique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -341,7 +341,7 @@
         }
     },
     "Constance": {
-        "type": "subli2",
+        "type": "subli_epique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -350,7 +350,7 @@
         }
     },
     "Brasero": {
-        "type": "subli2",
+        "type": "subli_relique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -359,7 +359,7 @@
         }
     },
     "Dénouement": {
-        "type": "subli2",
+        "type": "subli_relique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -368,7 +368,7 @@
         }
     },
     "Stasification": {
-        "type": "subli2",
+        "type": "subli_relique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -557,7 +557,7 @@
         }
     },
     "Lunatique": {
-        "type": "subli2",
+        "type": "subli_relique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -566,7 +566,7 @@
         }
     },
     "Mesure III": {
-        "type": "subli2",
+        "type": "subli_epique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -575,7 +575,7 @@
         }
     },
     "Inflexibilité": {
-        "type": "subli2",
+        "type": "subli_epique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -620,7 +620,7 @@
         }
     },
     "Force Herculéenne": {
-        "type": "subli2",
+        "type": "subli_epique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -638,7 +638,7 @@
         }
     },
     "Mesure II": {
-        "type": "subli2",
+        "type": "subli_epique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -647,7 +647,7 @@
         }
     },
     "Volonté de fer": {
-        "type": "subli2",
+        "type": "subli_epique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -656,7 +656,7 @@
         }
     },
     "Maniement : Deux mains": {
-        "type": "subli2",
+        "type": "subli_epique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -665,7 +665,7 @@
         }
     },
     "Énergie ancestrale": {
-        "type": "subli2",
+        "type": "subli_relique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -800,7 +800,7 @@
         }
     },
     "Brise": {
-        "type": "subli2",
+        "type": "subli_relique",
         "price": {
             "1": {
                 "date": "2024-09-30",
@@ -809,7 +809,7 @@
         }
     },
     "Larmes d'Ogrest": {
-        "type": "autre",
+        "type": "ressource_mob",
         "price": {
             "1": {
                 "date": "2024-09-05",
@@ -822,7 +822,7 @@
         }
     },
     "Poudre": {
-        "type": "autre",
+        "type": "divers",
         "price": {
             "1": {
                 "date": "2024-09-05",
@@ -848,7 +848,7 @@
         }
     },
     "Etoffe de Fléopard": {
-        "type": "autre",
+        "type": "ressource_mob",
         "price": {
             "1": {
                 "date": "2024-09-05",
@@ -861,7 +861,7 @@
         }
     },
     "Griffe de Blérox": {
-        "type": "autre",
+        "type": "ressource_mob",
         "price": {
             "1": {
                 "date": "2024-10-02",
@@ -879,11 +879,15 @@
         }
     },
     "Mouchards de Démentia": {
-        "type": "autre",
+        "type": "ressource_mob",
         "price": {
             "1": {
-                "date": "2024-10-02",
+                "date": "2024-10-01",
                 "value": 27777
+            },
+            "2": {
+                "date": "2024-10-02",
+                "value": 22220
             }
         }
     },
@@ -919,7 +923,7 @@
         }
     },
     "Sioupère-Glou Infernale": {
-        "type": "autre",
+        "type": "sioupere",
         "price": {
             "1": {
                 "date": "2024-10-02",
@@ -928,7 +932,7 @@
         }
     },
     "Havre-Gemme de Jardin": {
-        "type": "autre",
+        "type": "havre_gemme",
         "price": {
             "1": {
                 "date": "2024-10-02",
@@ -946,7 +950,7 @@
         }
     },
     "Scalp de Soiffard": {
-        "type": "autre",
+        "type": "ressource_mob",
         "price": {
             "1": {
                 "date": "2024-10-02",
@@ -955,7 +959,7 @@
         }
     },
     "Fragment nécromique": {
-        "type": "autre",
+        "type": "ressource_mob",
         "price": {
             "1": {
                 "date": "2024-09-05",
@@ -968,7 +972,7 @@
         }
     },
     "Pierre nécromique": {
-        "type": "autre",
+        "type": "ressource_mob",
         "price": {
             "1": {
                 "date": "2024-09-05",
@@ -1067,6 +1071,51 @@
             "1": {
                 "date": "2024-10-02",
                 "value": 288885
+            }
+        }
+    },
+    "Main de Phytomorphe": {
+        "type": "ressource_mob",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 288885
+            }
+        }
+    },
+    "Solerets d'Excarnus": {
+        "type": "bottes",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 19448
+            }
+        }
+    },
+    "Voile d'Excarnus": {
+        "type": "cape",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 49999
+            }
+        }
+    },
+    "Toison d'Excarnus": {
+        "type": "plastron",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 10497
+            }
+        }
+    },
+    "Galons d'Excarnus": {
+        "type": "epaulettes",
+        "price": {
+            "1": {
+                "date": "2024-10-02",
+                "value": 49495
             }
         }
     }
