@@ -244,7 +244,6 @@ document.addEventListener("DOMContentLoaded", function () {
             closeButton.parentElement.style.visibility = 'hidden';
         });
 
-
         const passwordInput = document.getElementById('password');
         const validateButton = document.getElementById('submit');
         const pswContainer = document.getElementById('psw-container');
@@ -252,7 +251,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
         validateButton.addEventListener('click', () => {
             const password = passwordInput.value;
-            if (password === "Soleil d'Amalthée") {
+            if (password === "oui") {
                 pswContainer.remove();
                 arrayContainer.style.visibility = 'visible';
             } else {
@@ -260,13 +259,12 @@ document.addEventListener("DOMContentLoaded", function () {
             }
         });
 
-        if (arrayContainer.getAttribute('data-verified') === 'true') {
-            arrayContainer.style.display = 'block';
-        } else {
-            arrayContainer.style.display = 'none';
-        }
-
-
+        // Ajoutez un écouteur d'événement pour la touche "Entrée"
+        passwordInput.addEventListener('keydown', (event) => {
+            if (event.key === 'Enter') {
+                validateButton.click();
+            }
+        });
     })
     .catch(error => console.error('Error fetching the JSON data:', error));
 });
