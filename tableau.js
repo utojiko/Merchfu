@@ -245,6 +245,28 @@ document.addEventListener("DOMContentLoaded", function () {
         });
 
 
+        const passwordInput = document.getElementById('password');
+        const validateButton = document.getElementById('submit');
+        const pswContainer = document.getElementById('psw-container');
+        const arrayContainer = document.getElementById('array-container');
+    
+        validateButton.addEventListener('click', () => {
+            const password = passwordInput.value;
+            if (password === "Soleil d'Amalthée") {
+                pswContainer.remove();
+                arrayContainer.style.visibility = 'visible';
+            } else {
+                alert('Mot de passe incorrect');
+            }
+        });
+
+        if (arrayContainer.getAttribute('data-verified') === 'true') {
+            arrayContainer.style.display = 'block';
+        } else {
+            arrayContainer.style.display = 'none';
+        }
+
+
     })
     .catch(error => console.error('Error fetching the JSON data:', error));
 });

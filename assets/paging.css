@@ -37,18 +37,17 @@
 
 .ongletRecherche {
     inline-size: auto;
-    position: absolute;
+    position: fixed;
     right: 2%;
-    top: 0;
+    top: calc(63px / 4);
     display: flex;
     align-items: center;
     border: 1px solid black;
     padding: 5px;
 
-    margin-top: 20px;
     border-radius: 5px;
     background-color: white;
-
+    z-index: 10;
 }
 
 .loupe {
@@ -66,7 +65,6 @@
     }
 
     .ongletRecherche {
-        margin-top: calc(85px);
     }
 
 }
@@ -215,4 +213,43 @@ body {
     text-align: center;
     margin: 50px;
     z-index: 50;
+}
+
+
+#psw-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20%;
+    color: white;
+}
+
+#psw-container label {
+    display: block;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#psw-container input {
+    margin-bottom: 10px;
+    padding: 8px;
+    width: calc(50% + 90px);
+    box-sizing: border-box;
+}
+
+#psw-container button {
+    padding: 8px 16px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#psw-container button:hover {
+    background-color: #0056b3;
+}
+
+#array-container {
+    visibility: hidden;
 }

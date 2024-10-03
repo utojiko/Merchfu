@@ -2260,5 +2260,779 @@
                 "value": 44498
             }
         ]
+    },
+    "Lucidator": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 4000000
+            }
+        ]
+    },
+    "Armure en Plume I": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 322000
+            }
+        ]
+    },
+    "Korbotaulettes Prototype II": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 299000
+            }
+        ]
+    },
+    "Bottes Anti-UC": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 799999
+            }
+        ]
+    },
+    "Heaume de Soudeur": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 320000
+            }
+        ]
+    },
+    "Casque de la Valkyr": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 750000
+            }
+        ]
+    },
+    "Talisman du Curolas Mugnas": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 980000
+            }
+        ]
+    },
+    "Grèves des Eclaireurs d'Otomai": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 13000
+            }
+        ]
+    },
+    "Plastron Sonneuse": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 175000
+            }
+        ]
+    },
+    "La Glorieuse": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 1200000
+            }
+        ]
+    },
+    "Cape de Visibilité": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 40000
+            }
+        ]
+    },
+    "Talisman Songe": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 350000
+            }
+        ]
+    },
+    "Chode Foullule Lenald": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 45000
+            }
+        ]
+    },
+    "Casque du Raie'ptile": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 500000
+            }
+        ]
+    },
+    "Plastron de Dais Tractheure": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 277000
+            }
+        ]
+    },
+    "Sandales Bator": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 128800
+            }
+        ]
+    },
+    "Dague de Vizion": {
+        "type": "dague",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 23000
+            }
+        ]
+    },
+    "La Barre Jô": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 450000
+            }
+        ]
+    },
+    "Sigma": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 1111110
+            }
+        ]
+    },
+    "Bagus Shushu": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 148995
+            }
+        ]
+    },
+    "Plastron de Raval": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 660000
+            }
+        ]
+    },
+    "Anneau de Satisfaction": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 60000
+            }
+        ]
+    },
+    "La Kyou aux Ailes": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 94995
+            }
+        ]
+    },
+    "Bottiron": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 420000
+            }
+        ]
+    },
+    "Compagne d'Agonie": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 4500000
+            }
+        ]
+    },
+    "Wo-bottées": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 95000
+            }
+        ]
+    },
+    "Bouclier Durable": {
+        "type": "bouclier",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 119000
+            }
+        ]
+    },
+    "Les Itgo": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 34000
+            }
+        ]
+    },
+    "Souvenir de Dathura": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 189888
+            }
+        ]
+    },
+    "Kalipso": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 380000
+            }
+        ]
+    },
+    "Dora Lagoole": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 2000000
+            }
+        ]
+    },
+    "Ceinture Fulgurante": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 5000
+            }
+        ]
+    },
+    "Amulette de Tetra": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 62000
+            }
+        ]
+    },
+    "Ceinture de Fhanebouille": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 194000
+            }
+        ]
+    },
+    "Culotte": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 750000
+            }
+        ]
+    },
+    "Bottes Hantouch": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 375000
+            }
+        ]
+    },
+    "L'Amollusky": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 8000
+            }
+        ]
+    },
+    "Cape Aurale": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 30000
+            }
+        ]
+    },
+    "Crocs d'Or": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 800000
+            }
+        ]
+    },
+    "Claymus Shushu": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 120000
+            }
+        ]
+    },
+    "Protection du Divin Orrok": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 19000
+            }
+        ]
+    },
+    "Bâton Braider": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 29500
+            }
+        ]
+    },
+    "La Fourbash": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 2800
+            }
+        ]
+    },
+    "Quidikarus": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 300000
+            }
+        ]
+    },
+    "bouclier du grand solide": {
+        "type": "bouclier",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 888888
+            }
+        ]
+    },
+    "Le Lamdofasol": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 6200
+            }
+        ]
+    },
+    "La Chape": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 140000
+            }
+        ]
+    },
+    "Sain Turastil": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 50000
+            }
+        ]
+    },
+    "Anneau du Cheval percé": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 9500
+            }
+        ]
+    },
+    "Cape en série limitée": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 22000
+            }
+        ]
+    },
+    "Epaulettes Rubis": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 180000
+            }
+        ]
+    },
+    "La Coquille": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 28000
+            }
+        ]
+    },
+    "Ceinture Kâ-Iba": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 12487
+            }
+        ]
+    },
+    "Dragocoiffe Noire": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 1800000
+            }
+        ]
+    },
+    "Bottes du guerrier inconnu": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 12500
+            }
+        ]
+    },
+    "Cape de voyage": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 23400
+            }
+        ]
+    },
+    "Bottes de Satisfaction": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 50000
+            }
+        ]
+    },
+    "Epée Kyn": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 450000
+            }
+        ]
+    },
+    "Les Porte-Malheurs": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 109000
+            }
+        ]
+    },
+    "Cercle de la mort": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 2000000
+            }
+        ]
+    },
+    "Bottes indestructibles": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 119000
+            }
+        ]
+    },
+    "Ceinture du Dieu Ecaflip": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 12000
+            }
+        ]
+    },
+    "Epaulettes de l'oiseau vermillon": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 30000
+            }
+        ]
+    },
+    "Pantoufles Bleues": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 50000
+            }
+        ]
+    },
+    "Les Grôles Asse": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 595000
+            }
+        ]
+    },
+    "Amulette Excrue": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 298000
+            }
+        ]
+    },
+    "La Capplosive": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 4000
+            }
+        ]
+    },
+    "Casque Hazieff": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 720000
+            }
+        ]
+    },
+    "Cartes d'Hush": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 844444
+            }
+        ]
+    },
+    "Capuche de Victus": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 99666
+            }
+        ]
+    },
+    "Pom d'or des Esprits Ridés": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 42000
+            }
+        ]
+    },
+    "Bottes Botbodek": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 28000
+            }
+        ]
+    },
+    "Casque de l'Ecaflip de Foudre": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 15000
+            }
+        ]
+    },
+    "Coiffetière": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 420000
+            }
+        ]
+    },
+    "Rapière Viktorieuse": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 20000
+            }
+        ]
+    },
+    "Kimono du Srameureux": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 180000
+            }
+        ]
+    },
+    "Anneau de Mummra": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 118998
+            }
+        ]
+    },
+    "Chevalierre": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 59900
+            }
+        ]
+    },
+    "Gants Roissingue": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 1898995
+            }
+        ]
+    },
+    "Anna Bottes": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 278871
+            }
+        ]
+    },
+    "Cape de l'éternel second": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 200000
+            }
+        ]
+    },
+    "Anneau Rozan": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 534996
+            }
+        ]
+    },
+    "L'Orture": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 215550
+            }
+        ]
+    },
+    "Plastron du Patron": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 45000
+            }
+        ]
+    },
+    "Claymore de Fhenris": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 93000
+            }
+        ]
+    },
+    "Casque de Rezak": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 128000
+            }
+        ]
     }
 }
