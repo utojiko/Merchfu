@@ -133,7 +133,7 @@ table {
 .info-item-container {
     visibility: hidden;
     position: fixed;
-    top: 10%;
+    top: 5%;
     left: calc(20% - 50px);
     width: 60%;
     padding: 50px;
@@ -149,9 +149,9 @@ table {
 }
 
 .info-item-container .close {
-    position: absolute;
-    top: 2px;
-    right: 8px;
+    position: fixed;
+    top: 6%;
+    right: calc(20% - 50px + 15px);
     color: white;
     font-size: 30px;
     cursor: pointer;

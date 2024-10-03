@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
         fetch('./data/itemTypes.json').then(response => response.json())
     ])
     .then(([itemsData, itemTypesData]) => {
-        listItems(itemsData);
+        // listItems(itemsData);
         const tableBody = document.getElementById('tbody-data-items');
         Object.keys(itemsData).forEach(key => {
             const item = itemsData[key];
@@ -181,7 +181,6 @@ document.addEventListener("DOMContentLoaded", function () {
                     const formattedItemDate = formatDate(item.date);
                     dates.push(item.date);
                     values.push(item.value);
-                    console.log("item.date" + item.date)
                     infoItemTbody.innerHTML += `
                         <tr>
                             <td>${index + 1}</td>
