@@ -100,6 +100,12 @@ document.addEventListener("DOMContentLoaded", function () {
                         return order * (aValue - bValue);
                     }
 
+                    // Si la colonne est "progression", comparez les valeurs de pourcentage
+                    if (column === 'progression') {
+                        const aValue = parseFloat(aText.replace('%', '').replace('+', '').replace('-', '-'));
+                        const bValue = parseFloat(bText.replace('%', '').replace('+', '').replace('-', '-'));
+                        return order * (aValue - bValue);
+                    }
                     const aValue = aText.replace(/\s/g, '');
                     const bValue = bText.replace(/\s/g, '');
 
