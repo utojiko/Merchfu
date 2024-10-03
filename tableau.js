@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
         fetch('./data/itemTypes.json').then(response => response.json())
     ])
     .then(([itemsData, itemTypesData]) => {
+        listItems(itemsData);
         const tableBody = document.getElementById('tbody-data-items');
         Object.keys(itemsData).forEach(key => {
             const item = itemsData[key];
@@ -155,6 +156,8 @@ document.addEventListener("DOMContentLoaded", function () {
         const tableCells = document.querySelectorAll('#tbody-data-items tr .augmentationPrix, #tbody-data-items tr .diminutionPrix');
         const titleInfo = document.getElementById('title-info');
 
+        const priceChartCanvas = document.getElementById('priceChart');
+        let priceChart;
         tableCells.forEach(cell => {
             cell.addEventListener('click', () => {
                 const infoItemContainer = document.querySelector('.info-item-container');
@@ -170,22 +173,64 @@ document.addEventListener("DOMContentLoaded", function () {
                 const nomItemClic = cells[1].textContent;
                 const prixClic = cells[2].textContent;
                 infoItemTbody.innerHTML = "";
-
                 titleInfo.textContent = nomItemClic;
-                console.log(Object.values(itemsData[nomItemClic].price))
+                const dates = [];
+                const values = [];
                 Object.values(itemsData[nomItemClic].price).forEach((item, index) => {
-                    console.log(item.date);
+                    const formattedValue = item.value.toLocaleString('fr-FR');
+                    const formattedItemDate = formatDate(item.date);
+                    dates.push(item.date);
+                    values.push(item.value);
+                    console.log("item.date" + item.date)
                     infoItemTbody.innerHTML += `
-                    <tr>
-                        <td>${index+1}</td>
-                        <td>${formatDate(item.date)}</td>
-                        <td>${item.value.toLocaleString('fr-FR')}</td>
-                    </tr>
-                `;
+                        <tr>
+                            <td>${index + 1}</td>
+                            <td>${formattedItemDate}</td>
+                            <td>${formattedValue}</td>
+                        </tr>
+                    `;
                 });
 
-                // Mettre à jour le contenu du tbody avec les informations
-                
+                if (priceChart) {
+                    priceChart.destroy(); // Détruire le graphique précédent s'il existe
+                }
+                priceChart = new Chart(priceChartCanvas, {
+                    type: 'line',
+                    data: {
+                        labels: dates,
+                        datasets: [{
+                            label: 'Prix',
+                            data: values,
+                            borderColor: 'rgba(75, 192, 192, 1)',
+                            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                            borderWidth: 2
+                        }]
+                    },
+                    options: {
+                        scales: {
+                            x: {
+                                type: 'time',
+                                time: {
+                                    unit: 'day',
+                                    tooltipFormat: 'yyyy-MM-dd',
+                                    displayFormats: {
+                                        day: 'dd MMM yyyy'
+                                    }
+                                },
+                                title: {
+                                    display: true,
+                                    text: 'Date'
+                                }
+                            },
+                            y: {
+                                title: {
+                                    display: true,
+                                    text: 'Prix'
+                                }
+                            }
+                        }
+                    }
+                });
             });
         });
 
@@ -212,4 +257,11 @@ function formatDate(dateString) {
     const day = parseInt(dateParts[2], 10);
 
     return `${day} ${month} ${year}`;
+}
+
+function listItems(data) {
+    const itemNames = Object.keys(data);
+    itemNames.forEach(item => {
+        console.log(item);
+    });
 }

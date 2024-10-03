@@ -1,2084 +1,2264 @@
 {
     "Pierre à kamas": {
         "type": "kamas",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-29",
                 "value": 2180000
             }
-        }
+        ]
     },
     "Caissette d'aventurier": {
         "type": "sac",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 1300000
             }
-        }
+        ]
     },
     "Diamant poli": {
         "type": "metier",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 42900
             }
-        }
+        ]
     },
     "Fragment de Rune Stasis": {
         "type": "pierre",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-05",
                 "value": 60000
             },
-            "2": {
+            {
                 "date": "2024-09-30",
                 "value": 78999
             },
-            "3": {
+            {
                 "date": "2024-10-02",
                 "value": 68000
             }
-        }
+        ]
     },
     "Pierre d'aventure": {
         "type": "pierre",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 9493995
             }
-        }
+        ]
     },
     "Pierre ultime": {
         "type": "pierre",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 9800000
             }
-        }
+        ]
     },
     "Cape bananagrume": {
         "type": "cape",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 37000
             }
-        }
+        ]
     },
     "Influence III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 3885000
             }
-        }
+        ]
     },
     "Influence II": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 659997
             }
-        }
+        ]
     },
     "Sanguinolence III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 8000000
             }
-        }
+        ]
     },
     "Sanguinolence II": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 2000000
             }
-        }
+        ]
     },
     "Plan \"Epée de Sufokia\"": {
         "type": "plan",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 1000000
             }
-        }
+        ]
     },
     "Empressement": {
         "type": "subli_relique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 19000000
             }
-        }
+        ]
     },
     "Élémentalisme": {
         "type": "subli_epique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 17377000
             }
-        }
+        ]
     },
     "Bourse de Sublimation épique et relique": {
         "type": "divers",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 6200000
             }
-        }
+        ]
     },
     "Force vitale": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 4000000
             }
-        }
+        ]
     },
     "Influence vitale III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 9950000
             }
-        }
+        ]
     },
     "Cicatrisation III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 2200000
             }
-        }
+        ]
     },
     "Embuscade III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 2900000
             }
-        }
+        ]
     },
     "Profit II": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 4400000
             }
-        }
+        ]
     },
     "Ravage III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 4000000
             }
-        }
+        ]
     },
     "Visibilité I": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 1960000
             }
-        }
+        ]
     },
     "Visibilité II": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 5000000
             }
-        }
+        ]
     },
     "Vélocité I": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 1000000
             }
-        }
+        ]
     },
     "Vélocité II": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 1800000
             }
-        }
+        ]
     },
     "Brutalité": {
         "type": "subli_epique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 14000000
             }
-        }
+        ]
     },
     "Engagement": {
         "type": "subli_epique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 13000000
             }
-        }
+        ]
     },
     "Abnégation": {
         "type": "subli_epique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 13000000
             }
-        }
+        ]
     },
     "Concentration élémentaire": {
         "type": "subli_epique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 12500000
             }
-        }
+        ]
     },
     "Distribution": {
         "type": "subli_relique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 12000000
             }
-        }
+        ]
     },
     "Alternance": {
         "type": "subli_relique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 11000000
             }
-        }
+        ]
     },
     "Sentinelle": {
         "type": "subli_relique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 11000000
             }
-        }
+        ]
     },
     "Anatomie": {
         "type": "subli_epique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 10200000
             }
-        }
+        ]
     },
     "Hypermétrope": {
         "type": "subli_relique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 10000000
             }
-        }
+        ]
     },
     "Aura de flamme": {
         "type": "subli_relique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 10000000
             }
-        }
+        ]
     },
     "Par-delà la barrière": {
         "type": "subli_relique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 9900000
             }
-        }
+        ]
     },
     "Mesure": {
         "type": "subli_epique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 9500000
             }
-        }
+        ]
     },
     "Constance": {
         "type": "subli_epique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 9220000
             }
-        }
+        ]
     },
     "Brasero": {
         "type": "subli_relique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 9000000
             }
-        }
+        ]
     },
     "Dénouement": {
         "type": "subli_relique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 8400000
             }
-        }
+        ]
     },
     "Stasification": {
         "type": "subli_relique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 8400000
             }
-        }
+        ]
     },
     "Neutralité III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 8300000
             }
-        }
+        ]
     },
     "Dérobade continue III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 8000000
             }
-        }
+        ]
     },
     "Ambition III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 8000000
             }
-        }
+        ]
     },
     "Maniement : Dague": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 8000000
             }
-        }
+        ]
     },
     "Constance II": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 8000000
             }
-        }
+        ]
     },
     "Barbe de Rushu": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 365000
             },
-            "2": {
+            {
                 "date": "2024-10-02",
                 "value": 495000
             }
-        }
+        ]
     },
     "Poils d'Ogrest": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 55000
             }
-        }
+        ]
     },
     "Fragment d'armure d'Anathar": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 75000
             }
-        }
+        ]
     },
     "Potion excarnée": {
         "type": "cle",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 60000
             }
-        }
+        ]
     },
     "Dora Marabouf": {
         "type": "casque",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 38000
             }
-        }
+        ]
     },
     "Clef d'intervention d'Aguabrial": {
         "type": "cle",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 250000
             }
-        }
+        ]
     },
     "Clef d'intervention d'Anathar": {
         "type": "cle",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 288000
             }
-        }
+        ]
     },
     "Clef d'intervention de Cire Momore": {
         "type": "cle",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 500000
             }
-        }
+        ]
     },
     "Pleine Lune": {
         "type": "cle",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 74000
             }
-        }
+        ]
     },
     "Clef de l'Antre du Boufrog": {
         "type": "cle",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 76700
             }
-        }
+        ]
     },
     "Symbole de l'Antre du Corbeau noir": {
         "type": "cle",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 23489
             }
-        }
+        ]
     },
     "Brûlure III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 2176000
             }
-        }
+        ]
     },
     "Emblème de l'impur V": {
         "type": "embleme",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 22500000
             }
-        }
+        ]
     },
     "Emblème de l'impur III": {
         "type": "embleme",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 19920000
             }
-        }
+        ]
     },
     "Coiffeuse mortelle": {
         "type": "dague",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 4000000
             }
-        }
+        ]
     },
     "Lunatique": {
         "type": "subli_relique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 8000000
             }
-        }
+        ]
     },
     "Mesure III": {
         "type": "subli_epique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 7000000
             }
-        }
+        ]
     },
     "Inflexibilité": {
         "type": "subli_epique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 6900000
             }
-        }
+        ]
     },
     "Puissance brute III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 6600000
             }
-        }
+        ]
     },
     "Dévastation III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 6500000
             }
-        }
+        ]
     },
     "Force légère III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 6000000
             }
-        }
+        ]
     },
     "Agilité vitale": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 6000000
             }
-        }
+        ]
     },
     "Force Herculéenne": {
         "type": "subli_epique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 5850000
             }
-        }
+        ]
     },
     "Stupéfaction II": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 5800000
             }
-        }
+        ]
     },
     "Mesure II": {
         "type": "subli_epique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 5800000
             }
-        }
+        ]
     },
     "Volonté de fer": {
         "type": "subli_epique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 5675000
             }
-        }
+        ]
     },
     "Maniement : Deux mains": {
         "type": "subli_epique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 5500000
             }
-        }
+        ]
     },
     "Énergie ancestrale": {
         "type": "subli_relique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 5500000
             }
-        }
+        ]
     },
     "Intégrité II": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 3500000
             }
-        }
+        ]
     },
     "Valeur ajoutée III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 2880000
             }
-        }
+        ]
     },
     "Tolérance II": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 2688000
             }
-        }
+        ]
     },
     "Influence lente III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 2539000
             }
-        }
+        ]
     },
     "Ruine Cyclique II": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 2450000
             }
-        }
+        ]
     },
     "Retour PA": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 2300000
             }
-        }
+        ]
     },
     "Ruine III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 2300000
             }
-        }
+        ]
     },
     "Prétention III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 2200000
             }
-        }
+        ]
     },
     "Poids Plume III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 2180000
             }
-        }
+        ]
     },
     "Enveloppe rocheuse III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 2000000
             }
-        }
+        ]
     },
     "Armure lourde II": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 1950000
             }
-        }
+        ]
     },
     "Destruction III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 1890000
             }
-        }
+        ]
     },
     "Puissance brute II": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 1780000
             }
-        }
+        ]
     },
     "Carnage III": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 1124000
             }
-        }
+        ]
     },
     "Brise": {
         "type": "subli_relique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-30",
                 "value": 1000000
             }
-        }
+        ]
     },
     "Larmes d'Ogrest": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-05",
                 "value": 1180
             },
-            "2": {
+            {
                 "date": "2024-10-02",
                 "value": 977
             }
-        }
+        ]
     },
     "Poudre": {
         "type": "divers",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-05",
                 "value": 51
             },
-            "2": {
+            {
                 "date": "2024-10-02",
                 "value": 44
             }
-        }
+        ]
     },
     "Éclat": {
         "type": "subli",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-05",
                 "value": 55
             },
-            "2": {
+            {
                 "date": "2024-10-02",
                 "value": 45
             }
-        }
+        ]
     },
     "Etoffe de Fléopard": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-05",
                 "value": 7900
             },
-            "2": {
+            {
                 "date": "2024-10-02",
                 "value": 14398
             }
-        }
+        ]
     },
     "Griffe de Blérox": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 15899
             }
-        }
+        ]
     },
     "Œil de Blérox": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 28000
             }
-        }
+        ]
     },
     "Mouchards de Démentia": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-01",
                 "value": 27777
             },
-            "2": {
+            {
                 "date": "2024-10-02",
                 "value": 22220
             }
-        }
+        ]
     },
     "Crochets aquatiques": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-05",
                 "value": 149000
             },
-            "2": {
+            {
                 "date": "2024-10-02",
                 "value": 117999
             }
-        }
+        ]
     },
     "Cape Iraterie": {
         "type": "cape",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 5890000
             }
-        }
+        ]
     },
     "Potion de Butin": {
         "type": "conso",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 198000
             }
-        }
+        ]
     },
     "Sioupère-Glou Infernale": {
         "type": "sioupere",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 1196
             }
-        }
+        ]
     },
     "Havre-Gemme de Jardin": {
         "type": "havre_gemme",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 3698
             }
-        }
+        ]
     },
     "Plume de Serre d'Acier": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-01",
                 "value": 174895
             },
-            "2": {
+            {
                 "date": "2024-10-02",
                 "value": 210000
             }
-        }
+        ]
     },
     "Scalp de Soiffard": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 20000
             }
-        }
+        ]
     },
     "Fragment nécromique": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-05",
                 "value": 1800
             },
-            "2": {
+            {
                 "date": "2024-10-02",
                 "value": 839
             }
-        }
+        ]
     },
     "Pierre nécromique": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-09-05",
                 "value": 35000
             },
-            "2": {
+            {
                 "date": "2024-10-02",
                 "value": 14198
             }
-        }
+        ]
     },
     "Soupe de Champignons": {
         "type": "conso",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 39900
             }
-        }
+        ]
     },
     "Egreu-Visse à l'Escamèche": {
         "type": "conso",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 22900
             }
-        }
+        ]
     },
     "Fricassée de Corbec à la Kroapule": {
         "type": "conso",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 3194
             }
-        }
+        ]
     },
     "Dague Marabouteuse": {
         "type": "dague",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 33333
             }
-        }
+        ]
     },
     "Bas-Ventre d'Ésrevni": {
         "type": "ceinture",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 1500000
             }
-        }
+        ]
     },
     "Fragment de clef Phytomorphe": {
         "type": "cle",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 40000
             }
-        }
+        ]
     },
     "Fragment de clef Vidéant": {
         "type": "cle",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 380000
             }
-        }
+        ]
     },
     "Fragment de clef Démhorrible": {
         "type": "cle",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 400000
             }
-        }
+        ]
     },
     "Fragment de clef Égaré": {
         "type": "cle",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 118949
             }
-        }
+        ]
     },
     "Fragment de clef Ravageur": {
         "type": "cle",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 288885
             }
-        }
+        ]
     },
     "Main de Phytomorphe": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 288885
             }
-        }
+        ]
     },
     "Solerets d'Excarnus": {
         "type": "bottes",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 19448
             }
-        }
+        ]
     },
     "Voile d'Excarnus": {
         "type": "cape",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 49999
             }
-        }
+        ]
     },
     "Toison d'Excarnus": {
         "type": "plastron",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 10497
             }
-        }
+        ]
     },
     "Galons d'Excarnus": {
         "type": "epaulettes",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 49495
             }
-        }
+        ]
     },
     "Fragment de Porte-Clef doré": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 3900
             }
-        }
+        ]
     },
-    "Fragment de bouclier Ventaille": {
+    "Fragment de Bouclier Ventaille": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 10994
             }
-        }
+        ]
     },
     "Fragment de Bottes de Kovak": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 3300
             }
-        }
+        ]
     },
     "Fragment de Mark VII": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 4342
             }
-        }
+        ]
     },
-    "Fragment de Casque du guerrier Zoth": {
+    "Fragment de Casque du Guerrier Zoth": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 8999
             }
-        }
+        ]
     },
     "Fragment de Sulik": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 46699
             }
-        }
+        ]
     },
     "Fragment de Sangles Sanglantes": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 5700
             }
-        }
+        ]
     },
     "Fragment de Bottes de Poursuite": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 6100
             }
-        }
+        ]
     },
     "Fragment de Ceinture de Ghast": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 44000
             }
-        }
+        ]
     },
     "Fragment de Cape Erforée": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 19995
             }
-        }
+        ]
     },
     "Fragment de Manteau du Roi-Sorcier": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 11999
             }
-        }
+        ]
     },
     "Fragment d'Epaulettes de lichen": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 9796
             }
-        }
+        ]
     },
     "Fragment de Coques Luche": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 4000
             }
-        }
+        ]
     },
     "Fragment de Ceinture frrrrite": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 2100
             }
-        }
+        ]
     },
     "Fragment d'Ortiz'": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 5000
             }
-        }
+        ]
     },
     "Fragment d'Épée du Chevalier de Glace": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 599
             }
-        }
+        ]
     },
     "Fragment de Cape de Charon": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 2498
             }
-        }
+        ]
     },
     "Fragment de Mangelâme": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 1800
             }
-        }
+        ]
     },
     "Fragment de Collier de Lolzewolf": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 3880
             }
-        }
+        ]
     },
     "Fragment de Bottes de Jr.": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 15000
             }
-        }
+        ]
     },
     "Fragment de Dernier anneau": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 19799
             }
-        }
+        ]
     },
     "Fragment de Coiffe du Chêne Mou": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 3799
             }
-        }
+        ]
     },
     "Fragment d'Epaulettes du Dark Vlad": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 2848
             }
-        }
+        ]
     },
     "Fragment d'Amulette du Mak Assutra": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 4999
             }
-        }
+        ]
     },
     "Fragment de Caphasard": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 6600
             }
-        }
+        ]
     },
     "Fragment de Creux": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 2796
             }
-        }
+        ]
     },
     "Fragment d'Epaulettes STIM": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 7995
             }
-        }
+        ]
     },
     "Fragment de Galons Fred": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 500
             }
-        }
+        ]
     },
     "Fragment de Bouclier du Capitaine Amakna": {
         "type": "frag",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 10900
             }
-        }
+        ]
     },
     "Crin de Tal Kasha": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 450000
             }
-        }
+        ]
     },
     "Fragment d'Ombre": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 355555
             }
-        }
+        ]
     },
     "Drapeau Pirate": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 24358
             }
-        }
+        ]
     },
     "Poil de singe noir": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 16990
             }
-        }
+        ]
     },
     "Carapace du Crustacérébro": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 16990
             }
-        }
+        ]
     },
     "Toile de Chef Riktus": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 13198
             }
-        }
+        ]
     },
     "Enewgie Noiwe": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 13198
             }
-        }
+        ]
     },
     "Pierre de Rubis": {
         "type": "metier",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 13198
             }
-        }
+        ]
     },
     "Serrure béante": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 11999
             }
-        }
+        ]
     },
     "Boîte de Pandore": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 8946
             }
-        }
+        ]
     },
     "Bougie de Cire Momore": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 319000
             }
-        }
+        ]
     },
     "Ecaille de Nogord L'Ezarélé": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 317996
             }
-        }
+        ]
     },
     "Poils de Foul Moon": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 145000
             }
-        }
+        ]
     },
     "Viande de Cagnardeur": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 119997
             }
-        }
+        ]
     },
     "Viande de Crustargneux": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 99997
             }
-        }
+        ]
     },
     "Fragment de Cire Momore": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 96797
             }
-        }
+        ]
     },
     "Main de Démhorrible": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 59988
             }
-        }
+        ]
     },
     "Haut de Forme du Dandy": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 44000
             }
-        }
+        ]
     },
     "Fragment d'armure Hibourg": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 39898
             }
-        }
+        ]
     },
     "Masque de forban": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 39494
             }
-        }
+        ]
     },
     "Reste de Ravageur": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 30888
             }
-        }
+        ]
     },
     "Viande de Carapatte": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 29999
             }
-        }
+        ]
     },
     "Substance de Mort-Brûlé": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 27775
             }
-        }
+        ]
     },
     "Poil Roux": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 25330
             }
-        }
+        ]
     },
     "Braises de Boufrog": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 24990
             }
-        }
+        ]
     },
     "Stalagmama": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 23999
             }
-        }
+        ]
     },
     "Ventre d'Égarés": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 20000
             }
-        }
+        ]
     },
     "Rayon de miel": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 19999
             }
-        }
+        ]
     },
     "Corne de Sir Comte Flex": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 19996
             }
-        }
+        ]
     },
     "Mycélium Royal": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 119997
             }
-        }
+        ]
     },
     "Pointe du Sumorse": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 18885
             }
-        }
+        ]
     },
     "Totem Fléopard": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 18799
             }
-        }
+        ]
     },
     "Gantelet stasifié": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 18000
             }
-        }
+        ]
     },
     "Défenses de Phacochemar": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 17997
             }
-        }
+        ]
     },
     "Essence de Koko Nutt": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 16999
             }
-        }
+        ]
     },
     "Queue de Maman Gerbouille": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 16900
             }
-        }
+        ]
     },
     "Touffe de Tortumulte": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 16499
             }
-        }
+        ]
     },
     "Fragment de totem": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 16499
             }
-        }
+        ]
     },
     "Fragment de Remington": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 16298
             }
-        }
+        ]
     },
     "Queue de Scorpiétineur": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 15500
             }
-        }
+        ]
     },
     "Griffe de Gerbouille": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 14995
             }
-        }
+        ]
     },
     "Racine du mal": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 14499
             }
-        }
+        ]
     },
     "Tentacule de Sangsure": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 13999
             }
-        }
+        ]
     },
     "Cataplasme": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 13990
             }
-        }
+        ]
     },
     "Dent de Poisseux Abyssal": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 13800
             }
-        }
+        ]
     },
     "Tête de requin": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 11998
             }
-        }
+        ]
     },
     "Jus de Potofeu": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 11994
             }
-        }
+        ]
     },
     "Viande de Mansot": {
         "type": "ressource_mob",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 10000
             }
-        }
+        ]
     },
     "Viande de Toundrasoir": {
         "type": "boss",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 9000
             }
-        }
+        ]
     },
     "Viande de Hibourg": {
         "type": "metier",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 3185
             }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
-    },
-    "Viande de Cagnardeur": {
-        "type": "boss",
-        "price": {
-            "1": {
-                "date": "2024-10-02",
-                "value": 119997
-            }
-        }
+        ]
     },
     "Pétillance": {
         "type": "subli_relique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 10500000
             }
-        }
+        ]
     },
     "Face-à-face": {
         "type": "subli_relique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 12000000
             }
-        }
+        ]
     },
     "Contrôle de l'espace II": {
         "type": "subli_epique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 12000000
             }
-        }
+        ]
     },
     "Pétulance": {
         "type": "subli_relique",
-        "price": {
-            "1": {
+        "price": [
+            {
                 "date": "2024-10-02",
                 "value": 15000000
             }
-        }
+        ]
+    },
+    "Pierre d'entourage": {
+        "type": "pierre",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 6280000
+            }
+        ]
+    },
+    "Pierre d'équilibre": {
+        "type": "pierre",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 4900000
+            }
+        ]
+    },
+    "Pierre de vitesse": {
+        "type": "pierre",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 2440000
+            }
+        ]
+    },
+    "Fragment de Solomonk": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 11999
+            }
+        ]
+    },
+    "Fragment de Rog Gerse": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 150000
+            }
+        ]
+    },
+    "Fragment de Lame de Toross": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 80000
+            }
+        ]
+    },
+    "Fragment de Plastron de Sine": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 339
+            }
+        ]
+    },
+    "Fragment de Brouteuse": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 400
+            }
+        ]
+    },
+    "Fragment de Memento Mori": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 449
+            }
+        ]
+    },
+    "Fragment de Drap Conizquezzzzz": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 450
+            }
+        ]
+    },
+    "Fragment du Talisman du Mihmol": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 550
+            }
+        ]
+    },
+    "Fragment de Ceinture Rasboulaire du Rasboul": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 555
+            }
+        ]
+    },
+    "Fragment de Bottes de Koko": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 684
+            }
+        ]
+    },
+    "Fragment de Dagues Réceuses": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 848
+            }
+        ]
+    },
+    "Fragment de Bouclier d'Asse": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 995
+            }
+        ]
+    },
+    "Fragment de Puissance Ceinture Fulgurante": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 1490
+            }
+        ]
+    },
+    "Fragment de Glourséleste": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 1795
+            }
+        ]
+    },
+    "Fragment de Ceinture Chafeuse": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 2220
+            }
+        ]
+    },
+    "Fragment de Kel'Dwaq": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 2279
+            }
+        ]
+    },
+    "Fragment de Bottes Harry": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 3394
+            }
+        ]
+    },
+    "Fragment de Ceinture des Vents": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 3494
+            }
+        ]
+    },
+    "Fragment de Cape Réciable": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 3500
+            }
+        ]
+    },
+    "Fragment de Gelano": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 3786
+            }
+        ]
+    },
+    "Fragment de Porte-Clef Doré": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 3900
+            }
+        ]
+    },
+    "Fragment de Coiffe de Goultard": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 3910
+            }
+        ]
+    },
+    "Fragment de Bottes Cérémoniales du Seigneur des Rats": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 4200
+            }
+        ]
+    },
+    "Fragment de Perruque de Goultard": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 4288
+            }
+        ]
+    },
+    "Fragment de Sceau Fulgurant": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 4298
+            }
+        ]
+    },
+    "Fragment d'Aiguille d'Outre-Temps": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 4990
+            }
+        ]
+    },
+    "Fragment d'Amulette Ementaire Deluxe": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 5486
+            }
+        ]
+    },
+    "Fragment de Dantgoule": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 6000
+            }
+        ]
+    },
+    "Fragment de Coiffe du Koulosse": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 6800
+            }
+        ]
+    },
+    "Fragment de Plastron de Béber": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 7000
+            }
+        ]
+    },
+    "Fragment de Racine de Floribonde": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 7800
+            }
+        ]
+    },
+    "Fragment de Galons d'Orf": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 8000
+            }
+        ]
+    },
+    "Fragment de Veston Beau": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 11111
+            }
+        ]
+    },
+    "Fragment d'Amulette du Mirage": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 13333
+            }
+        ]
+    },
+    "Fragment de Voile d'encre": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 18000
+            }
+        ]
+    },
+    "Fragment de Bottes Répané": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 19000
+            }
+        ]
+    },
+    "Fragment de Poup Korn": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 23839
+            }
+        ]
+    },
+    "Fragment de Cape nō": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 26000
+            }
+        ]
+    },
+    "Fragment de Véritable Ceinture de Puissance": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 33333
+            }
+        ]
+    },
+    "Fragment d'Ougalurette": {
+        "type": "frag",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 44498
+            }
+        ]
     }
 }

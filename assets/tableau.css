@@ -131,18 +131,21 @@ table {
 }
 
 .info-item-container {
-    padding: 50px;
-    color: rgb(194, 194, 194);
     visibility: hidden;
     position: fixed;
+    top: 10%;
     left: calc(20% - 50px);
     width: 60%;
+    padding: 50px;
+    color: rgb(194, 194, 194);
     background-color: rgb(25, 25, 25);
     justify-content: center;
     align-items: center;
-    z-index: 10;
     border-radius: 25px;
     border: 1px solid white;
+    max-height: 90%; /* Définissez une hauteur maximale pour le composant */
+    overflow-y: auto;
+    z-index: 10;
 }
 
 .info-item-container .close {
@@ -167,7 +170,6 @@ table {
     margin-bottom: 50px;
 }
 
-
 #table-info-item {
     width: calc(100% - 50px);
     border-collapse: collapse;
@@ -177,10 +179,21 @@ table {
     border: 1px solid #acacac;
 }
 
+#table-info-item tr th {
+    padding: 15px;
+    font-size: 20px;
+}
+#table-info-item tr td {
+    padding: 8px;
+}
 #tbody-info-items tr:nth-child(odd) {
     z-index: 1;
 }
 
 #tbody-info-items tr:nth-child(even) {
     z-index: 1;
+}
+
+#priceChart {
+    margin-top: 60px;
 }

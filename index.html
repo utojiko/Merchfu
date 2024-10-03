@@ -14,7 +14,8 @@
 </head>
 
 <script defer src="tableau.js"></script>
-
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
 <body>
 
     <div class="sun">
@@ -34,7 +35,6 @@
     <div class="banniere">
         Merchfu
     </div>
-
 
     <div class="ongletRecherche">
         <img defer class="loupe" src="assets/images/loupe.svg" alt="Loupe" />
@@ -70,6 +70,7 @@
                     </tr>
                 </tbody>
             </table>
+        <canvas id="priceChart" width="400" height="200"></canvas>
         </div>
     </div>
     <div class="table-container">
