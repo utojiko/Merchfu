@@ -143,15 +143,16 @@ table {
     align-items: center;
     border-radius: 25px;
     border: 1px solid white;
-    max-height: 90%; /* Définissez une hauteur maximale pour le composant */
+    max-height: 80%; /* Définissez une hauteur maximale pour le composant */
     overflow-y: auto;
     z-index: 10;
+
 }
 
 .info-item-container .close {
     position: fixed;
     top: 6%;
-    right: calc(20% - 50px + 15px);
+    right: calc(20% - 50px + 20px);
     color: white;
     font-size: 30px;
     cursor: pointer;
