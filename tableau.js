@@ -216,6 +216,9 @@ document.addEventListener("DOMContentLoaded", function () {
                                         day: 'dd MMM yyyy'
                                     }
                                 },
+                                grid: {
+                                    color: 'rgba(128, 128, 128, 0.2)'
+                                },
                                 title: {
                                     display: true,
                                     text: 'Date'
@@ -225,6 +228,9 @@ document.addEventListener("DOMContentLoaded", function () {
                                 title: {
                                     display: true,
                                     text: 'Prix'
+                                },
+                                grid: {
+                                    color: 'rgba(128, 128, 128, 0.2)'
                                 }
                             }
                         }
