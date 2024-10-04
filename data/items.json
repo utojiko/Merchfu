@@ -147,7 +147,7 @@
         "price": [
             {
                 "date": "2024-09-30",
-                "value": 4000000
+                "value": 4500000
             }
         ]
     },
@@ -157,6 +157,10 @@
             {
                 "date": "2024-09-30",
                 "value": 9950000
+            },
+            {
+                "date": "2024-10-04",
+                "value": 7000000
             }
         ]
     },
@@ -175,6 +179,10 @@
             {
                 "date": "2024-09-30",
                 "value": 2900000
+            },
+            {
+                "date": "2024-10-04",
+                "value": 3800000
             }
         ]
     },
@@ -211,6 +219,10 @@
             {
                 "date": "2024-09-30",
                 "value": 5000000
+            },
+            {
+                "date": "2024-10-04",
+                "value": 6000000
             }
         ]
     },
@@ -382,6 +394,10 @@
             {
                 "date": "2024-09-30",
                 "value": 8300000
+            },
+            {
+                "date": "2024-10-04",
+                "value": 7000000
             }
         ]
     },
@@ -400,6 +416,10 @@
             {
                 "date": "2024-09-30",
                 "value": 8000000
+            },
+            {
+                "date": "2024-10-04",
+                "value": 7500000
             }
         ]
     },
@@ -592,7 +612,7 @@
         "price": [
             {
                 "date": "2024-09-30",
-                "value": 6600000
+                "value": 6000000
             }
         ]
     },
@@ -620,6 +640,10 @@
             {
                 "date": "2024-09-30",
                 "value": 6000000
+            },
+            {
+                "date": "2024-10-04",
+                "value": 4444444
             }
         ]
     },
@@ -632,7 +656,7 @@
             }
         ]
     },
-    "Stupéfaction II": {
+    "Stupéfaction III": {
         "type": "subli",
         "price": [
             {
@@ -746,6 +770,10 @@
             {
                 "date": "2024-09-30",
                 "value": 2200000
+            },
+            {
+                "date": "2024-09-30",
+                "value": 3750000
             }
         ]
     },
@@ -755,6 +783,10 @@
             {
                 "date": "2024-09-30",
                 "value": 2180000
+            },
+            {
+                "date": "2024-10-04",
+                "value": 9990000
             }
         ]
     },
@@ -773,6 +805,10 @@
             {
                 "date": "2024-09-30",
                 "value": 1950000
+            },
+            {
+                "date": "2024-10-04",
+                "value": 9999999
             }
         ]
     },
@@ -905,6 +941,10 @@
             {
                 "date": "2024-10-02",
                 "value": 117999
+            },
+            {
+                "date": "2024-10-04",
+                "value": 135997
             }
         ]
     },
@@ -1100,8 +1140,9 @@
             }
         ]
     },
-    "Voile d'Excarnus": {
+    "Voile d'Excarnus ": {
         "type": "cape",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-02",
@@ -2261,7 +2302,7 @@
             }
         ]
     },
-    "Lucidator": {
+    "Le Lucidator": {
         "type": "epee",
         "price": [
             {
@@ -3032,6 +3073,2269 @@
             {
                 "date": "2024-10-03",
                 "value": 128000
+            }
+        ]
+    },
+    "Clef de la brèche ultime de la Shukrute": {
+        "type": "cle",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 189994
+            }
+        ]
+    },
+    "Clef de la brèche ultime de Frigost": {
+        "type": "cle",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 13690
+            }
+        ]
+    },
+    "Clef de la brèche ultime du Zinit": {
+        "type": "cle",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 49988
+            }
+        ]
+    },
+    "Coc'Heaume": {
+        "type": "casque",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-03",
+                "value": 2170000
+            }
+        ]
+    },
+    "Le Portail": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 10750000
+            }
+        ]
+    },
+    "Dofushu": {
+        "type": "embleme",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3777777
+            }
+        ]
+    },
+    "Mangelâme": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 368997
+            }
+        ]
+    },
+    "Dofus Ivoire": {
+        "type": "embleme",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 4499999
+            }
+        ]
+    },
+    "Dofus Turquoise": {
+        "type": "embleme",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 6990000
+            }
+        ]
+    },
+    "Epée Eternelle": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 11111111
+            }
+        ]
+    },
+    "Epée de Brâkmar": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 6000000
+            }
+        ]
+    },
+    "Epée de Sufokia": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3949000
+            }
+        ]
+    },
+    "Epée d'Amakna": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2996000
+            }
+        ]
+    },
+    "Epée de Bonta": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3300000
+            }
+        ]
+    },
+    "Colère d'Ogrest": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 6000000
+            }
+        ]
+    },
+    "Epaulettes de Munkeliar": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 22776777
+            }
+        ]
+    },
+    "Cape Hilère": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2879999
+            }
+        ]
+    },
+    "Ceinture de Tot'": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1800000
+            }
+        ]
+    },
+    "Emblème du vil IV": {
+        "type": "embleme",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 19800000
+            }
+        ]
+    },
+    "Costume Cornu": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1800000
+            }
+        ]
+    },
+    "Bottes de Corail": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2500000
+            }
+        ]
+    },
+    "Bandana du Waterfestival": {
+        "type": "embleme",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1000000
+            }
+        ]
+    },
+    "Amulette du Mirage": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3398000
+            }
+        ]
+    },
+    "Colier de Darkli Moon": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1100000
+            }
+        ]
+    },
+    "Sauvegarde": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2888888
+            }
+        ]
+    },
+    "Les Shting": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1111111
+            }
+        ]
+    },
+    "Masque de l'amour": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1400000
+            }
+        ]
+    },
+    "Course du vrai Patriote de Bonta": {
+        "type": "course",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3777777
+            }
+        ]
+    },
+    "Ventillation III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2517990
+            }
+        ]
+    },
+    "Pagne Chan": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1800000
+            }
+        ]
+    },
+    "Chapeau Phorreurs Noirs": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1300000
+            }
+        ]
+    },
+    "Cape héroïque": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2400000
+            }
+        ]
+    },
+    "La Taque": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1300000
+            }
+        ]
+    },
+    "Coiffe Goguenarde": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 4000000
+            }
+        ]
+    },
+    "Les Patères": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3333333
+            }
+        ]
+    },
+    "Ceinture Multe": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1400000
+            }
+        ]
+    },
+    "Sabots Magmog": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "Plastron de Scoubidours": {
+        "type": "plan",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3000000
+            }
+        ]
+    },
+    "Aplomb naturel": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2200000
+            }
+        ]
+    },
+    "Dérobade continue II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2485000
+            }
+        ]
+    },
+    "Dragolyre": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1222222
+            }
+        ]
+    },
+    "Poignard Balète": {
+        "type": "embleme",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 7000000
+            }
+        ]
+    },
+    "Plastron des Ombres": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2299999
+            }
+        ]
+    },
+    "Epaulettes du Corbeau noir maudites": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2080000
+            }
+        ]
+    },
+    "Le Jalm": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Ceinture tentaculaire": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3400000
+            }
+        ]
+    },
+    "Gufet'Heaume": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "La Hissée Haut": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1200000
+            }
+        ]
+    },
+    "Cape de Luk Ylook maudite": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3950000
+            }
+        ]
+    },
+    "Épée des abysses": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Casque du Féca Wabbit": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Soeur d'âme corrompue": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2500000
+            }
+        ]
+    },
+    "Foul de Mêlée": {
+        "type": "embleme",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Plastron du Comte Frigost": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 4000000
+            }
+        ]
+    },
+    "Epaulettes du Comte Frigost": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2800000
+            }
+        ]
+    },
+    "Bottes du Comte Frigost": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1300000
+            }
+        ]
+    },
+    "La Piratine": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1000000
+            }
+        ]
+    },
+    "Epaulettes du Répit": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2800000
+            }
+        ]
+    },
+    "Plastron du Boufrog": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2500000
+            }
+        ]
+    },
+    "Coiffe du Comte Harebourg": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1543990
+            }
+        ]
+    },
+    "Collier Irisé": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2500000
+            }
+        ]
+    },
+    "Les Licots": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1200000
+            }
+        ]
+    },
+    "Bottes de Genki": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 4555555
+            }
+        ]
+    },
+    "Harmonie": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1000000
+            }
+        ]
+    },
+    "La Flouff": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1000000
+            }
+        ]
+    },
+    "Emblème de l'impur IV": {
+        "type": "embleme",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3300000
+            }
+        ]
+    },
+    "Ceinture de Scoubidours": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1400000
+            }
+        ]
+    },
+    "La Em Em": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1250000
+            }
+        ]
+    },
+    "Amulette Erogène": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3500000
+            }
+        ]
+    },
+    "Plastron épicé": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1050000
+            }
+        ]
+    },
+    "Consolation critique III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 4000000
+            }
+        ]
+    },
+    "Les Galonctueux": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3000000
+            }
+        ]
+    },
+    "Rempart Adox": {
+        "type": "bouclier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3150000
+            }
+        ]
+    },
+    "Marteau Ritaine": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1800000
+            }
+        ]
+    },
+    "Volonté direct III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 4000000
+            }
+        ]
+    },
+    "La Recssenette": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1100000
+            }
+        ]
+    },
+    "l'Âme en Peine": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1300000
+            }
+        ]
+    },
+    "Coiffe du Boufcoul": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1800000
+            }
+        ]
+    },
+    "Acribie III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2500000
+            }
+        ]
+    },
+    "Casque oublié": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1200000
+            }
+        ]
+    },
+    "Bottes Ombragées": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1300000
+            }
+        ]
+    },
+    "Cape du Comte Frigost": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1190000
+            }
+        ]
+    },
+    "Cape Rice": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1000000
+            }
+        ]
+    },
+    "L'Attentionnée": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1000000
+            }
+        ]
+    },
+    "Lauriers du Conseiller des Dieux": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 6000000
+            }
+        ]
+    },
+    "Arc Prismatique": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1150000
+            }
+        ]
+    },
+    "Amulette du Yech'Ti'Wawa": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1850000
+            }
+        ]
+    },
+    "Dague Ario": {
+        "type": "dague",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 4190000
+            }
+        ]
+    },
+    "Spalières de Cire Momore": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3490000
+            }
+        ]
+    },
+    "Casque du Commandeur Impérial": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1100000
+            }
+        ]
+    },
+    "Epaulettes STIM": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1000000
+            }
+        ]
+    },
+    "Casque de puissance": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "Cartes séculaires": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 4000000
+            }
+        ]
+    },
+    "Amulette du Zinit": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 4000000
+            }
+        ]
+    },
+    "Anneau du Trouble": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1300000
+            }
+        ]
+    },
+    "L'Hache de Raison": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1900000
+            }
+        ]
+    },
+    "La Poup Korn": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2300000
+            }
+        ]
+    },
+    "Le Fouip": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1200000
+            }
+        ]
+    },
+    "Chapô'tre": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Miniature de Tal Kasha": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 5000000
+            }
+        ]
+    },
+    "Écu de Frêne": {
+        "type": "bouclier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1000000
+            }
+        ]
+    },
+    "Foul de Fourberie": {
+        "type": "embleme",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2400000
+            }
+        ]
+    },
+    "Foul de Violence": {
+        "type": "embleme",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1200000
+            }
+        ]
+    },
+    "Amulette du Paul Sonh": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "Amû Makil": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1250000
+            }
+        ]
+    },
+    "Peluche de Toross Mordal": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Le Seum": {
+        "type": "dague",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3000000
+            }
+        ]
+    },
+    "Bottes du Comte Harebourg": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1190000
+            }
+        ]
+    },
+    "Les Bhottin": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1111111
+            }
+        ]
+    },
+    "Bottes de Jr.": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3000000
+            }
+        ]
+    },
+    "L'Aighuileuse": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1150000
+            }
+        ]
+    },
+    "Le Feldspath": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1111111
+            }
+        ]
+    },
+    "Emblème du Mont Zinit II": {
+        "type": "embleme",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 7500000
+            }
+        ]
+    },
+    "Emblème du Mont Zinit IV": {
+        "type": "embleme",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3800000
+            }
+        ]
+    },
+    "Anneau Prismatique": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1570420
+            }
+        ]
+    },
+    "Dora N.I.O.": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 5490000
+            }
+        ]
+    },
+    "Ecailles de lune III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2380000
+            }
+        ]
+    },
+    "Crape d'Or": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1150000
+            }
+        ]
+    },
+    "Casque Tout Terrain": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1300000
+            }
+        ]
+    },
+    "La Peau Thicaire": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Casque du Corbeau Noir": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1900000
+            }
+        ]
+    },
+    "Bouclier Pompon": {
+        "type": "bouclier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1850000
+            }
+        ]
+    },
+    "La Kling": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1111111
+            }
+        ]
+    },
+    "Tabass'Carapace III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "L'Epée Nald": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2100000
+            }
+        ]
+    },
+    "Evasion III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Jamall'Couvert": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2200000
+            }
+        ]
+    },
+    "Oeuf Shamanique": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1200000
+            }
+        ]
+    },
+    "Tellurisme secondaire III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "Plan \"Col en Ivoire\" ": {
+        "type": "plan",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1246000
+            }
+        ]
+    },
+    "Grande lame séculaire": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Emblème de l'impur II": {
+        "type": "embleme",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1980000
+            }
+        ]
+    },
+    "Plastron du Comte Harebourg": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1250000
+            }
+        ]
+    },
+    "Parade Berserk III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "Bottes Empourmoi": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2390000
+            }
+        ]
+    },
+    "Poignard des Âmes": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 100000
+            }
+        ]
+    },
+    "Bouclier critique III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1490000
+            }
+        ]
+    },
+    "Cape Suspecte": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1000000
+            }
+        ]
+    },
+    "Ceinturon Brrrr": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3440000
+            }
+        ]
+    },
+    "Lame de Toross": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2222222
+            }
+        ]
+    },
+    "Spalières du Corbeau Blanc": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1400000
+            }
+        ]
+    },
+    "Emblème du Mont Zinit I": {
+        "type": "embleme",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 4222222
+            }
+        ]
+    },
+    "Poil aux pattes": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "Coc'Heaume ": {
+        "type": "casque",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 4000000
+            }
+        ]
+    },
+    "Les Mailles Har corrompues": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 4333333
+            }
+        ]
+    },
+    "Le Kraignosse corrompu": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1975000
+            }
+        ]
+    },
+    "Conservation III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2800000
+            }
+        ]
+    },
+    "Voile d'Excarnus": {
+        "type": "cape",
+        "info": "souvenir",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1000000
+            }
+        ]
+    },
+    "Plastron de Sylargh": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1850000
+            }
+        ]
+    },
+    "Anneau Stalgie": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2500000
+            }
+        ]
+    },
+    "L'Aighuilée": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "Carapace Thèque": {
+        "type": "bouclier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1460000
+            }
+        ]
+    },
+    "La Tique": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1200000
+            }
+        ]
+    },
+    "Masque Corrompu": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Chapeau Lémique": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1700000
+            }
+        ]
+    },
+    "Heaume de Précision": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2500000
+            }
+        ]
+    },
+    "Epée Riktus en Bois": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1400000
+            }
+        ]
+    },
+    "Folie III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2488999
+            }
+        ]
+    },
+    "Dora bleu nuit": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "Amulette de l'Effroi": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Scie Kiotamm": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1250000
+            }
+        ]
+    },
+    "Bague Fléopard": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1250000
+            }
+        ]
+    },
+    "Bague Logue": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "La réglette": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1800000
+            }
+        ]
+    },
+    "Les Revenantes": {
+        "type": "dague",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3500000
+            }
+        ]
+    },
+    "Sangle Uten": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1145000
+            }
+        ]
+    },
+    "Ceinture de Gris XIII": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 4552200
+            }
+        ]
+    },
+    "L'Erréotype": {
+        "type": "dague",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1177666
+            }
+        ]
+    },
+    "Cape Scisse": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1100000
+            }
+        ]
+    },
+    "Epaulettes Piquantes": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1200000
+            }
+        ]
+    },
+    "Caperpétuelle corrompue": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2490000
+            }
+        ]
+    },
+    "Cartes du Monde": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1448000
+            }
+        ]
+    },
+    "Les Ombres des âmes voilées corrompues": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2999888
+            }
+        ]
+    },
+    "Tatsus Shushu": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3999988
+            }
+        ]
+    },
+    "Bandeau Vagabond": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1178998
+            }
+        ]
+    },
+    "Annœil": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1398000
+            }
+        ]
+    },
+    "Plastron de Stork": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1796000
+            }
+        ]
+    },
+    "Liste de courses": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3000000
+            }
+        ]
+    },
+    "Scalp de Blérox": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "Manteau du Roi-Sorcier": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1350000
+            }
+        ]
+    },
+    "Baudrier de l'Artificier Impérial": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1000000
+            }
+        ]
+    },
+    "Pelle séculaire": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1399999
+            }
+        ]
+    },
+    "Cape nō": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3200000
+            }
+        ]
+    },
+    "Cape Hilare": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 5000000
+            }
+        ]
+    },
+    "Plastron du Démineur": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1350000
+            }
+        ]
+    },
+    "Ceintrophée": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1888888
+            }
+        ]
+    },
+    "La Lavemulette": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1089994
+            }
+        ]
+    },
+    "Représailles III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3333333
+            }
+        ]
+    },
+    "Dernier anneau": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1777777
+            }
+        ]
+    },
+    "Chemisier ouvert": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1950000
+            }
+        ]
+    },
+    "Cape Gennial": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3498000
+            }
+        ]
+    },
+    "Cape du Boufcoul": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2100000
+            }
+        ]
+    },
+    "Yugonettes": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1200000
+            }
+        ]
+    },
+    "Epaulettes Tylique": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 5555553
+            }
+        ]
+    },
+    "Tronchoneuse": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "Sprécieux": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1738996
+            }
+        ]
+    },
+    "Epaulettes de la Justice": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 4000000
+            }
+        ]
+    },
+    "Emblème sablonneux": {
+        "type": "embleme",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3000000
+            }
+        ]
+    },
+    "Bottes Répanés": {
+        "type": "bottes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1700000
+            }
+        ]
+    },
+    "Coques Luche": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1111100
+            }
+        ]
+    },
+    "Bouclier Ventaille": {
+        "type": "bouclier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Emblème du Mont Zinit III": {
+        "type": "embleme",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 5995000
+            }
+        ]
+    },
+    "Mark VII": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1000000
+            }
+        ]
+    },
+    "Cape Erforée": {
+        "type": "cape",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "Temporisation III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 4000000
+            }
+        ]
+    },
+    "Memento Mori": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 2548997
+            }
+        ]
+    },
+    "Contre-attaque III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 1800000
+            }
+        ]
+    },
+    "Les Crox": {
+        "type": "epee",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 8000000
+            }
+        ]
+    },
+    "Trophée de !@#dh`~": {
+        "type": "boss",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 20000
+            }
+        ]
+    },
+    "Bock de lait de bambou fermenté": {
+        "type": "ressource_mob",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 11000
+            }
+        ]
+    },
+    "Morceau de Soiffard": {
+        "type": "ressource_mob",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 10002
+            }
+        ]
+    },
+    "Œuf de Mansot": {
+        "type": "ressource_mob",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 9699
+            }
+        ]
+    },
+    "Queue de Drapinoch": {
+        "type": "ressource_mob",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 8978
+            }
+        ]
+    },
+    "Phytomate": {
+        "type": "ressource_mob",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 8900
+            }
+        ]
+    },
+    "Minerai de Plomb Lumière": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 44000
+            }
+        ]
+    },
+    "Carbone Hara": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 32494
+            }
+        ]
+    },
+    "Boix d'If Surnaturel": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 24379
+            }
+        ]
+    },
+    "Boix de Pouplier Sacri-sain": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 19899
+            }
+        ]
+    },
+    "Bois de Têtard Butor": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 19446
+            }
+        ]
+    },
+    "Chou-chou Géant": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 17899
+            }
+        ]
+    },
+    "Bois Uiouqes": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 17896
+            }
+        ]
+    },
+    "Feuille d'Ortie ensanglantée": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 16500
+            }
+        ]
+    },
+    "Minerai de Fer Cristallin": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 16000
+            }
+        ]
+    },
+    "Poisson Pané Réincarné": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 14990
+            }
+        ]
+    },
+    "Bois de Sakoura": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 14895
+            }
+        ]
+    },
+    "Flocon immortel": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 14469
+            }
+        ]
+    },
+    "Minerai de Mythwil Somptueux": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 13890
+            }
+        ]
+    },
+    "Maniok doux": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 13500
+            }
+        ]
+    },
+    "Fleur Sentimentale": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 12749
+            }
+        ]
+    },
+    "Astre de la nuit": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 12490
+            }
+        ]
+    },
+    "Lianecdote": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 12218
+            }
+        ]
+    },
+    "Bauxit Impérial": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 11996
+            }
+        ]
+    },
+    "Chardon Juan": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 11994
+            }
+        ]
+    },
+    "Tournesol Ancestral": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 11899
+            }
+        ]
+    },
+    "Clou-Bas": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 11890
+            }
+        ]
+    },
+    "Croton Malté": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 11499
+            }
+        ]
+    },
+    "Chardon Chatoyant": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 11399
+            }
+        ]
+    },
+    "Titan Véritable": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 10999
+            }
+        ]
+    },
+    "Bois d'exception": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 10994
+            }
+        ]
+    },
+    "Bois de Myscandelle Fortifié": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 10793
+            }
+        ]
+    },
+    "Palme d'Or": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 9998
+            }
+        ]
+    },
+    "Piment du Chaos": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 9997
+            }
+        ]
+    },
+    "Kokos Nucifera": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 9997
+            }
+        ]
+    },
+    "Pied de Boufton Séché": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 9995
+            }
+        ]
+    },
+    "Pur Arabraca": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 9990
+            }
+        ]
+    },
+    "Moumousse Aka": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 9987
+            }
+        ]
+    },
+    "Minerai d'Onyx": {
+        "type": "metier",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 9979
+            }
+        ]
+    },
+    "Carapace II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 4585000
+            }
+        ]
+    },
+    "Persistance II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3800000
+            }
+        ]
+    },
+    "Expert des Parades II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3800000
+            }
+        ]
+    },
+    "Vivacité II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 3080000
             }
         ]
     }

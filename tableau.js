@@ -1,3 +1,5 @@
+
+
 document.addEventListener("DOMContentLoaded", function () {
     Promise.all([
         fetch('./data/items.json').then(response => response.json()),
@@ -35,10 +37,14 @@ document.addEventListener("DOMContentLoaded", function () {
 
             const className = pourcentage > 0 ? "diminutionPrix" : "augmentationPrix";
             const row = document.createElement('tr');
-            row.id = key
+            row.id = key;
+            let nom = key;
+            if (item && item.info) {
+                nom = key + " (" + item.info + ")";
+            }
             row.innerHTML = `
                 <td><img src="${itemTypesData[item.type]}" alt="${item.type}" /></td>
-                <td>${key}</td>
+                <td>${nom}</td>
                 <td>${lastPrice.toLocaleString('fr-FR')} </td>
                 <td>${lastPriceDateDiff}</td>
                 <td>${moyenne_prix.toLocaleString('fr-FR')}</td>
@@ -286,7 +292,9 @@ function formatDate(dateString) {
 
 function listItems(data) {
     const itemNames = Object.keys(data);
+    sRet = "";
     itemNames.forEach(item => {
-        console.log(item);
+        sRet += item + "\n";
     });
+    console.log(sRet);
 }
