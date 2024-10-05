@@ -251,5 +251,5 @@ body {
 }
 
 #array-container {
-    visibility: hidden;
+    display: none;
 }

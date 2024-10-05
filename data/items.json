@@ -358,6 +358,10 @@
             {
                 "date": "2024-09-30",
                 "value": 9220000
+            },
+            {
+                "date": "2024-10-05",
+                "value": 6500000
             }
         ]
     },
@@ -781,10 +785,6 @@
         "type": "subli",
         "price": [
             {
-                "date": "2024-09-30",
-                "value": 2180000
-            },
-            {
                 "date": "2024-10-04",
                 "value": 9990000
             }
@@ -805,10 +805,6 @@
             {
                 "date": "2024-09-30",
                 "value": 1950000
-            },
-            {
-                "date": "2024-10-04",
-                "value": 9999999
             }
         ]
     },
@@ -5336,6 +5332,1311 @@
             {
                 "date": "2024-10-04",
                 "value": 3080000
+            }
+        ]
+    },
+    "Contrôle du temps": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 9999998
+            }
+        ]
+    },
+    "Confiance": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 8500000
+            }
+        ]
+    },
+    "Alternance II": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 7950000
+            }
+        ]
+    },
+    "Calibrage II": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 7000000
+            }
+        ]
+    },
+    "Inflexibilité II": {
+        "type": "subli_epique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 6700000
+            }
+        ]
+    },
+    "Pilier II": {
+        "type": "subli_epique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 6500000
+            }
+        ]
+    },
+    "Chaos": {
+        "type": "subli_epique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 6000000
+            }
+        ]
+    },
+    "Garde levée": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 5900000
+            }
+        ]
+    },
+    "Lunatique II": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-09-30",
+                "value": 5400000
+            }
+        ]
+    },
+    "Excès": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 5000000
+            }
+        ]
+    },
+    "Calibrage": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 5000000
+            }
+        ]
+    },
+    "Renaissance": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 4800000
+            }
+        ]
+    },
+    "Cuirasse singulière": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 4666666
+            }
+        ]
+    },
+    "Précision chirurgicale": {
+        "type": "subli_epique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 4555555
+            }
+        ]
+    },
+    "Véhémence": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 4400000
+            }
+        ]
+    },
+    "Paisible": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 4000000
+            }
+        ]
+    },
+    "Dévastation": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 3990000
+            }
+        ]
+    },
+    "Démesuré": {
+        "type": "subli_epique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 3990000
+            }
+        ]
+    },
+    "Robuste": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 3988888
+            }
+        ]
+    },
+    "Directives": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 3888888
+            }
+        ]
+    },
+    "Contact": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 3745000
+            }
+        ]
+    },
+    "Pacte Wakfu": {
+        "type": "subli_epique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 3400000
+            }
+        ]
+    },
+    "Furie II": {
+        "type": "subli_epique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 3300000
+            }
+        ]
+    },
+    "Dernier instant": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 3100000
+            }
+        ]
+    },
+    "Excès II": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 3000000
+            }
+        ]
+    },
+    "Lourdeur involontaire": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 3000000
+            }
+        ]
+    },
+    "Ventilation III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 3000000
+            }
+        ]
+    },
+    "Longévité": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 3000000
+            }
+        ]
+    },
+    "Fracass'carapace": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 2900000
+            }
+        ]
+    },
+    "Arrogance": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 2850000
+            }
+        ]
+    },
+    "Neutralité II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 2750000
+            }
+        ]
+    },
+    "Contrôle de l'espace": {
+        "type": "subli_epique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 2700000
+            }
+        ]
+    },
+    "Furie": {
+        "type": "subli_epique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 2400000
+            }
+        ]
+    },
+    "Sang de la Déchirure": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 2400000
+            }
+        ]
+    },
+    "Ruine cyclique II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 2290000
+            }
+        ]
+    },
+    "Science du placement": {
+        "type": "subli_epique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 2275000
+            }
+        ]
+    },
+    "Tolérence II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 2245000
+            }
+        ]
+    },
+    "Poids Plume II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 2000000
+            }
+        ]
+    },
+    "Dévastation I": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 2000000
+            }
+        ]
+    },
+    "Modularité": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1990000
+            }
+        ]
+    },
+    "Apprêt III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1900000
+            }
+        ]
+    },
+    "Influence du Wakfu II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1888888
+            }
+        ]
+    },
+    "Abandon II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1879000
+            }
+        ]
+    },
+    "Force légère II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1789000
+            }
+        ]
+    },
+    "Sauvegarde du Wakfu II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1725000
+            }
+        ]
+    },
+    "Conservation II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1600000
+            }
+        ]
+    },
+    "Retour d'Armure II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1600000
+            }
+        ]
+    },
+    "Consolation critique II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1500000
+            }
+        ]
+    },
+    "Stupéfaction II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1500000
+            }
+        ]
+    },
+    "Pilier": {
+        "type": "subli_epique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1500000
+            }
+        ]
+    },
+    "Influence vitale II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1500000
+            }
+        ]
+    },
+    "Brûlure II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1400000
+            }
+        ]
+    },
+    "Embuscade II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1200000
+            }
+        ]
+    },
+    "Expert des armes légères III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1033000
+            }
+        ]
+    },
+    "Allocentrisme II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1026000
+            }
+        ]
+    },
+    "Influence paradoxale II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1000000
+            }
+        ]
+    },
+    "Focalisation II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 1000000
+            }
+        ]
+    },
+    "Dernier souffle III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 998999
+            }
+        ]
+    },
+    "Prétention II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 998000
+            }
+        ]
+    },
+    "Prostérité III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 968000
+            }
+        ]
+    },
+    "Balance critique II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 950000
+            }
+        ]
+    },
+    "Ventilation secondaire III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 938000
+            }
+        ]
+    },
+    "Ravage secondaire II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 900000
+            }
+        ]
+    },
+    "Tellurisme III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 897000
+            }
+        ]
+    },
+    "Critique Berserk III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 888884
+            }
+        ]
+    },
+    "Vision intermédiaire III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 850000
+            }
+        ]
+    },
+    "Tacle Berserk III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 800000
+            }
+        ]
+    },
+    "Ravage II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 800000
+            }
+        ]
+    },
+    "Muraille II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 800000
+            }
+        ]
+    },
+    "Valeur ajoutée II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 800000
+            }
+        ]
+    },
+    "Retour vital II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 800000
+            }
+        ]
+    },
+    "Evasion II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 800000
+            }
+        ]
+    },
+    "Volonté directe II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 800000
+            }
+        ]
+    },
+    "Dernier soin III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 790000
+            }
+        ]
+    },
+    "Wé": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 785000
+            }
+        ]
+    },
+    "Dérobade continue I": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 770000
+            }
+        ]
+    },
+    "Dérobade lente II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 750000
+            }
+        ]
+    },
+    "Influence lente II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 715000
+            }
+        ]
+    },
+    "Brûlure secondaire III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 700000
+            }
+        ]
+    },
+    "Folie II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 700000
+            }
+        ]
+    },
+    "Muraille III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 695000
+            }
+        ]
+    },
+    "Ventilation II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 695000
+            }
+        ]
+    },
+    "Contre-attaque II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 680000
+            }
+        ]
+    },
+    "Interception III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 650000
+            }
+        ]
+    },
+    "Vivacité I": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 600000
+            }
+        ]
+    },
+    "Gel III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 589000
+            }
+        ]
+    },
+    "Carapace sanguine III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 560000
+            }
+        ]
+    },
+    "Précaution III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 550000
+            }
+        ]
+    },
+    "Longueur d'armure III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 538000
+            }
+        ]
+    },
+    "Ambition II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 500000
+            }
+        ]
+    },
+    "Tellurisme secondaire II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 500000
+            }
+        ]
+    },
+    "Retour PM II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 500000
+            }
+        ]
+    },
+    "Propagation III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 485000
+            }
+        ]
+    },
+    "Temporisation II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 480000
+            }
+        ]
+    },
+    "Théorie de la matière II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 420000
+            }
+        ]
+    },
+    "Volonté indirecte III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 400000
+            }
+        ]
+    },
+    "Epines III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 400000
+            }
+        ]
+    },
+    "Loup solitaire III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 397000
+            }
+        ]
+    },
+    "Tabass'Carapace II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 390000
+            }
+        ]
+    },
+    "Expert des armres légères II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 330000
+            }
+        ]
+    },
+    "Puissance brute I": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 330000
+            }
+        ]
+    },
+    "Ruine II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 320000
+            }
+        ]
+    },
+    "Apprêt II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 315700
+            }
+        ]
+    },
+    "Altruisme III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 300000
+            }
+        ]
+    },
+    "Fuite II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 300000
+            }
+        ]
+    },
+    "Arme de Lumière": {
+        "type": "subli_relique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 300000
+            }
+        ]
+    },
+    "Embuscade écartée III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 300000
+            }
+        ]
+    },
+    "Verrouillage III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 300000
+            }
+        ]
+    },
+    "Ventilation secondaire II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 300000
+            }
+        ]
+    },
+    "Retour enflammé II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 290000
+            }
+        ]
+    },
+    "Solidité II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 270000
+            }
+        ]
+    },
+    "Enveloppe rocheuse II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 270000
+            }
+        ]
+    },
+    "Santé de fer": {
+        "type": "subli_epique",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 300000
+            }
+        ]
+    },
+    "Préparation critique III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 241000
+            }
+        ]
+    },
+    "Barrière Mêlée I": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 240000
+            }
+        ]
+    },
+    "Relations sociales III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 230000
+            }
+        ]
+    },
+    "Cicatrisation II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 230000
+            }
+        ]
+    },
+    "Représailles II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 220000
+            }
+        ]
+    },
+    "Cyclothymie II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 200000
+            }
+        ]
+    },
+    "Puits de Vitalité III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 200000
+            }
+        ]
+    },
+    "Dernier soin II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 190000
+            }
+        ]
+    },
+    "Prospérité II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 188000
+            }
+        ]
+    },
+    "Vision intermédiaire II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 180000
+            }
+        ]
+    },
+    "Gel secondaire II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 179000
+            }
+        ]
+    },
+    "Interception II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 170000
+            }
+        ]
+    },
+    "Longueur III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 170000
+            }
+        ]
+    },
+    "Gel II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 165000
+            }
+        ]
+    },
+    "Folie Vampirique III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 155000
+            }
+        ]
+    },
+    "Ecailles de lune II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 152000
+            }
+        ]
+    },
+    "Endurance III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 150000
+            }
+        ]
+    },
+    "Être sensible III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 150000
+            }
+        ]
+    },
+    "Gel secondaire III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 150000
+            }
+        ]
+    },
+    "Ténacité II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 150000
+            }
+        ]
+    },
+    "Courage III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 120000
+            }
+        ]
+    },
+    "Esquive Berserk III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 112000
+            }
+        ]
+    },
+    "Arcanes III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 105000
+            }
+        ]
+    },
+    "Rupture PA II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 100000
+            }
+        ]
+    },
+    "Légèreté III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 95000
+            }
+        ]
+    },
+    "Expert des Coups critiques III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 88700
+            }
+        ]
+    },
+    "Destruction II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 87000
+            }
+        ]
+    },
+    "Influence du Wakfu I": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 70000
+            }
+        ]
+    },
+    "Secret de la vie II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 65000
+            }
+        ]
+    },
+    "Rupture violente II": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 59000
+            }
+        ]
+    },
+    "Dernières résistances III": {
+        "type": "subli",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 50000
+            }
+        ]
+    },
+    "Transmutation Infernale": {
+        "type": "transmu",
+        "price": [
+            {
+                "date": "2024-10-05",
+                "value": 32000
             }
         ]
     }

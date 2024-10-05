@@ -259,7 +259,7 @@ document.addEventListener("DOMContentLoaded", function () {
             const password = passwordInput.value;
             if (password === "oui") {
                 pswContainer.remove();
-                arrayContainer.style.visibility = 'visible';
+                arrayContainer.style.display = 'block';
             } else {
                 alert('Mot de passe incorrect');
             }
