@@ -27,7 +27,7 @@
         ]
     },
     "Fragment de Rune Stasis": {
-        "type": "pierre",
+        "type": "divers",
         "price": [
             {
                 "date": "2024-09-05",
@@ -8278,56 +8278,6 @@
             {
                 "date": "2024-10-06",
                 "value": 294000
-            }
-        ]
-    },
-    "": {
-        "type": "anneau",
-        "info": "mythique",
-        "price": [
-            {
-                "date": "2024-10-06",
-                "value": 200000
-            }
-        ]
-    },
-    "": {
-        "type": "anneau",
-        "info": "mythique",
-        "price": [
-            {
-                "date": "2024-10-06",
-                "value": 200000
-            }
-        ]
-    },
-    "": {
-        "type": "anneau",
-        "info": "mythique",
-        "price": [
-            {
-                "date": "2024-10-06",
-                "value": 200000
-            }
-        ]
-    },
-    "": {
-        "type": "anneau",
-        "info": "mythique",
-        "price": [
-            {
-                "date": "2024-10-06",
-                "value": 200000
-            }
-        ]
-    },
-    "": {
-        "type": "anneau",
-        "info": "mythique",
-        "price": [
-            {
-                "date": "2024-10-06",
-                "value": 200000
             }
         ]
     }
