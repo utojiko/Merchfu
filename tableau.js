@@ -141,8 +141,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 rows.forEach(row => {
                     const itemNameCell = row.querySelector('td:nth-child(2)');
                     if (itemNameCell) {
-                        const itemName = itemNameCell.textContent.toLowerCase();
-                        if (itemName.includes(searchTerm)) {
+                        const itemId = row.id.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+                        const normalizedSearchTerm = searchTerm.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+                        if (itemId.includes(normalizedSearchTerm)) {
                             row.style.display = '';
                             visibleItemCount++;
                         } else {
@@ -182,7 +183,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 titleInfo.textContent = nomItemClic;
                 const dates = [];
                 const values = [];
-                Object.values(itemsData[nomItemClic].price).forEach((item, index) => {
+                Object.values(itemsData[row.id].price).forEach((item, index) => {
                     const formattedValue = item.value.toLocaleString('fr-FR');
                     const formattedItemDate = formatDate(item.date);
                     dates.push(item.date);
@@ -249,14 +250,6 @@ document.addEventListener("DOMContentLoaded", function () {
         closeButton.addEventListener('click', () => {
             console.log('Close button clicked');
             closeButton.parentElement.style.visibility = 'hidden';
-        });
-
-        closeButton.addEventListener('keydown', (event) => {
-            console.log('Key pressed:', event.key);
-            if (event.key === 'Escape') {
-                console.log('Escape key pressed');
-                closeButton.parentElement.style.visibility = 'hidden';
-            }
         });
 
         document.addEventListener("keydown", function(event) {

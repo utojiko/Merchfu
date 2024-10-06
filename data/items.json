@@ -5,6 +5,10 @@
             {
                 "date": "2024-09-29",
                 "value": 2180000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 2000000
             }
         ]
     },
@@ -14,6 +18,10 @@
             {
                 "date": "2024-09-30",
                 "value": 1300000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 1500000
             }
         ]
     },
@@ -23,6 +31,10 @@
             {
                 "date": "2024-09-30",
                 "value": 42900
+            },
+            {
+                "date": "2024-10-06",
+                "value": 43888
             }
         ]
     },
@@ -40,6 +52,10 @@
             {
                 "date": "2024-10-02",
                 "value": 68000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 55555
             }
         ]
     },
@@ -49,6 +65,10 @@
             {
                 "date": "2024-09-30",
                 "value": 9493995
+            },
+            {
+                "date": "2024-10-06",
+                "value": 9300000
             }
         ]
     },
@@ -58,6 +78,10 @@
             {
                 "date": "2024-09-30",
                 "value": 9800000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 9200000
             }
         ]
     },
@@ -67,6 +91,10 @@
             {
                 "date": "2024-09-30",
                 "value": 37000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 1600000
             }
         ]
     },
@@ -76,6 +104,10 @@
             {
                 "date": "2024-09-30",
                 "value": 3885000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 3600000
             }
         ]
     },
@@ -94,7 +126,12 @@
             {
                 "date": "2024-09-30",
                 "value": 8000000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 14000000
             }
+
         ]
     },
     "Sanguinolence II": {
@@ -103,6 +140,10 @@
             {
                 "date": "2024-09-30",
                 "value": 2000000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 1000000
             }
         ]
     },
@@ -170,6 +211,10 @@
             {
                 "date": "2024-09-30",
                 "value": 2200000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 5000000
             }
         ]
     },
@@ -491,6 +536,10 @@
             {
                 "date": "2024-09-30",
                 "value": 38000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 35000
             }
         ]
     },
@@ -867,6 +916,10 @@
             {
                 "date": "2024-10-02",
                 "value": 44
+            },
+            {
+                "date": "2024-10-06",
+                "value": 49
             }
         ]
     },
@@ -880,6 +933,10 @@
             {
                 "date": "2024-10-02",
                 "value": 45
+            },
+            {
+                "date": "2024-10-06",
+                "value": 42
             }
         ]
     },
@@ -893,6 +950,10 @@
             {
                 "date": "2024-10-02",
                 "value": 14398
+            },
+            {
+                "date": "2024-10-06",
+                "value": 14000
             }
         ]
     },
@@ -1129,10 +1190,15 @@
     },
     "Solerets d'Excarnus": {
         "type": "bottes",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-02",
                 "value": 19448
+            },
+            {
+                "date": "2024-10-06",
+                "value": 16000
             }
         ]
     },
@@ -1143,15 +1209,24 @@
             {
                 "date": "2024-10-02",
                 "value": 49999
+            },
+            {
+                "date": "2024-10-06",
+                "value": 35000
             }
         ]
     },
     "Toison d'Excarnus": {
         "type": "plastron",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-02",
                 "value": 10497
+            },
+            {
+                "date": "2024-10-06",
+                "value": 9882
             }
         ]
     },
@@ -1161,6 +1236,10 @@
             {
                 "date": "2024-10-02",
                 "value": 49495
+            },
+            {
+                "date": "2024-10-06",
+                "value": 33000
             }
         ]
     },
@@ -1475,7 +1554,7 @@
         "price": [
             {
                 "date": "2024-10-02",
-                "value": 13198
+                "value": 9400
             }
         ]
     },
@@ -1493,7 +1572,7 @@
         "price": [
             {
                 "date": "2024-10-02",
-                "value": 13198
+                "value": 3500
             }
         ]
     },
@@ -1647,6 +1726,10 @@
             {
                 "date": "2024-10-02",
                 "value": 24990
+            },
+            {
+                "date": "2024-10-04",
+                "value": 24000
             }
         ]
     },
@@ -3390,6 +3473,7 @@
     },
     "Ceinture Multe": {
         "type": "ceinture",
+        "info": "souvenir",
         "price": [
             {
                 "date": "2024-10-04",
@@ -4357,6 +4441,7 @@
     },
     "Spalières du Corbeau Blanc": {
         "type": "epaulettes",
+        "info": "souvenir",
         "price": [
             {
                 "date": "2024-10-04",
@@ -4804,6 +4889,10 @@
             {
                 "date": "2024-10-04",
                 "value": 3333333
+            },
+            {
+                "date": "2024-10-06",
+                "value": 2190000
             }
         ]
     },
@@ -8278,6 +8367,607 @@
             {
                 "date": "2024-10-06",
                 "value": 294000
+            }
+        ]
+    },
+    "Emblème du Feu du Volcan": {
+        "type": "embleme",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 100000
+            }
+        ]
+    },
+    "Mogmatique": {
+        "type": "bouclier",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 116000
+            }
+        ]
+    },
+    "Baguette du Mage Gris": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "Baguette du Mage Rouge": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 234000
+            }
+        ]
+    },
+    "Frogmourne": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 117000
+            }
+        ]
+    },
+    "Cristal d'Excarnus": {
+        "type": "amulette",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-01",
+                "value": 30000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 80000
+            }
+        ]
+    },
+    "Corne d'Excarnus": {
+        "type": "boss",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 4996
+            }
+        ]
+    },
+    "Sabots de Magmog": {
+        "type": "bottes",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 54000
+            }
+        ]
+    },
+    "Coulée de Magmog": {
+        "type": "cape",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 199000
+            }
+        ]
+    },
+    "Halo de Magmog": {
+        "type": "anneau",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 104900
+            }
+        ]
+    },
+    "Talisman de Magmog": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 85000
+            }
+        ]
+    },
+    "Scories de Magmog": {
+        "type": "epaulettes",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 105000
+            }
+        ]
+    },
+    "Ceinture Multe ": {
+        "type": "ceinture",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 89000
+            }
+        ]
+    },
+    "Les Echopes": {
+        "type": "epaulettes",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 11890
+            }
+        ]
+    },
+    "Bottes du Meulou": {
+        "type": "bottes",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 100000
+            }
+        ]
+    },
+    "Papatte de Milkar": {
+        "type": "anneau",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "Croc de Meulou": {
+        "type": "boss",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 3000
+            }
+        ]
+    },
+    "Anneau du Corbeau Noir": {
+        "type": "anneau",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 30000
+            }
+        ]
+    },
+    "Epée du Corbeau Noir ": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 16990
+            }
+        ]
+    },
+    "Ailes du Corbeau Blanc": {
+        "type": "cape",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 25000
+            }
+        ]
+    },
+    "Amulette du Corbeau Blanc": {
+        "type": "amulette",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 68000
+            }
+        ]
+    },
+    "Casque du Corbeau blanc": {
+        "type": "casque",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 37890
+            }
+        ]
+    },
+    "Ceinture du Corbeau Blanc": {
+        "type": "ceinture",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 9900
+            }
+        ]
+    },
+    "Koupe Koupe du Corbeau Noir": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 22000
+            }
+        ]
+    },
+    "Plastron du Corbeau Blanc": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 33329
+            }
+        ]
+    },
+    "Spalières du Corbeau Blanc ": {
+        "type": "epaulettes",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-04",
+                "value": 9390
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
             }
         ]
     }
