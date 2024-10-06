@@ -776,7 +776,7 @@
                 "value": 2200000
             },
             {
-                "date": "2024-09-30",
+                "date": "2024-10-03",
                 "value": 3750000
             }
         ]
@@ -1992,7 +1992,7 @@
             }
         ]
     },
-    "Fragment de Drap Conizquezzzzz": {
+    "Fragment de Drap Conique": {
         "type": "frag",
         "price": [
             {
@@ -2694,7 +2694,7 @@
             }
         ]
     },
-    "bouclier du grand solide": {
+    "Bouclier du grand solide": {
         "type": "bouclier",
         "price": [
             {
@@ -3407,12 +3407,18 @@
         ]
     },
     "Plastron de Scoubidours": {
-        "type": "plan",
+        "type": "plastron",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
                 "value": 3000000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 2500000
             }
+
         ]
     },
     "Aplomb naturel": {
@@ -3479,12 +3485,17 @@
             }
         ]
     },
-    "Ceinture tentaculaire": {
+    "Ceinture tentaculaire ": {
         "type": "ceinture",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
                 "value": 3400000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 3000000
             }
         ]
     },
@@ -3688,6 +3699,7 @@
     },
     "Amulette Erogène": {
         "type": "amulette",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
@@ -3715,6 +3727,7 @@
     },
     "Les Galonctueux": {
         "type": "epaulettes",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
@@ -3751,10 +3764,15 @@
     },
     "La Recssenette": {
         "type": "epee",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
                 "value": 1100000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 900000
             }
         ]
     },
@@ -3893,8 +3911,9 @@
             }
         ]
     },
-    "Casque de puissance": {
+    "Casque de puissance ": {
         "type": "casque",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
@@ -3931,6 +3950,7 @@
     },
     "L'Hache de Raison": {
         "type": "epee",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
@@ -4282,6 +4302,7 @@
     },
     "Bottes Empourmoi": {
         "type": "bottes",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
@@ -4354,6 +4375,7 @@
     },
     "Poil aux pattes": {
         "type": "bottes",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
@@ -4459,6 +4481,10 @@
             {
                 "date": "2024-10-04",
                 "value": 2000000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 2500000
             }
         ]
     },
@@ -4482,10 +4508,15 @@
     },
     "Epée Riktus en Bois": {
         "type": "epee",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
                 "value": 1400000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 1800000
             }
         ]
     },
@@ -4518,6 +4549,7 @@
     },
     "Scie Kiotamm": {
         "type": "epee",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
@@ -4545,10 +4577,15 @@
     },
     "La réglette": {
         "type": "epee",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
                 "value": 1800000
+            },
+            {
+                "date": "2024-10-06",
+                "value": 950000
             }
         ]
     },
@@ -4734,6 +4771,7 @@
     },
     "Plastron du Démineur": {
         "type": "plastron",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
@@ -4752,6 +4790,7 @@
     },
     "La Lavemulette": {
         "type": "amulette",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
@@ -4779,6 +4818,7 @@
     },
     "Chemisier ouvert": {
         "type": "plastron",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
@@ -4788,6 +4828,7 @@
     },
     "Cape Gennial": {
         "type": "cape",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
@@ -4797,6 +4838,7 @@
     },
     "Cape du Boufcoul": {
         "type": "cape",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
@@ -4806,6 +4848,7 @@
     },
     "Yugonettes": {
         "type": "bottes",
+        "info": "souvenir",
         "price": [
             {
                 "date": "2024-10-04",
@@ -4815,6 +4858,7 @@
     },
     "Epaulettes Tylique": {
         "type": "epaulettes",
+        "info": "souvenir",
         "price": [
             {
                 "date": "2024-10-04",
@@ -4824,6 +4868,7 @@
     },
     "Tronchoneuse": {
         "type": "epee",
+        "info": "souvenir",
         "price": [
             {
                 "date": "2024-10-04",
@@ -4833,6 +4878,7 @@
     },
     "Sprécieux": {
         "type": "anneau",
+        "info": "souvenir",
         "price": [
             {
                 "date": "2024-10-04",
@@ -4842,6 +4888,7 @@
     },
     "Epaulettes de la Justice": {
         "type": "epaulettes",
+        "info": "souvenir",
         "price": [
             {
                 "date": "2024-10-04",
@@ -4941,6 +4988,7 @@
     },
     "Les Crox": {
         "type": "epee",
+        "info": "légendaire",
         "price": [
             {
                 "date": "2024-10-04",
@@ -6637,6 +6685,1649 @@
             {
                 "date": "2024-10-05",
                 "value": 32000
+            }
+        ]
+    },
+    "Casque du mécano": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 150000
+            }
+        ]
+    },
+    "Epée immuable": {
+        "type": "epee",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 85000
+            }
+        ]
+    },
+    "Amulette de l'adepte": {
+        "type": "amulette",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 333333
+            }
+        ]
+    },
+    "Epaulettes de l'adepte": {
+        "type": "epaulettes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 333333
+            }
+        ]
+    },
+    "Masque d'Archibald": {
+        "type": "casque",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 800000
+            }
+        ]
+    },
+    "Collier d'Ulysse": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 350000
+            }
+        ]
+    },
+    "Anneau de Torturpide": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 300000
+            }
+        ]
+    },
+    "Plastron Roneur ": {
+        "type": "plastron",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "Plastron Roneur": {
+        "type": "plastron",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 1250000
+            }
+        ]
+    },
+    "Bagounette": {
+        "type": "anneau",
+        "price": [
+            {
+                "info": "mythique",
+                "date": "2024-10-06",
+                "value": 130000
+            }
+        ]
+    },
+    "Anneau de Bam": {
+        "type": "anneau",
+        "price": [
+            {
+                "info": "mythique",
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "Epaulettes décolorées": {
+        "type": "epaulettes",
+        "price": [
+            {
+                "info": "mythique",
+                "date": "2024-10-06",
+                "value": 50000
+            }
+        ]
+    },
+    "Bottes Empourmoi ": {
+        "type": "bottes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 400000
+            }
+        ]
+    },
+    "Gant d'Alf": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 100000
+            }
+        ]
+    },
+    "Gant d'Alf ": {
+        "type": "anneau",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 400000
+            }
+        ]
+    },
+    "Les Mailles Har": {
+        "type": "plastron",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 400000
+            }
+        ]
+    },
+    "Les Mailles Har ": {
+        "type": "plastron",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 1000000
+            }
+        ]
+    },
+    "Le Plastrongue": {
+        "type": "plastron",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 45000
+            }
+        ]
+    },
+    "Le Plastrongue ": {
+        "type": "plastron",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 800000
+            }
+        ]
+    },
+    "Epaulettes du Karma": {
+        "type": "epaulettes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 39000
+            }
+        ]
+    },
+    "Epaulettes du Karma ": {
+        "type": "epaulettes",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 950000
+            }
+        ]
+    },
+    "Les Galonctueux ": {
+        "type": "epaulettes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 49000
+            }
+        ]
+    },
+    "Amulette Erogène ": {
+        "type": "amulette",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 65000
+            }
+        ]
+    },
+    "L'épineau": {
+        "type": "epee",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 45000
+            }
+        ]
+    },
+    "Epaulettes Argiques": {
+        "type": "epaulettes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 97000
+            }
+        ]
+    },
+    "Epaulettes Argiques ": {
+        "type": "epaulettes",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 1300000
+            }
+        ]
+    },
+    "Epée Neval": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 3900000
+            }
+        ]
+    },
+    "Scie Kiotamm ": {
+        "type": "epee",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 440000
+            }
+        ]
+    },
+    "Cape Salée": {
+        "type": "cape",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 250000
+            }
+        ]
+    },
+    "Cape Salée ": {
+        "type": "cape",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 700000
+            }
+        ]
+    },
+    "Plastron Déshydraté": {
+        "type": "plastron",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 8500000
+            }
+        ]
+    },
+    "Plastron Amon Amarth": {
+        "type": "plastron",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 400000
+            }
+        ]
+    },
+    "Plastron Amon Amarth ": {
+        "type": "plastron",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 900000
+            }
+        ]
+    },
+    "Cape du Lord Zaens": {
+        "type": "cape",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 390000
+            }
+        ]
+    },
+    "Cape du Lord Zaens ": {
+        "type": "cape",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 750000
+            }
+        ]
+    },
+    "Hernité": {
+        "type": "epaulettes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 70000
+            }
+        ]
+    },
+    "Hernité ": {
+        "type": "epaulettes",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 500000
+            }
+        ]
+    },
+    "Coiffe du dragon azuré": {
+        "type": "casque",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 600000
+            }
+        ]
+    },
+    "L'Ensanglantée": {
+        "type": "epee",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 23000
+            }
+        ]
+    },
+    "L'Ensanglantée ": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 500000
+            }
+        ]
+    },
+    "Epaulettes Hargie": {
+        "type": "epaulettes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 99000
+            }
+        ]
+    },
+    "Epaulettes Hargie ": {
+        "type": "epaulettes",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 660000
+            }
+        ]
+    },
+    "Plastron du Démineur ": {
+        "type": "plastron",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 550000
+            }
+        ]
+    },
+    "Manteau du Chevalier Azur": {
+        "type": "cape",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 450000
+            }
+        ]
+    },
+    "Parchoh": {
+        "type": "amulette",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 109090
+            }
+        ]
+    },
+    "Parchoh ": {
+        "type": "amulette",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 500000
+            }
+        ]
+    },
+    "Epée Riktus en Bois ": {
+        "type": "epee",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 935000
+            }
+        ]
+    },
+    "Anneau du Palableu": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 124000
+            }
+        ]
+    },
+    "Anneau du Palableu ": {
+        "type": "anneau",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 300000
+            }
+        ]
+    },
+    "Les Vent-Vies": {
+        "type": "epee",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "Les Vent-Vies ": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 295000
+            }
+        ]
+    },
+    "Phéno-Tige": {
+        "type": "epee",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 440000
+            }
+        ]
+    },
+    "La Brulette": {
+        "type": "amulette",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 290000
+            }
+        ]
+    },
+    "La Brulette ": {
+        "type": "amulette",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 870000
+            }
+        ]
+    },
+    "Lavano": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 3800
+            }
+        ]
+    },
+    "Lavano ": {
+        "type": "anneau",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 179000
+            }
+        ]
+    },
+    "Heaume du Chevalier Azur": {
+        "type": "casque",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 149000
+            }
+        ]
+    },
+    "Heaume du Chevalier Azur ": {
+        "type": "casque",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 400000
+            }
+        ]
+    },
+    "Dague des nouveaux Anciens": {
+        "type": "dague",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 32000
+            }
+        ]
+    },
+    "Dague des nouveaux Anciens ": {
+        "type": "dague",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 274000
+            }
+        ]
+    },
+    "L'Eternelle": {
+        "type": "amulette",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 229000
+            }
+        ]
+    },
+    "L'Eternelle ": {
+        "type": "amulette",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 630000
+            }
+        ]
+    },
+    "Grèves du Chevalier Azur": {
+        "type": "bottes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 25000
+            }
+        ]
+    },
+    "Grèves du Chevalier Azur ": {
+        "type": "bottes",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 340000
+            }
+        ]
+    },
+    "Grèves du Paladin ": {
+        "type": "bottes",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 400000
+            }
+        ]
+    },
+    "Anneau du Paladeux": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 88000
+            }
+        ]
+    },
+    "Anneau du Paladeux ": {
+        "type": "anneau",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 288888
+            }
+        ]
+    },
+    "Masque Corrompu ": {
+        "type": "casque",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 450000
+            }
+        ]
+    },
+    "Amulette Corrompue": {
+        "type": "amulette",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 50000
+            }
+        ]
+    },
+    "Plastron de la présidente": {
+        "type": "plastron",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 550000
+            }
+        ]
+    },
+    "Salopette de Gloutonnie": {
+        "type": "ceinture",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 500000
+            }
+        ]
+    },
+    "Salopette de Gloutonnie ": {
+        "type": "ceinture",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 2000000
+            }
+        ]
+    },
+    "L'aujourd'hui": {
+        "type": "amulette",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 550000
+            }
+        ]
+    },
+    "Nageoires égarées": {
+        "type": "ceinture",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "Pendant d'If": {
+        "type": "amulette",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 250000
+            }
+        ]
+    },
+    "Ceinture J'enserre-ique": {
+        "type": "ceinture",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 100000
+            }
+        ]
+    },
+    "Gants Serre-ique": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 300000
+            }
+        ]
+    },
+    "Casque de puissance": {
+        "type": "casque",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 500000
+            }
+        ]
+    },
+    "Amulette du lendemain éternel": {
+        "type": "amulette",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "Coiffure d'émours": {
+        "type": "casque",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 250000
+            }
+        ]
+    },
+    "Bague caudale": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "Amulette de coquillages": {
+        "type": "amulette",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "Ceinture tentaculaire": {
+        "type": "ceinture",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "Casque reptilien": {
+        "type": "casque",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 80000
+            }
+        ]
+    },
+    "Casque reptilien ": {
+        "type": "casque",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 700000
+            }
+        ]
+    },
+    "Amulette reptilienne": {
+        "type": "amulette",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 155555
+            }
+        ]
+    },
+    "Ceinture de Fhaneboille": {
+        "type": "ceinture",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 180000
+            }
+        ]
+    },
+    "Oeil de Fournaise": {
+        "type": "amulette",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 830000
+            }
+        ]
+    },
+    "Ceintorréfaction": {
+        "type": "ceinture",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 65000
+            }
+        ]
+    },
+    "Anneau Sec": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 78500
+            }
+        ]
+    },
+    "Anneau Sec ": {
+        "type": "anneau",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 1000000
+            }
+        ]
+    },
+    "Ceinture Assoiffée": {
+        "type": "ceinture",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 69000
+            }
+        ]
+    },
+    "Ceinture Assoiffée ": {
+        "type": "ceinture",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 600000
+            }
+        ]
+    },
+    "L'Hache de Raison ": {
+        "type": "epee",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 500000
+            }
+        ]
+    },
+    "Casque Xérique": {
+        "type": "casque",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 300000
+            }
+        ]
+    },
+    "Casque Xérique ": {
+        "type": "casque",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 1000000
+            }
+        ]
+    },
+    "Le Gond d'Or": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 500000
+            }
+        ]
+    },
+    "Les Grands Pas à Ragorne": {
+        "type": "bottes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "Les Grands Pas à Ragorne ": {
+        "type": "bottes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 1500000
+            }
+        ]
+    },
+    "Tramontanneau": {
+        "type": "anneau",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 600000
+            }
+        ]
+    },
+    "Corde Vocale": {
+        "type": "ceinture",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 20000
+            }
+        ]
+    },
+    "Anneau Zéheu": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 50000
+            }
+        ]
+    },
+    "Anneau Zéheu ": {
+        "type": "anneau",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 500000
+            }
+        ]
+    },
+    "Sandales de Lhun": {
+        "type": "bottes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 230000
+            }
+        ]
+    },
+    "Sandales de Lhun ": {
+        "type": "bottes",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 990000
+            }
+        ]
+    },
+    "Cartes And": {
+        "type": "epee",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 35000
+            }
+        ]
+    },
+    "Amulette du tigre blanc": {
+        "type": "amulette",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 870000
+            }
+        ]
+    },
+    "Brodequins Conces": {
+        "type": "bottes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 70000
+            }
+        ]
+    },
+    "Brodequins Conces ": {
+        "type": "bottes",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 800000
+            }
+        ]
+    },
+    "Anneau Tile": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 320000
+            }
+        ]
+    },
+    "Anneau Tile ": {
+        "type": "anneau",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 400000
+            }
+        ]
+    },
+    "Bague Era": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 280000
+            }
+        ]
+    },
+    "Les Epoilettes": {
+        "type": "epaulettes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 28000
+            }
+        ]
+    },
+    "Ceinture du Futur": {
+        "type": "ceinture",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "Ceinture du Futur ": {
+        "type": "ceinture",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 300000
+            }
+        ]
+    },
+    "Amulette du Dragoeuf": {
+        "type": "amulette",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 290000
+            }
+        ]
+    },
+    "Amulette du Dragoeuf ": {
+        "type": "amulette",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 800000
+            }
+        ]
+    },
+    "L'arme à Niak": {
+        "type": "epee",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 240000
+            }
+        ]
+    },
+    "L'arme à Niak ": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 300000
+            }
+        ]
+    },
+    "Poil aux pattes ": {
+        "type": "bottes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 920000
+            }
+        ]
+    },
+    "La Recssenette ": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 19000
+            }
+        ]
+    },
+    "Alliance Hêtre": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 10000
+            }
+        ]
+    },
+    "Alliance Hêtre ": {
+        "type": "anneau",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "Chapeau Ch'tron": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 160000
+            }
+        ]
+    },
+    "Chapeau Ch'tron ": {
+        "type": "anneau",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 500000
+            }
+        ]
+    },
+    "Dague Orafob": {
+        "type": "anneau",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 384000
+            }
+        ]
+    },
+    "Poignard Sinueux": {
+        "type": "dague",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 45000
+            }
+        ]
+    },
+    "Poignard Sinueux ": {
+        "type": "dague",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 444444
+            }
+        ]
+    },
+    "Ceinture DigiArv": {
+        "type": "ceinture",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 9000
+            }
+        ]
+    },
+    "Ceinture DigiArv ": {
+        "type": "ceinture",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 500000
+            }
+        ]
+    },
+    "Haze'paulettes": {
+        "type": "epaulettes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 145000
+            }
+        ]
+    },
+    "Haze'paulettes ": {
+        "type": "epaulettes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 750000
+            }
+        ]
+    },
+    "Cartes à Crocs": {
+        "type": "epee",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 8000
+            }
+        ]
+    },
+    "Cartes à Crocs ": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 800000
+            }
+        ]
+    },
+    "Bottines Ecailleuses": {
+        "type": "bottes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 18500
+            }
+        ]
+    },
+    "Bottines Ecailleuses ": {
+        "type": "bottes",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 300000
+            }
+        ]
+    },
+    "Marteau Luterking": {
+        "type": "epee",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 15000
+            }
+        ]
+    },
+    "Marteau Luterking ": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 700000
+            }
+        ]
+    },
+    "Tropicape": {
+        "type": "cape",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 40000
+            }
+        ]
+    },
+    "Tropicape ": {
+        "type": "cape",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 150000
+            }
+        ]
+    },
+    "Badine Borano": {
+        "type": "epee",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 77000
+            }
+        ]
+    },
+    "Badine Borano ": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 500000
+            }
+        ]
+    },
+    "Drap Némie": {
+        "type": "cape",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 35000
+            }
+        ]
+    },
+    "Drap Némie ": {
+        "type": "cape",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 400000
+            }
+        ]
+    },
+    "Anobeaujour": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 1890
+            }
+        ]
+    },
+    "Anobeaujour ": {
+        "type": "anneau",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 140000
+            }
+        ]
+    },
+    "Carte des Merveilles": {
+        "type": "epee",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 19000
+            }
+        ]
+    },
+    "Carte des Merveilles ": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 195000
+            }
+        ]
+    },
+    "AnnEkam": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 3840
+            }
+        ]
+    },
+    "AnnEkam ": {
+        "type": "anneau",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 590000
+            }
+        ]
+    },
+    "La Lavemulette ": {
+        "type": "amulette",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "Epée Millénaire": {
+        "type": "epee",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 28000
+            }
+        ]
+    },
+    "Epée Millénaire ": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "Le Protigieux": {
+        "type": "epee",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 100000
+            }
+        ]
+    },
+    "Le Protigieux ": {
+        "type": "epee",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 685000
+            }
+        ]
+    },
+    "Lorko Botto": {
+        "type": "bottes",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 60000
+            }
+        ]
+    },
+    "Lorko Kasko": {
+        "type": "casque",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "Lorko Kasko ": {
+        "type": "casque",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 350000
+            }
+        ]
+    },
+    "Anneau Minatrix": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 18000
+            }
+        ]
+    },
+    "Anneau Minatrix ": {
+        "type": "anneau",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 294000
+            }
+        ]
+    },
+    "": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
+            }
+        ]
+    },
+    "": {
+        "type": "anneau",
+        "info": "mythique",
+        "price": [
+            {
+                "date": "2024-10-06",
+                "value": 200000
             }
         ]
     }

@@ -247,7 +247,22 @@ document.addEventListener("DOMContentLoaded", function () {
 
         const closeButton = document.querySelector('.close');
         closeButton.addEventListener('click', () => {
+            console.log('Close button clicked');
             closeButton.parentElement.style.visibility = 'hidden';
+        });
+
+        closeButton.addEventListener('keydown', (event) => {
+            console.log('Key pressed:', event.key);
+            if (event.key === 'Escape') {
+                console.log('Escape key pressed');
+                closeButton.parentElement.style.visibility = 'hidden';
+            }
+        });
+
+        document.addEventListener("keydown", function(event) {
+            if (event.key === "Escape" || event.keyCode === 27) {
+                closeButton.parentElement.style.visibility = 'hidden';
+            }
         });
 
         const passwordInput = document.getElementById('password');
