@@ -7597,6 +7597,16 @@
             }
         ]
     },
+    "Amulette de coquillages ": {
+        "type": "amulette",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-07",
+                "value": 4000000
+            }
+        ]
+    },
     "Ceinture tentaculaire": {
         "type": "ceinture",
         "info": "mythique",
@@ -8635,343 +8645,407 @@
             }
         ]
     },
-    "": {
-        "type": "epee",
+    "Cape du Corbeau Noir": {
+        "type": "cape",
         "info": "légendaire",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 100000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Pain Trouille": {
+        "type": "conso",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 175
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Paindala": {
+        "type": "conso",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 247
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Pain Noiw": {
+        "type": "conso",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 278
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Pain Draconique": {
+        "type": "conso",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 448
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Pain Lumineux": {
+        "type": "conso",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 490
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Pain Tagrahm": {
+        "type": "conso",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 489
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Pain du Zinit": {
+        "type": "conso",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 1994
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Potion de Sagesse": {
+        "type": "conso",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 300000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Milimeulou": {
+        "type": "conso",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 278
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Bébé Pandawa": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 4070000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Tofu Bontarien": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 4500000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Godron Brâkmarien": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 4470000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Tofu Charmant": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 4000000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Geist": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 2479000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Chauffe-Souris": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 2350000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Minithar": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 2000000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Sakoch": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 1998000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Kometh": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 1900000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Picar": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 1889000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Gobgob": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 1600000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Dauge": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 1600000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Kalypsor": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 1500000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Noxine": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 1400000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Kokulte": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 1000000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Pupuce": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 900000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Shushu Mineur": {
+        "type": "familier",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 745000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Krosmunster Feu": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 685000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Snouffle": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 680000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Krosmunster Air": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 495000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Krosmunster Eau": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 195000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Krosmunster Terre": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 129000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Scarafon": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 450000
             }
         ]
     },
-    "": {
-        "type": "epee",
-        "info": "légendaire",
+    "Tourtobot": {
+        "type": "familier",
+        "info": "lv 50",
         "price": [
             {
-                "date": "2024-10-06",
-                "value": 20000
+                "date": "2024-10-07",
+                "value": 285000
+            }
+        ]
+    },
+    "Potion de prospection": {
+        "type": "conso",
+        "price": [
+            {
+                "date": "2024-10-07",
+                "value": 1000000
+            }
+        ]
+    },
+    "Fragment de clef de la brèche de moon": {
+        "type": "cle",
+        "price": [
+            {
+                "date": "2024-10-07",
+                "value": 1000000
+            }
+        ]
+    },
+    "Fragment de clef de la brèche de Sufokia": {
+        "type": "cle",
+        "price": [
+            {
+                "date": "2024-10-07",
+                "value": 19996
+            }
+        ]
+    },
+    "Fragment de clef de la brèche d'Amakna": {
+        "type": "cle",
+        "price": [
+            {
+                "date": "2024-10-07",
+                "value": 65000
+            }
+        ]
+    },
+    "Fragment de clef de la brèche de Tainéla": {
+        "type": "cle",
+        "price": [
+            {
+                "date": "2024-10-07",
+                "value": 1000000
+            }
+        ]
+    },
+    "Fragment de clef de la brèche de Bonta": {
+        "type": "cle",
+        "price": [
+            {
+                "date": "2024-10-07",
+                "value": 68900
+            }
+        ]
+    },
+    "Boufrogounet": {
+        "type": "familier",
+        "info": "lv 50",
+        "price": [
+            {
+                "date": "2024-10-07",
+                "value": 356000
+            }
+        ]
+    },
+    "Potion de Régénération": {
+        "type": "conso",
+        "price": [
+            {
+                "date": "2024-10-07",
+                "value": 445000
             }
         ]
     }
