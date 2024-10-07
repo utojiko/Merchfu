@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
         fetch('./data/itemTypes.json').then(response => response.json())
     ])
     .then(([itemsData, itemTypesData]) => {
-        // listItems(itemsData);
+        listItems(itemsData);
         const tableBody = document.getElementById('tbody-data-items');
         Object.keys(itemsData).forEach(key => {
             const item = itemsData[key];

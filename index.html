@@ -42,6 +42,27 @@
         <button id="submit">Valider</button>
     </div>
     <div id="array-container" data-verified="false">
+        <div class="intro">
+            <div class="title">Ce site permet de répondre aux questions suivantes :</div>
+            <ul>
+                <li>Combien coutait l'item XXXXX avant la dernière mise à jour ?</li>
+                <li>Combien coutait l'item XXXXX après le début du mois et les coffres de fin de mois ?</li>
+                <li>Quelle est la progression par rapport aux mois précédents ?</li>
+                <li>Quelle est la moyenne des prix enregistrés sur le site ? (à différencier du prix moyen en jeu)</li>
+            </ul>
+        </div>
+
+        <div class="intro">
+            <div class="title">Informations importantes</div>
+            <ul>
+                <li>Cliquer sur une case issue de la colonne "progression" pour afficher l'historique et le graphique de l'item choisi.</li>
+                <li>Un onglet de recherche est à disposition.</li>
+                <li>Ce site est réservé à la guilde <strong>Soleil d'Amalthée</strong>.</li>
+            </ul>
+        </div>
+
+
+        
         <div class="ongletRecherche">
             <img defer class="loupe" src="assets/images/loupe.svg" alt="Loupe" />
             <input type="text" id="searchInput" placeholder="Rechercher...">
@@ -68,18 +89,13 @@
                         </tr>
                     </thead>
                     <tbody id="tbody-info-items">
-                        <tr>
-                            <td>1</td>
-                            <td>03 octobre 2024</td>
-                            <td>100 000</td>
-                        </tr>
                     </tbody>
                 </table>
             <canvas id="priceChart" width="400" height="200"></canvas>
             </div>
         </div>
         <div class="table-container">
-            <table>
+            <table id="tableau">
                 <thead id="thead-data-items">
                     <tr class="titreTableau">
                         <th data-column="type">Type</th>

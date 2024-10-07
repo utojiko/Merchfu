@@ -48,6 +48,7 @@
     border-radius: 5px;
     background-color: white;
     z-index: 10;
+    width: 300px;
 }
 
 .loupe {
@@ -60,11 +61,12 @@
 }
 
 @media only screen and (max-width: 720px) {
-    h1 {
-        color: red;
+    .ongletRecherche {
+
     }
 
-    .ongletRecherche {
+    .resume {
+        display: none;
     }
 
 }

@@ -111,21 +111,22 @@ table {
     content: ' ▼';
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 720px) {
     .table-container {
         overflow-x: auto;
     }
-    table {
+
+    #tableau {
         display: block;
         width: 100%;
     }
-    thead, tbody {
+    #tableau thead, #tableau tbody {
         display: block;
     }
-    thead {
+    #tableau thead {
         width: 100%;
     }
-    tbody {
+    #tableau tbody {
         width: 100%;
         overflow-x: auto;
         display: block;
@@ -214,4 +215,15 @@ table {
 
 #priceChart {
     margin-top: 60px;
+}
+
+
+.intro  {
+    margin-top: 90px;
+    color: white;
+    font-size: 20px;
+}
+
+.title {
+    font-weight: bold;
 }
