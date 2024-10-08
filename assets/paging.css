@@ -39,14 +39,14 @@
     inline-size: auto;
     position: fixed;
     right: 2%;
-    top: calc(63px / 4);
+    top: calc(35px / 4);
     display: flex;
     align-items: center;
-    border: 1px solid black;
+    border: 2px solid #675d46;
     padding: 5px;
 
     border-radius: 5px;
-    background-color: white;
+    background-color: #1c2023;
     z-index: 10;
     width: 300px;
 }
@@ -54,10 +54,16 @@
 .loupe {
     width: 15px;
     margin-right: 3px;
+    filter: invert(34%) sepia(15%) saturate(209%) hue-rotate(12deg) brightness(92%) contrast(88%);
+    transform: scaleX(-1);
 }
 
-.texteRecherche {
-    width: 300px;
+.croixOngletRecherche {
+    color:  #675d46;
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 5px;
+    cursor: pointer;
 }
 
 @media only screen and (max-width: 720px) {
@@ -206,9 +212,12 @@ body {
 
 #searchInput:focus,
 #searchInput {
+    font-size: 20px;
     width: 100%;
     outline: none;
     border: none;
+    background-color: #1c2023;
+    color: white
 }
 
 #psw-container {

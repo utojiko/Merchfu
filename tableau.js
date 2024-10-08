@@ -181,6 +181,11 @@ document.addEventListener("DOMContentLoaded", function () {
             }, 600);
         });
 
+        const btnCroixRecherche = document.getElementById('btn-onglet-recherche-croix');
+        btnCroixRecherche.addEventListener('click', () => {
+            searchInput.value = '';
+            searchInput.dispatchEvent(new Event('input'));
+        });
         
         // Ajouter un écouteur d'événements à chaque cellule du tableau
         const fullTable = document.querySelectorAll('table#table-info-item');
