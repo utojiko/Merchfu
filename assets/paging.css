@@ -215,14 +215,17 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 20%;
     color: white;
+    margin-top: calc(5% + 200px);
 }
 
 #psw-container label {
     display: block;
     text-align: center;
     margin-bottom: 5px;
+    
+    font-size: 30px;
+    margin-bottom: 20px !important;
 }
 
 #psw-container input {
@@ -230,6 +233,9 @@ body {
     padding: 8px;
     width: calc(50% + 90px);
     box-sizing: border-box;
+    
+    font-size: 30px;
+    margin-bottom: 25px !important;
 }
 
 #psw-container button {
@@ -239,6 +245,8 @@ body {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    
+    font-size: 30px;
 }
 
 #psw-container button:hover {
@@ -254,18 +262,4 @@ body {
     -moz-user-select: none;    /* Firefox */
     -ms-user-select: none;     /* Internet Explorer/Edge */
     user-select: none;         /* Standard */
-}
-
-.label-psw {
-    font-size: 30px;
-    margin-bottom: 20px !important;
-}
-
-#password {
-    font-size: 30px;
-    margin-bottom: 25px !important;
-}
-
-button#submit {
-    font-size: 30px;
 }

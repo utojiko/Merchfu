@@ -9048,5 +9048,15 @@
                 "value": 445000
             }
         ]
+    },
+    "Chaussures du mécano": {
+        "type": "bottes",
+        "info": "légendaire",
+        "price": [
+            {
+                "date": "2024-10-07",
+                "value": 9000000
+            }
+        ]
     }
 }
