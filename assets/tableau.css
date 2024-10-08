@@ -95,11 +95,11 @@ table {
 
 .cacher-haut-tableau {
     position: sticky;
-    top: 0;
+    top: -1px;
     background-color: #062531;
     color: transparent;
     z-index: 3;
-    height: 60px;
+    height: 61px;
     width: 100%;
 }
 
@@ -116,8 +116,6 @@ table {
 }
 
 @media screen and (max-width: 720px) {
-    
-
     #tableau {
         display: block;
         width: 100%;
@@ -145,6 +143,11 @@ table {
     text-align: center;
 }
 
+#priceChart {
+    margin-top: 60px;
+}
+
+/* Pour l'historique */
 .info-item-container {
     visibility: hidden;
     position: fixed;
@@ -158,7 +161,7 @@ table {
     align-items: center;
     border-radius: 25px;
     border: 1px solid white;
-    max-height: 80%; /* Définissez une hauteur maximale pour le composant */
+    max-height: 80%;
     overflow-y: auto;
     z-index: 10;
 
@@ -173,54 +176,7 @@ table {
     cursor: pointer;
     padding: 0px 5px;
 }
+
 .info-item-container .close:hover {
     scale: 1.2;
-}
-.info-item {
-    text-align: center;
-}
-
-#title-info {
-    font-size: 30px;
-    color: #f4d89e;
-    margin-bottom: 50px;
-}
-
-#table-info-item {
-    width: calc(100% - 50px);
-    border-collapse: collapse;
-}
-
-#table-info-item, #table-info-item tr th, #table-info-item tr td {
-    border: 1px solid #acacac;
-}
-
-#table-info-item tr th {
-    padding: 15px;
-    font-size: 20px;
-}
-#table-info-item tr td {
-    padding: 8px;
-}
-#tbody-info-items tr:nth-child(odd) {
-    z-index: 1;
-}
-
-#tbody-info-items tr:nth-child(even) {
-    z-index: 1;
-}
-
-#priceChart {
-    margin-top: 60px;
-}
-
-.intro  {
-    margin-top: 90px;
-    margin-left: 20px;
-    color: white;
-    font-size: 20px;
-}
-
-.title {
-    font-weight: bold;
 }

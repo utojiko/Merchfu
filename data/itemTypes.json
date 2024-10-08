@@ -1,37 +1,138 @@
 {
-    "sac": "https://vertylo.github.io/wakassets/itemTypes/218.png",
-    "epee": "https://vertylo.github.io/wakassets/itemTypes/109.png",
-    "costume": "https://vertylo.github.io/wakassets/itemTypes/118.png",
-    "bottes": "https://vertylo.github.io/wakassets/itemTypes/119.png",
-    "cape": "https://vertylo.github.io/wakassets/itemTypes/132.png",
-    "amulette": "https://vertylo.github.io/wakassets/itemTypes/120.png",
-    "ceinture": "https://vertylo.github.io/wakassets/itemTypes/133.png",
-    "casque": "https://vertylo.github.io/wakassets/itemTypes/134.png",
-    "plastron": "https://vertylo.github.io/wakassets/itemTypes/136.png",
-    "epaulettes": "https://vertylo.github.io/wakassets/itemTypes/138.png",
-    "cle": "https://vertylo.github.io/wakassets/itemTypes/317.png",
-    "bouclier": "https://vertylo.github.io/wakassets/itemTypes/520.png",
-    "familier": "https://vertylo.github.io/wakassets/itemTypes/528.png",
-    "metier": "https://vertylo.github.io/wakassets/itemTypes/537.png",
-    "subli": "https://vertylo.github.io/wakassets/itemTypes/812.png",
-    "embleme": "https://vertylo.github.io/wakassets/items/64619210.png",
-    "decoration": "https://vertylo.github.io/wakassets/itemTypes/534.png",
-    "pierre": "https://vertylo.github.io/wakassets/items/53129847.png",
-    "plan": "https://vertylo.github.io/wakassets/itemTypes/512.png",
-    "anneau": "https://vertylo.github.io/wakassets/itemTypes/103.png",
-    "conso": "https://vertylo.github.io/wakassets/itemTypes/572.png",
-    "dague": "https://vertylo.github.io/wakassets/itemTypes/571.png",
-    "subli_epique": "https://vertylo.github.io/wakassets/items/68325796.png",
-    "subli_relique": "https://vertylo.github.io/wakassets/items/68325802.png",
-    "boss": "https://vertylo.github.io/wakassets/itemTypes/528.png",
-    "kamas": "https://vertylo.github.io/wakassets/achievementRewards/11.png",
-    "autre": "https://vertylo.github.io/wakassets/achievementRewards/11.png",
-    "ressource_mob": "https://vertylo.github.io/wakassets/itemTypes/531.png",
-    "sioupere": "https://vertylo.github.io/wakassets/itemTypes/739.png",
-    "havre_gemme": "https://vertylo.github.io/wakassets/itemTypes/294.png",
-    "divers": "https://vertylo.github.io/wakassets/itemTypes/822.png",
-    "deco": "https://vertylo.github.io/wakassets/itemTypes/535.png",
-    "frag": "https://vertylo.github.io/wakassets/itemTypes/687.png",
-    "course": "https://vertylo.github.io/wakassets/itemTypes/744.png",
-    "transmu": "https://vertylo.github.io/wakassets/itemTypes/709.png"
+    "sac": {
+        "name": "Sac",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/218.png"
+    },
+    "epee": {
+        "name": "Épée",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/109.png"
+    },
+    "costume": {
+        "name": "Costume",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/118.png"
+    },
+    "bottes": {
+        "name": "Bottes",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/119.png"
+    },
+    "cape": {
+        "name": "Cape",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/132.png"
+    },
+    "amulette": {
+        "name": "Amulette",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/120.png"
+    },
+    "ceinture": {
+        "name": "Ceinture",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/133.png"
+    },
+    "casque": {
+        "name": "Casque",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/134.png"
+    },
+    "plastron": {
+        "name": "Plastron",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/136.png"
+    },
+    "epaulettes": {
+        "name": "Épaulettes",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/138.png"
+    },
+    "cle": {
+        "name": "Clé",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/317.png"
+    },
+    "bouclier": {
+        "name": "Bouclier",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/520.png"
+    },
+    "familier": {
+        "name": "Familier",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/528.png"
+    },
+    "metier": {
+        "name": "Métier",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/537.png"
+    },
+    "subli": {
+        "name": "SubliNormale",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/812.png"
+    },
+    "embleme": {
+        "name": "Emblème",
+        "img": "https://vertylo.github.io/wakassets/items/64619210.png"
+    },
+    "decoration": {
+        "name": "Décoration",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/534.png"
+    },
+    "pierre": {
+        "name": "Pierre",
+        "img": "https://vertylo.github.io/wakassets/items/53129847.png"
+    },
+    "plan": {
+        "name": "Plan",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/512.png"
+    },
+    "anneau": {
+        "name": "Anneau",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/103.png"
+    },
+    "conso": {
+        "name": "Consommable",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/572.png"
+    },
+    "dague": {
+        "name": "Dague",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/571.png"
+    },
+    "subli_epique": {
+        "name": "SubliÉpique",
+        "img": "https://vertylo.github.io/wakassets/items/68325796.png"
+    },
+    "subli_relique": {
+        "name": "SubliRelique",
+        "img": "https://vertylo.github.io/wakassets/items/68325802.png"
+    },
+    "boss": {
+        "name": "Boss",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/528.png"
+    },
+    "kamas": {
+        "name": "Kamas",
+        "img": "https://vertylo.github.io/wakassets/achievementRewards/11.png"
+    },
+    "ressource_mob": {
+        "name": "RessourceMob",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/531.png"
+    },
+    "sioupere": {
+        "name": "Sioupère",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/739.png"
+    },
+    "havre_gemme": {
+        "name": "HavreGemme",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/294.png"
+    },
+    "divers": {
+        "name": "Divers",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/822.png"
+    },
+    "deco": {
+        "name": "Déco",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/535.png"
+    },
+    "frag": {
+        "name": "Fragment",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/687.png"
+    },
+    "course": {
+        "name": "Course",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/744.png"
+    },
+    "transmu": {
+        "name": "Transmutation",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/709.png"
+    }
 }

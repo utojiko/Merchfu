@@ -206,17 +206,10 @@ body {
 
 #searchInput:focus,
 #searchInput {
+    width: 100%;
     outline: none;
     border: none;
 }
-
-.todo {
-    color: white;
-    text-align: center;
-    margin: 50px;
-    z-index: 50;
-}
-
 
 #psw-container {
     display: flex;
@@ -252,6 +245,27 @@ body {
     background-color: #0056b3;
 }
 
-#array-container {
+#content-container {
     display: none;
+}
+
+.non-selectable {
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none;    /* Firefox */
+    -ms-user-select: none;     /* Internet Explorer/Edge */
+    user-select: none;         /* Standard */
+}
+
+.label-psw {
+    font-size: 30px;
+    margin-bottom: 20px !important;
+}
+
+#password {
+    font-size: 30px;
+    margin-bottom: 25px !important;
+}
+
+button#submit {
+    font-size: 30px;
 }

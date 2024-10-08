@@ -4,6 +4,7 @@
 <head>
     <link rel="stylesheet" type="text/css" href="assets/paging.css">
     <link rel="stylesheet" type="text/css" href="assets/tableau.css">
+    <link rel="stylesheet" type="text/css" href="assets/info.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8">
     <title>Merchfu</title>
     <link rel="icon" type="image/x-icon"
@@ -32,41 +33,63 @@
             <div class="ray ray10"></div>
         </div>
     </div>
-    <div class="banniere">
+    <div class="banniere non-selectable">
         Merchfu
     </div>
 
     <div id="psw-container">
-        <label for="password">Mot de passe</label>
+        <label class="label-psw" for="password">Mot de passe</label>
         <input type="password" id="password" placeholder="Mot de passe">
         <button id="submit">Valider</button>
     </div>
-    <div id="array-container" data-verified="false">
-        <div class="intro">
-            <div class="title">Ce site permet de répondre aux questions suivantes :</div>
-            <ul>
-                <li>Quel était le prix de l'item XXXXX avant la dernière mise à jour ?</li>
-                <li>Quel est le prix de l'item XXXXX depuis le début du mois et les nouveaux coffres de fin de mois ?</li>
-                <li>Quelle est la progression des prix par rapport aux mois précédents ?</li>
-                <li>Quelle est la moyenne des prix enregistrés sur le site ? (à différencier du prix moyen en jeu)</li>
-            </ul>
-        </div>
-        
-        <div class="intro">
-            <div class="title">Informations importantes</div>
-            <ul>
-                <li>Ces prix sont ceux des items présents à l'hôtel des ventes sur le serveur Pandora. Ils sont enregistrés à la main à un moment donné, il peut donc y avoir des erreurs.</li>
-                <li>Cliquez sur une case de la colonne "progression" pour afficher l'historique et le graphique de l'item sélectionné.</li>
-                <li>Un onglet de recherche est disponible.</li>
-                <li>Ce site est réservé à la guilde <strong>Soleil d'Amalthée</strong>.</li>
-                <li>Raccourci pour fermer la fenêtre d'historique des prix d'un item : <i>Echap</i></li>
-                <li>Si vous souhaitez que j'ajoute le prix d'un certain item, n'hésitez pas à me le faire savoir sur Discord (Utojiko).</li>
-                <li>WAKFU MMORPG : © 2022 Ankama Studio. Tous droits réservés. "Merchfu" est un site non-officiel sans aucun lien avec Ankama.</li>
-            </ul>
-        </div>
+    <div id="content-container" data-verified="false">
+            
+        <button id="info-btn" class="non-selectable">
+            Info
+        </button>
+        <div id="intro-container">
+            <button id="close-intro">x</button>
+            <div class="intro">
+                <div class="title">Ce site permet de répondre aux questions suivantes :</div>
+                <ul>
+                    <li>Quel était le prix de l'item XXXXX avant la dernière mise à jour ?</li>
+                    <li>Quel est le prix de l'item XXXXX depuis le début du mois et les nouveaux coffres de fin de mois ?</li>
+                    <li>Quelle est la progression des prix par rapport aux mois précédents ?</li>
+                    <li>Quelle est la moyenne des prix enregistrés sur le site ? (à différencier du prix moyen en jeu)</li>
+                </ul>
+                <br/>
+            
+                <div class="title">Informations importantes</div>
+                <ul>
+                    <li>Ces prix sont ceux des items présents à l'hôtel des ventes sur le serveur Pandora. Ils sont enregistrés à la main à un moment donné, il peut donc y avoir des erreurs.</li>
+                    <li>Cliquez sur une case de la colonne "progression" pour afficher l'historique et le graphique de l'item sélectionné.</li>
+                    <li>Vous pouvez trier les objets en cliquant sur le titre de la colonne.</li>
+                    <li>Ce site est réservé à la guilde <strong>Soleil d'Amalthée</strong>.</li>
+                    <li>Raccourci pour fermer la fenêtre d'historique des prix d'un item : <i>Echap</i></li>
+                    <li>Si vous souhaitez que j'ajoute le prix d'un certain item, n'hésitez pas à me le faire savoir sur Discord (Utojiko).</li>
+                    <li>WAKFU MMORPG : © 2022 Ankama Studio. Tous droits réservés. "Merchfu" est un site non-officiel sans aucun lien avec Ankama.</li>
+                </ul>
+                <br/>
 
+                <div class="title">Informations liées à l'onglet de recherche</div>
+                <div class="recherche-intro">Plusieurs mots-clés peuvent être utilisés pour affiner la recherche :</div>
+                <ul>
+                    <li>
+                        & : Rechercher une suite d'items. Usage : Brutalité & Alternance
+                    </li>
+                    <li>
+                        $ : Rechercher tous les items ayant ce type. Usage : $familier
+                    </li>
+                </ul>
+                Voici la liste des types d'items disponibles :
+                <table id="info-types-item">
+                    <tbody></tbody>
+                </table>
+            <br/>
+            </div>
+        </div>
         <div class="ongletRecherche">
-            <img defer class="loupe" src="assets/images/loupe.svg" alt="Loupe" />
+            <img defer class="loupe non-selectable" src="assets/images/loupe.svg" alt="Loupe" />
             <input type="text" id="searchInput" placeholder="Rechercher...">
         </div>
         <div class="cacher-haut-tableau">

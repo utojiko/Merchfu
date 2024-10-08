@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
         fetch('./data/itemTypes.json').then(response => response.json())
     ])
     .then(([itemsData, itemTypesData]) => {
-        listItems(itemsData);
+        // listItems(itemsData);
         const tableBody = document.getElementById('tbody-data-items');
         Object.keys(itemsData).forEach(key => {
             const item = itemsData[key];
@@ -43,7 +43,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 nom = key + " (" + item.info + ")";
             }
             row.innerHTML = `
-                <td><img src="${itemTypesData[item.type]}" alt="${item.type}" /></td>
+                <td id="${itemTypesData[item.type].name}">
+                    <img src="${itemTypesData[item.type].img}" class="non-selectable" />
+                </td>
                 <td>${nom}</td>
                 <td>${lastPrice.toLocaleString('fr-FR')} </td>
                 <td>${lastPriceDateDiff}</td>
@@ -134,27 +136,49 @@ document.addEventListener("DOMContentLoaded", function () {
         searchInput.addEventListener('input', () => {
             clearTimeout(searchTimeout);
             searchTimeout = setTimeout(() => {
-                const searchTerm = searchInput.value.toLowerCase();
+                const searchTerms = searchInput.value.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').split('&');
                 const rows = Array.from(tableBody.querySelectorAll('tr'));
                 let visibleItemCount = 0;
-
+        
                 rows.forEach(row => {
-                    const itemNameCell = row.querySelector('td:nth-child(2)');
-                    if (itemNameCell) {
-                        const itemId = row.id.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-                        const normalizedSearchTerm = searchTerm.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-                        if (itemId.includes(normalizedSearchTerm)) {
+                    let rowMatches = false;
+                    searchTerms.forEach(searchTerm => {
+                        searchTerm = searchTerm.trim();
+                        if (searchTerm != "$") {
+                            if (searchTerm.startsWith("$")) {
+                                const itemIdCell = row.querySelector('td:nth-child(1)');
+                                
+                                if (itemIdCell) {
+                                    const itemTypeId = itemIdCell.id.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+                                    console.log("INCLUDE ? " + searchTerm.slice(1) + " DANS " + itemTypeId + " ==> " + itemTypeId.includes(searchTerm.slice(1)));
+                                    if (itemTypeId.includes(searchTerm.slice(1))) {
+                                        rowMatches = true;
+                                    }
+                                }
+                            } else {
+                                const itemId = row.id.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+                                
+                                if (itemId.includes(searchTerm)) {
+                                    rowMatches = true;
+                                }
+                            }
+                        }
+
+                        if (rowMatches) {
                             row.style.display = '';
                             visibleItemCount++;
                         } else {
                             row.style.display = 'none';
                         }
-                    }
+    
+                        
+                    });
+
                 });
                 
-                // Mettre à jour le contenu de l'élément <span> avec le nombre d'items
+        
                 itemCountSpan.textContent = `${visibleItemCount}/${tableBody.rows.length}`;
-            }, 600); // 2 secondes de délai
+            }, 600);
         });
 
         
@@ -261,7 +285,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const passwordInput = document.getElementById('password');
         const validateButton = document.getElementById('submit');
         const pswContainer = document.getElementById('psw-container');
-        const arrayContainer = document.getElementById('array-container');
+        const arrayContainer = document.getElementById('content-container');
     
         validateButton.addEventListener('click', () => {
             const password = passwordInput.value;
@@ -279,6 +303,55 @@ document.addEventListener("DOMContentLoaded", function () {
                 validateButton.click();
             }
         });
+
+        const introContainer = document.getElementById('intro-container');
+        const infoBtn = document.getElementById('info-btn');
+        const closeIntro = document.getElementById('close-intro');
+        infoBtn.addEventListener('click', () => {
+            introContainer.style.display = 'block';
+        });
+
+        closeIntro.addEventListener('click', () => {
+            introContainer.style.display = 'none';
+        });
+
+        // Sélectionnez l'élément tbody où les tr seront ajoutés
+        const tableInfoTypes = document.getElementById("info-types-item").getElementsByTagName('tbody')[0];
+
+        if (!tableInfoTypes) {
+            console.error('Element with ID "info-types-item" or its tbody not found.');
+        } else {
+            let cpt = 0;
+            let tr = document.createElement('tr');
+
+            for (const key in itemTypesData) {
+                if (itemTypesData.hasOwnProperty(key)) {
+                    const tdName = document.createElement('td');
+                    tdName.textContent = itemTypesData[key].name;
+
+                    const tdImg = document.createElement('td');
+                    const img = document.createElement('img');
+                    img.src = itemTypesData[key].img;
+                    img.alt = itemTypesData[key].name;
+                    img.style.width = '50px'; // Ajustez la taille de l'image si nécessaire
+                    tdImg.appendChild(img);
+
+                    tr.appendChild(tdImg);
+                    tr.appendChild(tdName);
+
+                    cpt++;
+                    if (cpt % 3 == 0) {
+                        tableInfoTypes.appendChild(tr);
+                        tr = document.createElement('tr');
+                    }
+                }
+            }
+
+            // Append the last row if it has any cells
+            if (tr.children.length > 0) {
+                tableInfoTypes.appendChild(tr);
+            }
+        }
     })
     .catch(error => console.error('Error fetching the JSON data:', error));
 });
