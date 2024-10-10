@@ -35,7 +35,13 @@ document.addEventListener("DOMContentLoaded", function () {
             const symbole = pourcentage >= 0 ? '+' : '-';
             const pourcentageFormatte = `${symbole}${Math.abs(pourcentage).toFixed(0).toLocaleString('fr-FR')}`;
 
-            const className = pourcentage > 0 ? "diminutionPrix" : "augmentationPrix";
+            let className = "";
+            if (pourcentage > 0) {
+                className = augmentationPrix;
+            }
+            if (pourcentage < 0) {
+                className = diminutionPrix;
+            }
             const row = document.createElement('tr');
             row.id = key;
             let nom = key;
