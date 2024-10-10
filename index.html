@@ -12,11 +12,21 @@
 
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Sofia&effect=neon|outline|emboss|shadow-multiple">
-</head>
 
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-KVQR46YYC3');
+    </script>
+
+</head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KVQR46YYC3"></script>
 <script defer src="tableau.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+
 <body>
 
     <div class="sun">
@@ -43,7 +53,7 @@
         <button id="submit">Valider</button>
     </div>
     <div id="content-container" data-verified="false">
-            
+
         <button id="info-btn" class="non-selectable">
             Info
         </button>
@@ -53,23 +63,29 @@
                 <div class="title">Ce site permet de répondre aux questions suivantes :</div>
                 <ul>
                     <li>Quel était le prix de l'item XXXXX avant la dernière mise à jour ?</li>
-                    <li>Quel est le prix de l'item XXXXX depuis le début du mois et les nouveaux coffres de fin de mois ?</li>
+                    <li>Quel est le prix de l'item XXXXX depuis le début du mois et les nouveaux coffres de fin de mois
+                        ?</li>
                     <li>Quelle est la progression des prix par rapport aux mois précédents ?</li>
-                    <li>Quelle est la moyenne des prix enregistrés sur le site ? (à différencier du prix moyen en jeu)</li>
+                    <li>Quelle est la moyenne des prix enregistrés sur le site ? (à différencier du prix moyen en jeu)
+                    </li>
                 </ul>
-                <br/>
-            
+                <br />
+
                 <div class="title">Informations importantes</div>
                 <ul>
-                    <li>Ces prix sont ceux des items présents à l'hôtel des ventes sur le serveur Pandora. Ils sont enregistrés à la main à un moment donné, il peut donc y avoir des erreurs.</li>
-                    <li>Cliquez sur une case de la colonne "progression" pour afficher l'historique et le graphique de l'item sélectionné.</li>
+                    <li>Ces prix sont ceux des items présents à l'hôtel des ventes sur le serveur Pandora. Ils sont
+                        enregistrés à la main à un moment donné, il peut donc y avoir des erreurs.</li>
+                    <li>Cliquez sur une case de la colonne "progression" pour afficher l'historique et le graphique de
+                        l'item sélectionné.</li>
                     <li>Vous pouvez trier les objets en cliquant sur le titre de la colonne.</li>
                     <li>Ce site est réservé à la guilde <strong>Soleil d'Amalthée</strong>.</li>
                     <li>Raccourci pour fermer la fenêtre d'historique des prix d'un item : <i>Echap</i></li>
-                    <li>Si vous souhaitez que j'ajoute le prix d'un certain item, n'hésitez pas à me le faire savoir sur Discord (Utojiko).</li>
-                    <li>WAKFU MMORPG : © 2022 Ankama Studio. Tous droits réservés. "Merchfu" est un site non-officiel sans aucun lien avec Ankama.</li>
+                    <li>Si vous souhaitez que j'ajoute le prix d'un certain item, n'hésitez pas à me le faire savoir sur
+                        Discord (Utojiko).</li>
+                    <li>WAKFU MMORPG : © 2022 Ankama Studio. Tous droits réservés. "Merchfu" est un site non-officiel
+                        sans aucun lien avec Ankama.</li>
                 </ul>
-                <br/>
+                <br />
 
                 <div class="title">Informations liées à l'onglet de recherche</div>
                 <div class="recherche-intro">Plusieurs mots-clés peuvent être utilisés pour affiner la recherche :</div>
@@ -85,7 +101,7 @@
                 <table id="info-types-item">
                     <tbody></tbody>
                 </table>
-            <br/>
+                <br />
             </div>
         </div>
         <div class="ongletRecherche">
@@ -117,7 +133,7 @@
                     <tbody id="tbody-info-items">
                     </tbody>
                 </table>
-            <canvas id="priceChart" width="400" height="200"></canvas>
+                <canvas id="priceChart" width="400" height="200"></canvas>
             </div>
         </div>
         <div class="table-container">
