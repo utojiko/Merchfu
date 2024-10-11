@@ -37,10 +37,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
             let className = "";
             if (pourcentage > 0) {
-                className = augmentationPrix;
+                className = "augmentationPrix";
             }
             if (pourcentage < 0) {
-                className = diminutionPrix;
+                className = "diminutionPrix";
             }
             const row = document.createElement('tr');
             row.id = key;
