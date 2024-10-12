@@ -90,9 +90,9 @@ document.addEventListener("DOMContentLoaded", function () {
                     let cellIndex = th.cellIndex;
 
                     // Ajuster l'index de la cellule si colspan est utilisé
-                    if (cellIndex >= 3) {
-                        cellIndex += 1; // Sautez une cellule pour colspan=2
-                    }
+                    // if (cellIndex >= 3) {
+                    //     cellIndex += 1; // Sautez une cellule pour colspan=2
+                    // }
 
                     aCell = aCells[cellIndex];
                     bCell = bCells[cellIndex];
@@ -107,6 +107,14 @@ document.addEventListener("DOMContentLoaded", function () {
                         aText = aCell.querySelector('img').src;
                         bText = bCell.querySelector('img').src;
                     }
+
+                    // Si la colonne est "averagePrice", comparez les valeurs numériques
+                    if (column === 'lastPriceDate') {
+                        const aValue = parseInt(aText.split(' '));
+                        const bValue = parseInt(bText.split(' '));
+                        return order * (aValue - bValue);
+                    }
+
 
                     // Si la colonne est "averagePrice", comparez les valeurs numériques
                     if (column === 'averagePrice') {

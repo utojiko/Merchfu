@@ -54,8 +54,8 @@ table {
 
 #tbody-data-items tr td:nth-child(4) {
     text-align: center;
-    min-width: 57px;
-    width: 57px;
+    min-width: 100px;
+    width: 100px;
     font-style: italic;
 }
 
