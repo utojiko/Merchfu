@@ -308,7 +308,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
         validateButton.addEventListener('click', () => {
             const password = passwordInput.value;
-            if (password === "oui") {
+            if (password === "merchfu2024") {
                 pswContainer.remove();
                 arrayContainer.style.display = 'block';
             } else {
