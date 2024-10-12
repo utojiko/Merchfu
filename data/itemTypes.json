@@ -134,5 +134,9 @@
     "transmu": {
         "name": "Transmutation",
         "img": "https://vertylo.github.io/wakassets/itemTypes/709.png"
+    },
+    "aura": {
+        "name": "Aura",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/738.png"
     }
 }
