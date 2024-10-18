@@ -46,7 +46,16 @@ document.addEventListener("DOMContentLoaded", function () {
             row.id = key;
             let nom = key;
             if (item && item.info) {
-                nom = key + " (" + item.info + ")";
+                let rarityIcon = {
+                    "mythique": " <img src=\"https://vertylo.github.io/wakassets/rarities/3.png\" class=\"icon-rarities\">",
+                    "légendaire": " <img src=\"https://vertylo.github.io/wakassets/rarities/4.png\" class=\"icon-rarities\">",
+                    "souvenir": " <img src=\"https://vertylo.github.io/wakassets/rarities/6.png\" class=\"icon-rarities\">",
+                    "nouvelle": " <img src=\"https://vertylo.github.io/wakassets/rarities/1.png\" class=\"icon-rarities\">",
+                    "ancienne": " <img src=\"https://vertylo.github.io/wakassets/rarities/0.png\" class=\"icon-rarities\">",
+                    "+3 lv": " (+3 lv)",
+                    "lv 50": " (lv 50)",
+                }
+                nom = key.trim() + rarityIcon[item.info];
             }
             row.innerHTML = `
                 <td id="${itemTypesData[item.type].name}">
@@ -289,15 +298,28 @@ document.addEventListener("DOMContentLoaded", function () {
             });
         });
 
+        const introContainer = document.getElementById('intro-container');
+        
         const closeButton = document.querySelector('.close');
         closeButton.addEventListener('click', () => {
             console.log('Close button clicked');
-            closeButton.parentElement.style.visibility = 'hidden';
+            introContainer.style.display = 'none';
         });
 
         document.addEventListener("keydown", function(event) {
+            console.log('Key pressed:', event.key);
             if (event.key === "Escape" || event.keyCode === 27) {
-                closeButton.parentElement.style.visibility = 'hidden';
+                console.log(closeButton.parentElement);
+                introContainer.style.display = 'none';
+            }
+
+            if ((event.ctrlKey || event.metaKey) && event.key === 'f') {
+                console.log('CTRL + F');
+                event.preventDefault(); // Empêche le comportement par défaut du navigateur
+                const searchInput = document.getElementById('searchInput');
+                if (searchInput) {
+                    searchInput.focus(); // Définit le focus sur l'élément searchInput
+                }
             }
         });
 
@@ -323,7 +345,6 @@ document.addEventListener("DOMContentLoaded", function () {
             }
         });
 
-        const introContainer = document.getElementById('intro-container');
         const infoBtn = document.getElementById('info-btn');
         const closeIntro = document.getElementById('close-intro');
         infoBtn.addEventListener('click', () => {

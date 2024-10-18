@@ -181,3 +181,9 @@ table {
 .info-item-container .close:hover {
     scale: 1.2;
 }
+
+
+.icon-rarities {
+    width: 12px !important;
+    transform: translateY(4px); 
+}
