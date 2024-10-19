@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
             });
             moyenne_prix = parseInt(moyenne_prix / priceKeys.length);
 
-            const pourcentage = (lastPrice-moyenne_prix) * 100 / moyenne_prix;
+            const pourcentage = Math.round((lastPrice-moyenne_prix) * 100 / moyenne_prix);
             const symbole = pourcentage >= 0 ? '+' : '-';
             const pourcentageFormatte = `${symbole}${Math.abs(pourcentage).toFixed(0).toLocaleString('fr-FR')}`;
 
@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 <td>${lastPrice.toLocaleString('fr-FR')} </td>
                 <td>${lastPriceDateDiff}</td>
                 <td>${moyenne_prix.toLocaleString('fr-FR')}</td>
-                <td class="${className}">${pourcentageFormatte}%</td>
+                <td class="${className} progression">${pourcentageFormatte}%</td>
             `;
             tableBody.appendChild(row);
         });
@@ -173,7 +173,6 @@ document.addEventListener("DOMContentLoaded", function () {
                                 
                                 if (itemIdCell) {
                                     const itemTypeId = itemIdCell.id.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-                                    console.log("INCLUDE ? " + searchTerm.slice(1) + " DANS " + itemTypeId + " ==> " + itemTypeId.includes(searchTerm.slice(1)));
                                     if (itemTypeId.includes(searchTerm.slice(1))) {
                                         rowMatches = true;
                                     }
@@ -212,7 +211,7 @@ document.addEventListener("DOMContentLoaded", function () {
         
         // Ajouter un écouteur d'événements à chaque cellule du tableau
         const fullTable = document.querySelectorAll('table#table-info-item');
-        const tableCells = document.querySelectorAll('#tbody-data-items tr .augmentationPrix, #tbody-data-items tr .diminutionPrix');
+        const tableCells = document.querySelectorAll('#tbody-data-items tr td.progression');
         const titleInfo = document.getElementById('title-info');
 
         const priceChartCanvas = document.getElementById('priceChart');
@@ -302,19 +301,16 @@ document.addEventListener("DOMContentLoaded", function () {
         
         const closeButton = document.querySelector('.close');
         closeButton.addEventListener('click', () => {
-            console.log('Close button clicked');
-            introContainer.style.display = 'none';
+            closeButton.parentElement.style.visibility = 'hidden';
         });
 
         document.addEventListener("keydown", function(event) {
-            console.log('Key pressed:', event.key);
             if (event.key === "Escape" || event.keyCode === 27) {
-                console.log(closeButton.parentElement);
                 introContainer.style.display = 'none';
+                closeButton.parentElement.style.visibility = 'hidden';
             }
 
             if ((event.ctrlKey || event.metaKey) && event.key === 'f') {
-                console.log('CTRL + F');
                 event.preventDefault(); // Empêche le comportement par défaut du navigateur
                 const searchInput = document.getElementById('searchInput');
                 if (searchInput) {
