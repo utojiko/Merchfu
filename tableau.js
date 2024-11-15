@@ -44,6 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
             }
             const row = document.createElement('tr');
             row.id = key;
+            row.classList.add('item-row');
             let nom = key;
             if (item && item.info) {
                 let rarityIcon = {
@@ -211,13 +212,13 @@ document.addEventListener("DOMContentLoaded", function () {
         
         // Ajouter un écouteur d'événements à chaque cellule du tableau
         const fullTable = document.querySelectorAll('table#table-info-item');
-        const tableCells = document.querySelectorAll('#tbody-data-items tr td.progression');
         const titleInfo = document.getElementById('title-info');
+        tableRows = document.querySelectorAll('#tbody-data-items tr.item-row');
 
         const priceChartCanvas = document.getElementById('priceChart');
         let priceChart;
-        tableCells.forEach(cell => {
-            cell.addEventListener('click', () => {
+        tableRows.forEach(row => {
+            row.addEventListener('click', () => {
                 const infoItemContainer = document.querySelector('.info-item-container');
                 const infoItemTbody = document.querySelector('#tbody-info-items');
 
@@ -225,7 +226,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 infoItemContainer.style.visibility = 'visible';
     
                 // Obtenir les informations de la ligne parente de la cellule cliquée
-                const row = cell.parentElement;
                 const cells = row.querySelectorAll('td');
                 const indice = cells[0].textContent;
                 const nomItemClic = cells[1].textContent;
