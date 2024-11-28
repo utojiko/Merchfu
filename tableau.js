@@ -217,6 +217,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
         const priceChartCanvas = document.getElementById('priceChart');
         let priceChart;
+
+
         tableRows.forEach(row => {
             row.addEventListener('click', () => {
                 const infoItemContainer = document.querySelector('.info-item-container');
@@ -234,19 +236,51 @@ document.addEventListener("DOMContentLoaded", function () {
                 titleInfo.textContent = nomItemClic;
                 const dates = [];
                 const values = [];
+                let minPrice = Number.MAX_SAFE_INTEGER;
+                let maxPrice = Number.MIN_SAFE_INTEGER;
+                let sumPrice = 0;
+
+                // Première boucle pour calculer minPrice, maxPrice et sumPrice
+                Object.values(itemsData[row.id].price).forEach((item) => {
+                    if (minPrice > item.value) {
+                        minPrice = item.value;
+                    }
+                    if (maxPrice < item.value) {
+                        maxPrice = item.value;
+                    }
+                    sumPrice += item.value;
+                });
+
                 Object.values(itemsData[row.id].price).forEach((item, index) => {
                     const formattedValue = item.value.toLocaleString('fr-FR');
                     const formattedItemDate = formatDate(item.date);
                     dates.push(item.date);
                     values.push(item.value);
+                    let priceClass = '';
+                    if (item.value === minPrice) {
+                        priceClass = 'lowest-price';
+                    } else if (item.value === maxPrice) {
+                        priceClass = 'highest-price';
+                    }
+
                     infoItemTbody.innerHTML += `
                         <tr>
                             <td>${index + 1}</td>
                             <td>${formattedItemDate}</td>
-                            <td>${formattedValue}</td>
+                            <td class="${priceClass}">${formattedValue}</td>
                         </tr>
                     `;
                 });
+
+                infoItemTbody.innerHTML += `
+                
+                <tr><td></td></tr>
+                <tr>
+                    <td></td>
+                    <td class="moyenne-details">Moyenne</td>
+                    <td>${Math.floor(sumPrice / Object.keys(itemsData[row.id].price).length).toLocaleString('fr-FR')}</td>
+                </tr/>
+                `;
 
                 if (priceChart) {
                     priceChart.destroy(); // Détruire le graphique précédent s'il existe
@@ -326,7 +360,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
         validateButton.addEventListener('click', () => {
             const password = passwordInput.value;
-            if (password === "merchfu2024") {
+            if (password === "a") {
                 pswContainer.remove();
                 arrayContainer.style.display = 'block';
             } else {

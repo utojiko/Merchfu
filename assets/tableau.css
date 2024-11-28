@@ -182,8 +182,19 @@ table {
     scale: 1.2;
 }
 
-
 .icon-rarities {
     width: 12px !important;
     transform: translateY(4px); 
+}
+
+.lowest-price {
+    color: red;
+}
+
+.highest-price {
+    color: rgb(0, 205, 0) !important;
+}
+
+.moyenne-details {
+    font-weight: bold;
 }
