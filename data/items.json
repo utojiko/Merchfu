@@ -24414,6 +24414,10 @@
             {
                 "date": "2024-10-24",
                 "value": 7999999
+            },
+            {
+                "date": "2025-05-04",
+                "value": 5999999
             }
         ]
     },
@@ -24427,6 +24431,10 @@
             {
                 "date": "2024-10-24",
                 "value": 2879999
+            },
+            {
+                "date": "2025-05-04",
+                "value": 1500000
             }
         ]
     },
@@ -33768,6 +33776,825 @@
             {
                 "date": "2025-05-04",
                 "value": 90
+            }
+        ]
+    },
+    "Aura de la Kwakwaife": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 9150000
+            }
+        ]
+    },
+    "Aura de l'Épée de Valdain": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 6800000
+            }
+        ]
+    },
+    "Aura de la Dora N.L.O": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 5999999
+            }
+        ]
+    },
+    "Aura de la Ceinture d'Akro": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 4250000
+            }
+        ]
+    },
+    "Aura des Epaulettes du Roi-Singe": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 3500000
+            }
+        ]
+    },
+    "Aura de l'Anneau de Sentiment": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 3500000
+            }
+        ]
+    },
+    "Aura de l'Espadon de Tal Kasha": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 3200000
+            }
+        ]
+    },
+    "Aura des Bottes de Jr.": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2198888
+            }
+        ]
+    },
+    "Aura du Dofus Turquoise": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Aura du Dofus Prismatique": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "Aura de la Coiffe du Koulosse": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1350000
+            }
+        ]
+    },
+    "Aura de l'Amulette du Mirage": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1299990
+            }
+        ]
+    },
+    "Aura des Bottes de Poursuite": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1299887
+            }
+        ]
+    },
+    "Aura du Veston Beau": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1239000
+            }
+        ]
+    },
+    "Aura du Portail": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1200000
+            }
+        ]
+    },
+    "Aura des Bottes de Kovak": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1000000
+            }
+        ]
+    },
+    "Aura du Plastron de Béber": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 999999
+            }
+        ]
+    },
+    "Aura de l'Anneau de Reiem": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 999998
+            }
+        ]
+    },
+    "Aura du Bouclier du Capitaine Amakna": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 949999
+            }
+        ]
+    },
+    "Aura de La Poup Korn": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 899999
+            }
+        ]
+    },
+    "Aura des Epaulettes de Lichen": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 685000
+            }
+        ]
+    },
+    "Aura des Galons d'Orf": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 555555
+            }
+        ]
+    },
+    "Aura de la Dantgoule": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 554443
+            }
+        ]
+    },
+    "Aura de la Ceinture des Ombres": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 499995
+            }
+        ]
+    },
+    "Aura de la Cape Nô": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 444999
+            }
+        ]
+    },
+    "Aura de l'Epée de Bonta": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 400000
+            }
+        ]
+    },
+    "Aura du Dofus Ivoire": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 399978
+            }
+        ]
+    },
+    "Aura de la Véritable Ceinture de Puissance": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 378000
+            }
+        ]
+    },
+    "Aura des Epaulettes STIM": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 349999
+            }
+        ]
+    },
+    "Aura du Voile d'Encre": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 290000
+            }
+        ]
+    },
+    "Aura de la Colère d'Ogrest": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 239998
+            }
+        ]
+    },
+    "Aura des Memento Mori": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 214993
+            }
+        ]
+    },
+    "Aura du Manteau du Roi-Sorcier": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 200000
+            }
+        ]
+    },
+    "Aura de l'Ortiz": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 199900
+            }
+        ]
+    },
+    "Aura du Bouclier Ventaille": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 198000
+            }
+        ]
+    },
+    "Aura de la Ceinture de Ghast": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 180000
+            }
+        ]
+    },
+    "Aura de Racine de Floribonde": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 178999
+            }
+        ]
+    },
+    "Aura de l'Amulette du Glourséleste": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 178954
+            }
+        ]
+    },
+    "Aura du Dernier Anneau": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 175000
+            }
+        ]
+    },
+    "Aura de l'Epée de Sufokia": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 174999
+            }
+        ]
+    },
+    "Aura du Mark VII": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 169000
+            }
+        ]
+    },
+    "Aura du Sceau Fulgurant": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 149500
+            }
+        ]
+    },
+    "Aura de la Cape Réciable": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 138000
+            }
+        ]
+    },
+    "Aura de Collier de Lolzewolf": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 130000
+            }
+        ]
+    },
+    "Aura des Bottes Cérémoniales du Seigneur des Rats": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 128998
+            }
+        ]
+    },
+    "Aura des Coques Luche": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 123989
+            }
+        ]
+    },
+    "Aura de Cape de Charon": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 119999
+            }
+        ]
+    },
+    "Aura des Bottes Répané": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 105995
+            }
+        ]
+    },
+    "Aura de l'Ougalurette": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 59999
+            }
+        ]
+    },
+    "Aura des Sangles Sanglantes": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 99850
+            }
+        ]
+    },
+    "Aura de l'Insigne des Mérydes": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 98000
+            }
+        ]
+    },
+    "Aura de la Perruque de Goultard": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 37198
+            }
+        ]
+    },
+    "Aura de La Brouteuse": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 95000
+            }
+        ]
+    },
+    "Aura du Mangelâme": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 91776
+            }
+        ]
+    },
+    "Aura de la Coiffe du Chêne Mou": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 90000
+            }
+        ]
+    },
+    "Aura de l'Amulette du Mak Assutra": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 88000
+            }
+        ]
+    },
+    "Aura de la Cape Erforée": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 84999
+            }
+        ]
+    },
+    "Aura de la Coiife de Goultard": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 83299
+            }
+        ]
+    },
+    "Aura du Drap Conique": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 79998
+            }
+        ]
+    },
+    "Aura de la Ceinture Chafeuse": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 79995
+            }
+        ]
+    },
+    "Aura du Talisman de Mihmol": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 76000
+            }
+        ]
+    },
+    "Aura de l'Epée d'Amakna": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 75000
+            }
+        ]
+    },
+    "Aura des Chausses-Pèlerin d'Otomaï": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 71899
+            }
+        ]
+    },
+    "Aura de la Puissante Ceinture Fulgurante": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 69497
+            }
+        ]
+    },
+    "Aura de Ceinture frrrite": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 60997
+            }
+        ]
+    },
+    "Aura du Porte-Clef doré": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 60000
+            }
+        ]
+    },
+    "Aura du Solomonk": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 53998
+            }
+        ]
+    },
+    "Aura du Kel'Dwa": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 52000
+            }
+        ]
+    },
+    "Aura des Dagues Réceuses": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 48888
+            }
+        ]
+    },
+    "Aura de l'Aiguille d'Outre-Temps": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 44999
+            }
+        ]
+    },
+    "Aura de la Ceinture des Vents": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 39995
+            }
+        ]
+    },
+    "Aura de l'Épée du Chevalier de glace": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 39988
+            }
+        ]
+    },
+    "Aura du Creux": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 39775
+            }
+        ]
+    },
+    "Aura du Bouclier d'Asse": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 38900
+            }
+        ]
+    },
+    "Aura de l'Epée de Brâkmar": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 34998
+            }
+        ]
+    },
+    "Bouquet de Cawottes": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 34988
+            }
+        ]
+    },
+    "Aura des Galons Fred": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 29998
+            }
+        ]
+    },
+    "Aura du Plastron de Sine": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 28998
+            }
+        ]
+    },
+    "Aura de la Caphasard": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 24995
+            }
+        ]
+    },
+    "Aura des Epaulettes du Dark Vlad": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 24499
+            }
+        ]
+    },
+    "Aura des Bottes Harry": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 17890
+            }
+        ]
+    },
+    "Breuvage Fanatique": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 15445
+            }
+        ]
+    },
+    "Aura de la Ceinture Rasboulaire du Rasboul": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 14898
+            }
+        ]
+    },
+    "Décoction du Tourment": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 9986
+            }
+        ]
+    },
+    "Lanterne": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 6999
+            }
+        ]
+    },
+    "Aura de l'Armure du Disciple d'Otomaï": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 4000
+            }
+        ]
+    },
+    "Aura des Bottes de Koko": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1699
+            }
+        ]
+    },
+    "Champignon Luidegit": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 750
+            }
+        ]
+    },
+    "Aura du Gelano": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 700
+            }
+        ]
+    },
+    "Vin chaud de Nowel": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 654
+            }
+        ]
+    },
+    "Effluves Stasis": {
+        "type": "aura",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 299
             }
         ]
     }
