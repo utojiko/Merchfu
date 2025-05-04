@@ -142,5 +142,9 @@
     "emote": {
         "name": "Émote",
         "img": "https://vertylo.github.io/wakassets/emotes/20015.png"
+    },
+    "monture": {
+        "name": "Monture",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/611.png"
     }
 }

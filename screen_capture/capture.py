@@ -79,6 +79,7 @@ def replace_special_characters(text):
         .replace("îf", "if")
         .replace("!@#dh\"-", "!@#dh`~")
         .replace("''", "'")
+        .replace("1os Muertos", "los Muertos")
     )
 
 
@@ -96,8 +97,18 @@ def update_items_json(items_data):
         replace_special_characters(key): key for key in items_json.keys()
     }
 
-    # Traitement de chaque item détecté
+    processed_names = set()
+    unique_items = []
     for name, price in items_data:
+        normalized_name = replace_special_characters(name)
+        if normalized_name not in processed_names:
+            processed_names.add(normalized_name)
+            unique_items.append((name, price))
+        else:
+            print(f"Item ignoré (doublon): {name} - {price}")
+
+    # Traitement de chaque item unique détecté
+    for name, price in unique_items:
         # Normaliser le nom pour la recherche
         normalized_name = replace_special_characters(name)
 
@@ -106,21 +117,24 @@ def update_items_json(items_data):
             # Utiliser la clé originale du JSON
             original_key = normalized_keys[normalized_name]
 
-            # L'item existe déjà, ajouter le nouveau prix
+            # L'item existe déjà, vérifier si nous avons déjà un prix pour cette date
             if "price" not in items_json[original_key]:
                 items_json[original_key]["price"] = []
 
-            # Vérifier si ce prix existe déjà pour éviter les doublons
-            price_exists = any(
-                entry.get("value") == price
+            # Vérifier si un prix existe déjà pour cette date
+            date_exists = any(
+                entry.get("date") == DATE_CAPTURE
                 for entry in items_json[original_key]["price"]
             )
 
-            if not price_exists:
+            if date_exists:
+                print(f"Prix ignoré pour {original_key}: un prix existe déjà pour la date {DATE_CAPTURE}")
+            else:
+                # Ajouter le nouveau prix avec la date
                 items_json[original_key]["price"].append(
                     {"date": DATE_CAPTURE, "value": price}
                 )
-                print(f"Prix ajouté pour {original_key}: {price}")
+                print(f"Prix ajouté pour {original_key}: {price} à la date {DATE_CAPTURE}")
         else:
             # Nouvel item, créer une nouvelle entrée
             items_json[name] = {
@@ -181,7 +195,6 @@ def archive_images(image_files):
             print(f"Erreur lors du déplacement de l'image {image_path}: {e}")
 
     return len(image_files)
-
 
 def main():
     # Récupérer toutes les images du répertoire HDV
