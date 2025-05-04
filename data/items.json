@@ -12260,6 +12260,10 @@
             {
                 "date": "2024-10-24",
                 "value": 900000
+            },
+            {
+                "date": "2025-05-04",
+                "value": 999998
             }
         ]
     },
@@ -12392,6 +12396,10 @@
             {
                 "date": "2024-10-18",
                 "value": 1299999
+            },
+            {
+                "date": "2025-05-04",
+                "value": 9999999
             }
         ]
     },
@@ -28819,7 +28827,7 @@
         ]
     },
     "Sceau du Maître d'Armes": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28828,7 +28836,7 @@
         ]
     },
     "Orbe Infernal": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28837,7 +28845,7 @@
         ]
     },
     "Cuir Ancestral": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28846,7 +28854,7 @@
         ]
     },
     "Giga-Bombe": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28855,7 +28863,7 @@
         ]
     },
     "Rubis Poli": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28864,7 +28872,7 @@
         ]
     },
     "Agate Polie": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28873,7 +28881,7 @@
         ]
     },
     "Cuir Infernal": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28882,7 +28890,7 @@
         ]
     },
     "Envelouté Divin": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28891,7 +28899,7 @@
         ]
     },
     "Farine Eternelle": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28900,7 +28908,7 @@
         ]
     },
     "Orbe Ancestral": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28909,7 +28917,7 @@
         ]
     },
     "Acier Infernal": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28918,7 +28926,7 @@
         ]
     },
     "Cuir Divin": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28927,7 +28935,7 @@
         ]
     },
     "Epice Rudimentaire": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28936,7 +28944,7 @@
         ]
     },
     "Envelouté Rudimentaire": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28945,7 +28953,7 @@
         ]
     },
     "Orbe Divin": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28954,7 +28962,7 @@
         ]
     },
     "Manche Infernal": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28963,7 +28971,7 @@
         ]
     },
     "Cuir Eternel": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28972,7 +28980,7 @@
         ]
     },
     "Epice Exquise": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28981,7 +28989,7 @@
         ]
     },
     "Essence Mystique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28990,7 +28998,7 @@
         ]
     },
     "Planche Rudimentaire": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -28999,7 +29007,7 @@
         ]
     },
     "Plaque Eternelle": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29008,7 +29016,7 @@
         ]
     },
     "Fibre Précieuse": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29017,7 +29025,7 @@
         ]
     },
     "Manche Précieux": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29026,7 +29034,7 @@
         ]
     },
     "Fil Ancestral": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29035,7 +29043,7 @@
         ]
     },
     "Gemme Raffinée": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29044,7 +29052,7 @@
         ]
     },
     "Manche Imparfait": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29053,7 +29061,7 @@
         ]
     },
     "Fil Eternel": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29062,7 +29070,7 @@
         ]
     },
     "Farine Mystique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29071,7 +29079,7 @@
         ]
     },
     "Farine Divine": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29080,7 +29088,7 @@
         ]
     },
     "Huile Brute": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29089,7 +29097,7 @@
         ]
     },
     "Gemme Ancestrale": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29098,7 +29106,7 @@
         ]
     },
     "Orbe Eternel": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29107,7 +29115,7 @@
         ]
     },
     "Equerre Infernale": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29116,7 +29124,7 @@
         ]
     },
     "Huile Rustique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29125,7 +29133,7 @@
         ]
     },
     "Manche Ancestral": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29134,7 +29142,7 @@
         ]
     },
     "Epice Infernale": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29143,7 +29151,7 @@
         ]
     },
     "Essence Précieuse": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29152,7 +29160,7 @@
         ]
     },
     "Essence Raffinée": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29161,7 +29169,7 @@
         ]
     },
     "Huile Exquise": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29170,7 +29178,7 @@
         ]
     },
     "Huile Eternelle": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29179,7 +29187,7 @@
         ]
     },
     "Envelouté Grossier": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29188,7 +29196,7 @@
         ]
     },
     "Manche Rudimentaire": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29197,7 +29205,7 @@
         ]
     },
     "Essence Eternelle": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29206,7 +29214,7 @@
         ]
     },
     "Fil Rudimentaire": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29215,7 +29223,7 @@
         ]
     },
     "Farine Rudimentaire": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29224,7 +29232,7 @@
         ]
     },
     "Huile Ancestrale": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29233,7 +29241,7 @@
         ]
     },
     "Fibre Exquise": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29242,7 +29250,7 @@
         ]
     },
     "Plaque Solide": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29251,7 +29259,7 @@
         ]
     },
     "Fibre Raffinée": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29260,7 +29268,7 @@
         ]
     },
     "Gemme Eternelle": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29269,7 +29277,7 @@
         ]
     },
     "Gemme Exquise": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29278,7 +29286,7 @@
         ]
     },
     "Equerre Ancestrale": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29287,7 +29295,7 @@
         ]
     },
     "Essence Grossière": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29296,7 +29304,7 @@
         ]
     },
     "Gemme Divine": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29305,7 +29313,7 @@
         ]
     },
     "Farine Solide": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29314,7 +29322,7 @@
         ]
     },
     "Farine Brute": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29323,7 +29331,7 @@
         ]
     },
     "Epice Mystique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29332,7 +29340,7 @@
         ]
     },
     "Huile Durable": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29341,7 +29349,7 @@
         ]
     },
     "Essence Rustique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29350,7 +29358,7 @@
         ]
     },
     "Essence Exquise": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29359,7 +29367,7 @@
         ]
     },
     "Huile Mystique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29368,7 +29376,7 @@
         ]
     },
     "Huile Divine": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29377,7 +29385,7 @@
         ]
     },
     "Gemme Infernale": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29386,7 +29394,7 @@
         ]
     },
     "Essence Brute": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29395,7 +29403,7 @@
         ]
     },
     "Farine Ancestrale": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29404,7 +29412,7 @@
         ]
     },
     "Manche Exquis": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29413,7 +29421,7 @@
         ]
     },
     "Fibre Mystique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29422,7 +29430,7 @@
         ]
     },
     "Fibre Infernale": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29431,7 +29439,7 @@
         ]
     },
     "Planche Fragile": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29440,7 +29448,7 @@
         ]
     },
     "Envelouté Durable": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29449,7 +29457,7 @@
         ]
     },
     "Fibre Grossière": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29458,7 +29466,7 @@
         ]
     },
     "Plaque Infernale": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29467,7 +29475,7 @@
         ]
     },
     "Farine Infernale": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29476,7 +29484,7 @@
         ]
     },
     "Huile Précieuse": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29485,7 +29493,7 @@
         ]
     },
     "Manche Raffiné": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29494,7 +29502,7 @@
         ]
     },
     "Essence Infernale": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29503,7 +29511,7 @@
         ]
     },
     "Envelouté Ancestral": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29512,7 +29520,7 @@
         ]
     },
     "Essence Rudimentaire": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29521,7 +29529,7 @@
         ]
     },
     "Huile Raffinée": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29530,7 +29538,7 @@
         ]
     },
     "Farine Rustique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29539,7 +29547,7 @@
         ]
     },
     "Epice Grossière": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29548,7 +29556,7 @@
         ]
     },
     "Essence Durable": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29557,7 +29565,7 @@
         ]
     },
     "Acier Précieux": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29566,7 +29574,7 @@
         ]
     },
     "Fil Divin": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29575,7 +29583,7 @@
         ]
     },
     "Cristal Poli": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29584,7 +29592,7 @@
         ]
     },
     "Epice Rustique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29593,7 +29601,7 @@
         ]
     },
     "Huile Imparfaite": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29602,7 +29610,7 @@
         ]
     },
     "Fil Infernal": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29611,7 +29619,7 @@
         ]
     },
     "Plaque Mystique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29620,7 +29628,7 @@
         ]
     },
     "Acier Grossier": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29629,7 +29637,7 @@
         ]
     },
     "Farine Raffinée": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29638,7 +29646,7 @@
         ]
     },
     "Manche Fragile": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29647,7 +29655,7 @@
         ]
     },
     "Orbe Rustique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29656,7 +29664,7 @@
         ]
     },
     "Farine Précieuse": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29665,7 +29673,7 @@
         ]
     },
     "Huile Solide": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29674,7 +29682,7 @@
         ]
     },
     "éga-Bombe": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29683,7 +29691,7 @@
         ]
     },
     "Huile Infernale": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29692,7 +29700,7 @@
         ]
     },
     "Farine Imparfaite": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29701,7 +29709,7 @@
         ]
     },
     "Manche Rustique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29710,7 +29718,7 @@
         ]
     },
     "Equerre Rudimentaire": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29719,7 +29727,7 @@
         ]
     },
     "Huile Fragile": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29728,7 +29736,7 @@
         ]
     },
     "Fibre Eternelle": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29737,7 +29745,7 @@
         ]
     },
     "Manche Mystique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29746,7 +29754,7 @@
         ]
     },
     "Acier Eternel": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29755,7 +29763,7 @@
         ]
     },
     "Acier Imparfait": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29764,7 +29772,7 @@
         ]
     },
     "Lapis Lezoli": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29773,7 +29781,7 @@
         ]
     },
     "Fil Précieux": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29782,7 +29790,7 @@
         ]
     },
     "Plaque Précieuse": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29791,7 +29799,7 @@
         ]
     },
     "Fibre Rustique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29800,7 +29808,7 @@
         ]
     },
     "Plaque Divine": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29809,7 +29817,7 @@
         ]
     },
     "Farine Durable": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29818,7 +29826,7 @@
         ]
     },
     "Fil Durable": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29827,7 +29835,7 @@
         ]
     },
     "Acier Brut": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29836,7 +29844,7 @@
         ]
     },
     "Fibre Rudimentaire": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29845,7 +29853,7 @@
         ]
     },
     "Fil Mystique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29854,7 +29862,7 @@
         ]
     },
     "Equerre Eternelle": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29863,7 +29871,7 @@
         ]
     },
     "Fibre Ancestrale": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29872,7 +29880,7 @@
         ]
     },
     "Manche Eternel": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29881,7 +29889,7 @@
         ]
     },
     "Farine Fragile": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29890,7 +29898,7 @@
         ]
     },
     "Planche Solide": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29899,7 +29907,7 @@
         ]
     },
     "Manche Divin": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29908,7 +29916,7 @@
         ]
     },
     "Fibre Solide": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29917,7 +29925,7 @@
         ]
     },
     "Acier Ancestral": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29926,7 +29934,7 @@
         ]
     },
     "Manche Durable": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29935,7 +29943,7 @@
         ]
     },
     "Huile Rudimentaire": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29944,7 +29952,7 @@
         ]
     },
     "Equerre Solide": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29953,7 +29961,7 @@
         ]
     },
     "Envelouté Fragile": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29962,7 +29970,7 @@
         ]
     },
     "Epice Eternelle": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29971,7 +29979,7 @@
         ]
     },
     "Planche Grossière": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29980,7 +29988,7 @@
         ]
     },
     "Equerre Exquise": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29989,7 +29997,7 @@
         ]
     },
     "Gemme Fragile": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -29998,7 +30006,7 @@
         ]
     },
     "Plaque Raffinée": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30007,7 +30015,7 @@
         ]
     },
     "Gemme Durable": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30016,7 +30024,7 @@
         ]
     },
     "Fibre Fragile": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30025,7 +30033,7 @@
         ]
     },
     "Essence Ancestrale": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30034,7 +30042,7 @@
         ]
     },
     "Essence Fragile": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30043,7 +30051,7 @@
         ]
     },
     "Manche Grossier": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30052,7 +30060,7 @@
         ]
     },
     "Huile Grossière": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30061,7 +30069,7 @@
         ]
     },
     "Equerre Précieuse": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30070,7 +30078,7 @@
         ]
     },
     "Manche Solide": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30079,7 +30087,7 @@
         ]
     },
     "Acier Exquis": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30088,7 +30096,7 @@
         ]
     },
     "Orbe Précieux": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30097,7 +30105,7 @@
         ]
     },
     "Fibre Imparfaite": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30106,7 +30114,7 @@
         ]
     },
     "Plaque Brute": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30115,7 +30123,7 @@
         ]
     },
     "Fil Rustique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30124,7 +30132,7 @@
         ]
     },
     "Planche Divine": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30133,7 +30141,7 @@
         ]
     },
     "Gemme Grossière": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30142,7 +30150,7 @@
         ]
     },
     "Acier Mystique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30151,7 +30159,7 @@
         ]
     },
     "Fil Fragile": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30160,7 +30168,7 @@
         ]
     },
     "Essence Divine": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30169,7 +30177,7 @@
         ]
     },
     "Manche Brut": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30178,7 +30186,7 @@
         ]
     },
     "Cuir Précieux": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30187,7 +30195,7 @@
         ]
     },
     "Envelouté Eternel": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30196,7 +30204,7 @@
         ]
     },
     "Acier Solide": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30205,7 +30213,7 @@
         ]
     },
     "Equerre Divine": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30214,7 +30222,7 @@
         ]
     },
     "Plaque Exquise": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30223,7 +30231,7 @@
         ]
     },
     "Gemme Mystique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30232,7 +30240,7 @@
         ]
     },
     "Gemme Brute": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30241,7 +30249,7 @@
         ]
     },
     "Cuir Durable": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30250,7 +30258,7 @@
         ]
     },
     "Fil Exquis": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30259,7 +30267,7 @@
         ]
     },
     "Gemme Précieuse": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30268,7 +30276,7 @@
         ]
     },
     "Plaque Rustique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30277,7 +30285,7 @@
         ]
     },
     "Planche Brute": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30286,7 +30294,7 @@
         ]
     },
     "Fibre Durable": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30295,7 +30303,7 @@
         ]
     },
     "Essence Imparfaite": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30304,7 +30312,7 @@
         ]
     },
     "Acier Raifiné": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30313,7 +30321,7 @@
         ]
     },
     "Fibre Divine": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30322,7 +30330,7 @@
         ]
     },
     "Plaque Ancestrale": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30331,7 +30339,7 @@
         ]
     },
     "Fibre Brute": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30340,7 +30348,7 @@
         ]
     },
     "Fil Solide": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30349,7 +30357,7 @@
         ]
     },
     "Epice Imparfaite": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30358,7 +30366,7 @@
         ]
     },
     "Fil Raffiné": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30367,7 +30375,7 @@
         ]
     },
     "Planche Précieuse": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30376,7 +30384,7 @@
         ]
     },
     "Cuir Mystique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30385,7 +30393,7 @@
         ]
     },
     "Orbe Solide": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30394,7 +30402,7 @@
         ]
     },
     "Planche Mystique": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30403,7 +30411,7 @@
         ]
     },
     "Fil Brut": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30412,7 +30420,7 @@
         ]
     },
     "Cuir Fragile": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30421,7 +30429,7 @@
         ]
     },
     "Cuir Raffiné": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30430,7 +30438,7 @@
         ]
     },
     "Fil Imparfait": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30439,7 +30447,7 @@
         ]
     },
     "Farine Grossière": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30448,7 +30456,7 @@
         ]
     },
     "Menthole": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
@@ -30457,11 +30465,1514 @@
         ]
     },
     "Essence Solide": {
-        "type": "métier",
+        "type": "metier",
         "price": [
             {
                 "date": "2025-05-04",
                 "value": 199
+            }
+        ]
+    },
+    "La Juste Table": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 14999999
+            }
+        ]
+    },
+    "Miniature de Nox": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 7999999
+            }
+        ]
+    },
+    "Marionnette de Pulsar": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 5000000
+            }
+        ]
+    },
+    "Marionnette d'Aiguille": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 5000000
+            }
+        ]
+    },
+    "Marionnette de Quartz": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 5000000
+            }
+        ]
+    },
+    "Statue de Jiva": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 4999999
+            }
+        ]
+    },
+    "Plantourelle": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 4999999
+            }
+        ]
+    },
+    "Vitrine des Krosmasters": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 3999999
+            }
+        ]
+    },
+    "Miniature des horlogers": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2988777
+            }
+        ]
+    },
+    "Gelévision de Wakfu": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1999999
+            }
+        ]
+    },
+    "Lit de los Muertos": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Trône de Sufokia": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1999999
+            }
+        ]
+    },
+    "Kit du Havre-Sac Xélor": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1999999
+            }
+        ]
+    },
+    "Peluche Tartanque": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1400000
+            }
+        ]
+    },
+    "Poche Théâtre": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1300000
+            }
+        ]
+    },
+    "Trône de Bonta": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1000000
+            }
+        ]
+    },
+    "Impact sur la faune": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 999999
+            }
+        ]
+    },
+    "Mannequin entubé pour Femme": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 999999
+            }
+        ]
+    },
+    "Plante apprivoisée": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 999999
+            }
+        ]
+    },
+    "Kit de Havre-sac Shushu Vorace": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 999978
+            }
+        ]
+    },
+    "Eliocube": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 970000
+            }
+        ]
+    },
+    "Trophée Steam": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 899999
+            }
+        ]
+    },
+    "Miniature du Tofu Enragé": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 888888
+            }
+        ]
+    },
+    "Miniature d'Ogrest (partie 3)": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 850000
+            }
+        ]
+    },
+    "Mannequin entubé pour Homme": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 850000
+            }
+        ]
+    },
+    "Havre-Ambiance arc-en-ciel": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 849000
+            }
+        ]
+    },
+    "Havre-Ambiance pétales de roses": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 800000
+            }
+        ]
+    },
+    "Grande Cuisine": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 779000
+            }
+        ]
+    },
+    "Plante Lenaid": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 699999
+            }
+        ]
+    },
+    "Grand Atelier du Pécheur": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 647774
+            }
+        ]
+    },
+    "Miniature de Toross": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 640000
+            }
+        ]
+    },
+    "Grand Atelier de Maroquinier": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 620000
+            }
+        ]
+    },
+    "Table aux Chandelles": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 600000
+            }
+        ]
+    },
+    "Plan de Décoration de la Petite Maison de Brâkmar": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 600000
+            }
+        ]
+    },
+    "Grand Four à Pain": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 598000
+            }
+        ]
+    },
+    "Grand Tour à Bois": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 588888
+            }
+        ]
+    },
+    "Diamant Dodu": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 585000
+            }
+        ]
+    },
+    "Fétiche Wabbit": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 580000
+            }
+        ]
+    },
+    "Statue d'Oscar Nak": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 555555
+            }
+        ]
+    },
+    "Grand Atelier de Tanneur": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 550000
+            }
+        ]
+    },
+    "Grande Scierie": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 549990
+            }
+        ]
+    },
+    "Grande Polisseuse": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 529998
+            }
+        ]
+    },
+    "Lit Ballotin": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 499999
+            }
+        ]
+    },
+    "Statue de Nox": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 499999
+            }
+        ]
+    },
+    "Décoration d'angle": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 499999
+            }
+        ]
+    },
+    "Miniature d'Ogrest (partie 8)": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 499999
+            }
+        ]
+    },
+    "Grande Forge d'Armes": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 499997
+            }
+        ]
+    },
+    "Bras gauche de Cire": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 499990
+            }
+        ]
+    },
+    "Bras droit de Cire": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 499990
+            }
+        ]
+    },
+    "Grande Armurerie": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 490000
+            }
+        ]
+    },
+    "Grande Distillerie": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 475000
+            }
+        ]
+    },
+    "Trône d'Amakna": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 475000
+            }
+        ]
+    },
+    "Trône de Brâkmar": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 474998
+            }
+        ]
+    },
+    "Miniature de Nogord l'Ezaré!": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 470000
+            }
+        ]
+    },
+    "Peluche Chauffe-Souris": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 450000
+            }
+        ]
+    },
+    "Tête de Cire": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 450000
+            }
+        ]
+    },
+    "Statue d'Anna Tommy": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 450000
+            }
+        ]
+    },
+    "Statue de Bad Aboum": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 450000
+            }
+        ]
+    },
+    "Grand Atelier de Tailleur": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 445000
+            }
+        ]
+    },
+    "Kit du Havre-Sac Frigost": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 400000
+            }
+        ]
+    },
+    "Statue de Dofka Talys": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 400000
+            }
+        ]
+    },
+    "Grande Meule": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 399999
+            }
+        ]
+    },
+    "Havre-Ambiance lumière éthérée": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 399999
+            }
+        ]
+    },
+    "Havre-Ambiance cendres": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 399719
+            }
+        ]
+    },
+    "Grand Sertisseur": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 363999
+            }
+        ]
+    },
+    "Cuisine": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 350000
+            }
+        ]
+    },
+    "Statue de l'Oiseau des Ténèbres": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 350000
+            }
+        ]
+    },
+    "Fontaine de larmes d'Ogrest": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 299999
+            }
+        ]
+    },
+    "Peluche de Foul Moon": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 239999
+            }
+        ]
+    },
+    "Choix de nation": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 299999
+            }
+        ]
+    },
+    "Impact sur la flore": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 299999
+            }
+        ]
+    },
+    "Vote": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 299999
+            }
+        ]
+    },
+    "Passeport": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 299999
+            }
+        ]
+    },
+    "Miniature du Tofu Céleste": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 299999
+            }
+        ]
+    },
+    "Bilby-Platine": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 299999
+            }
+        ]
+    },
+    "Miniature du Piou Céleste": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 299999
+            }
+        ]
+    },
+    "Peluche de Nogord": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 299999
+            }
+        ]
+    },
+    "Scaraîeuille apprivoisé": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 239999
+            }
+        ]
+    },
+    "Météorologie": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 299998
+            }
+        ]
+    },
+    "Havre-Ambiance flamme bleue": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 296999
+            }
+        ]
+    },
+    "Kit de Havre-sac Yokai": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 274999
+            }
+        ]
+    },
+    "Polisseuse": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 260000
+            }
+        ]
+    },
+    "Kit du Havre Sac Wabbit": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 227098
+            }
+        ]
+    },
+    "Placard d'Herboriste": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 250000
+            }
+        ]
+    },
+    "Table d'Halouine": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 250000
+            }
+        ]
+    },
+    "Squelette": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 249999
+            }
+        ]
+    },
+    "Grille Vampyrique": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 249999
+            }
+        ]
+    },
+    "Bibliothèque gelée": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 249950
+            }
+        ]
+    },
+    "Atelier de Maroquinier": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 240000
+            }
+        ]
+    },
+    "Fétiche Lenald": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 199999
+            }
+        ]
+    },
+    "Petite Table Ronde": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 200000
+            }
+        ]
+    },
+    "Havre-Ambiance tempête": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 200000
+            }
+        ]
+    },
+    "Miniature de Rushu": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 200000
+            }
+        ]
+    },
+    "Décoration Krosmoz": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 200000
+            }
+        ]
+    },
+    "Plan de Décoration de la Petite Maison d'Amakna": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 200000
+            }
+        ]
+    },
+    "Peluche Ti Wabbit": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 200000
+            }
+        ]
+    },
+    "Atelier de Tanneur": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 199999
+            }
+        ]
+    },
+    "Peluche Géante du Gobgob": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 199999
+            }
+        ]
+    },
+    "Choubidoudou": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 199499
+            }
+        ]
+    },
+    "Pichon apprivoisé": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 195094
+            }
+        ]
+    },
+    "Atelier de Tailleur": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 199999
+            }
+        ]
+    },
+    "Havre-Ambiance pluie": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 199998
+            }
+        ]
+    },
+    "Mooëron apprivoisé": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 199998
+            }
+        ]
+    },
+    "Forge d'Armes": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 189990
+            }
+        ]
+    },
+    "Sertisseur": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 184700
+            }
+        ]
+    },
+    "Totem Kanniboul": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 180000
+            }
+        ]
+    },
+    "Meule": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 175175
+            }
+        ]
+    },
+    "Bibliothèque de Jacky": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 170000
+            }
+        ]
+    },
+    "Distillerie": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 169999
+            }
+        ]
+    },
+    "Havre-Gemme de Bonta": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 161066
+            }
+        ]
+    },
+    "Tour à Bois": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 159870
+            }
+        ]
+    },
+    "Miniature de Cendragon": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 150000
+            }
+        ]
+    },
+    "Peluche Encre Noire": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 149999
+            }
+        ]
+    },
+    "Scierie": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 149995
+            }
+        ]
+    },
+    "Four à Pain": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 148999
+            }
+        ]
+    },
+    "Armurerie": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 148995
+            }
+        ]
+    },
+    "Le Juste Tabouret": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 140000
+            }
+        ]
+    },
+    "Havre-Ambiance contamination": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 140000
+            }
+        ]
+    },
+    "Autel de Kali": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 139000
+            }
+        ]
+    },
+    "Miniature de Cratéros": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 134252
+            }
+        ]
+    },
+    "Kit du Havre-Sac Percimol": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 129998
+            }
+        ]
+    },
+    "Œuuf et nid de dragon": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 125000
+            }
+        ]
+    },
+    "Plante Crâ": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 125000
+            }
+        ]
+    },
+    "Table de Jeu Arena": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 124999
+            }
+        ]
+    },
+    "Crâne de Cristal": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 124554
+            }
+        ]
+    },
+    "Peluche Meulou": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 123456
+            }
+        ]
+    },
+    "Lampe Crâ": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 120000
+            }
+        ]
+    },
+    "Paravent du Vaisseau Zinit": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 120000
+            }
+        ]
+    },
+    "Peluche de Vilenya": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 119999
+            }
+        ]
+    },
+    "Petite Bougie": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 100000
+            }
+        ]
+    },
+    "Pile d'énergie": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 100000
+            }
+        ]
+    },
+    "Miniature de l'Île des brumes": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 100000
+            }
+        ]
+    },
+    "Carte Chuchoteur": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 100000
+            }
+        ]
+    },
+    "Cube en Gelée Citron": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 100000
+            }
+        ]
+    },
+    "Chaise romantique": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 99499
+            }
+        ]
+    },
+    "Dofus plaqué or": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 99999
+            }
+        ]
+    },
+    "Peluche Mystery Box": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 99999
+            }
+        ]
+    },
+    "Peluche de la Sain Ballotin": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 99999
+            }
+        ]
+    },
+    "Statue de Prespic en Or": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 99999
+            }
+        ]
+    },
+    "Placard Ventripoté": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 99999
+            }
+        ]
+    },
+    "Peluche Marabouf": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 99999
+            }
+        ]
+    },
+    "Gouverneur": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 99999
+            }
+        ]
+    },
+    "Peluche Dark Vlad": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 99998
+            }
+        ]
+    },
+    "Lit shushuté": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 99998
+            }
+        ]
+    },
+    "Tofu suspendu": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 99998
+            }
+        ]
+    },
+    "Table de Kali": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 99998
+            }
+        ]
+    },
+    "Famille Sram": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 98500
+            }
+        ]
+    },
+    "Peluche de Kroutänkharton": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 95000
+            }
+        ]
+    },
+    "Renne Animé": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 90000
+            }
+        ]
+    },
+    "Gligli apprivoisé": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 90000
+            }
+        ]
+    },
+    "Stèle d'un âge perdu": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 89999
+            }
+        ]
+    },
+    "Havre-Ambiance crane": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 88999
+            }
+        ]
+    },
+    "Table d'Hiboss": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 88887
+            }
+        ]
+    },
+    "Tapis Lenald": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 85555
+            }
+        ]
+    },
+    "Plante Pandawa": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 85000
+            }
+        ]
+    },
+    "Niche de chienchien": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 80000
+            }
+        ]
+    },
+    "Gel de Wakfu": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 79999
+            }
+        ]
+    },
+    "Autel du Vaisseau Zinit": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 79999
+            }
+        ]
+    },
+    "Kit de Havre-Sac Zinit": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 79997
+            }
+        ]
+    },
+    "Statue de Chevalier Ténèbres": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 72978
+            }
+        ]
+    },
+    "Armoire Mornande": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 75000
+            }
+        ]
+    },
+    "Petite Forge d'Armes": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 73500
+            }
+        ]
+    },
+    "Jyfus": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 70000
+            }
+        ]
+    },
+    "Pancarte \"Khan Fan #1\" Milieu": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 70000
+            }
+        ]
+    },
+    "Pancarte \"Khan Fan #1\" Gauche": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 70000
+            }
+        ]
+    },
+    "Pancarte \"Khan Fan #1\" Droite": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 70000
+            }
+        ]
+    },
+    "Tableau 02/02 - Collection mystique": {
+        "type": "deco",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 70000
             }
         ]
     }

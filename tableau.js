@@ -59,6 +59,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 nom = key.trim() + rarityIcon[item.info];
             }
 
+            // console.log("itemTypesData[item.type]", item.type)
             row.innerHTML = `
                 <td id="${itemTypesData[item.type].name}">
                     <img src="${itemTypesData[item.type].img}" class="non-selectable" />
