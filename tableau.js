@@ -58,6 +58,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 }
                 nom = key.trim() + rarityIcon[item.info];
             }
+
             row.innerHTML = `
                 <td id="${itemTypesData[item.type].name}">
                     <img src="${itemTypesData[item.type].img}" class="non-selectable" />
@@ -212,15 +213,15 @@ document.addEventListener("DOMContentLoaded", function () {
         
         // Ajouter un écouteur d'événements à chaque cellule du tableau
         const fullTable = document.querySelectorAll('table#table-info-item');
-        const titleInfo = document.getElementById('title-info');
-        tableRows = document.querySelectorAll('#tbody-data-items tr.item-row');
+        const titleInfo = document.getElementById('title-info');tableRows = document.querySelectorAll('#tbody-data-items tr.item-row td:not(:nth-child(2))');
+
 
         const priceChartCanvas = document.getElementById('priceChart');
         let priceChart;
 
 
-        tableRows.forEach(row => {
-            row.addEventListener('click', () => {
+        tableRows.forEach((cell, index) => {
+            cell.addEventListener('click', () => {
                 const infoItemContainer = document.querySelector('.info-item-container');
                 const infoItemTbody = document.querySelector('#tbody-info-items');
 
@@ -228,6 +229,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 infoItemContainer.style.visibility = 'visible';
     
                 // Obtenir les informations de la ligne parente de la cellule cliquée
+                const row = cell.parentElement;
                 const cells = row.querySelectorAll('td');
                 const indice = cells[0].textContent;
                 const nomItemClic = cells[1].textContent;
@@ -236,51 +238,19 @@ document.addEventListener("DOMContentLoaded", function () {
                 titleInfo.textContent = nomItemClic;
                 const dates = [];
                 const values = [];
-                let minPrice = Number.MAX_SAFE_INTEGER;
-                let maxPrice = Number.MIN_SAFE_INTEGER;
-                let sumPrice = 0;
-
-                // Première boucle pour calculer minPrice, maxPrice et sumPrice
-                Object.values(itemsData[row.id].price).forEach((item) => {
-                    if (minPrice > item.value) {
-                        minPrice = item.value;
-                    }
-                    if (maxPrice < item.value) {
-                        maxPrice = item.value;
-                    }
-                    sumPrice += item.value;
-                });
-
                 Object.values(itemsData[row.id].price).forEach((item, index) => {
                     const formattedValue = item.value.toLocaleString('fr-FR');
                     const formattedItemDate = formatDate(item.date);
                     dates.push(item.date);
                     values.push(item.value);
-                    let priceClass = '';
-                    if (item.value === minPrice) {
-                        priceClass = 'lowest-price';
-                    } else if (item.value === maxPrice) {
-                        priceClass = 'highest-price';
-                    }
-
                     infoItemTbody.innerHTML += `
                         <tr>
                             <td>${index + 1}</td>
                             <td>${formattedItemDate}</td>
-                            <td class="${priceClass}">${formattedValue}</td>
+                            <td>${formattedValue}</td>
                         </tr>
                     `;
                 });
-
-                infoItemTbody.innerHTML += `
-                
-                <tr><td></td></tr>
-                <tr>
-                    <td></td>
-                    <td class="moyenne-details">Moyenne</td>
-                    <td>${Math.floor(sumPrice / Object.keys(itemsData[row.id].price).length).toLocaleString('fr-FR')}</td>
-                </tr/>
-                `;
 
                 if (priceChart) {
                     priceChart.destroy(); // Détruire le graphique précédent s'il existe
@@ -329,6 +299,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     }
                 });
             });
+
         });
 
         const introContainer = document.getElementById('intro-container');
