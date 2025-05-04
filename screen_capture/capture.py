@@ -2,12 +2,14 @@ from PIL import Image
 import pytesseract
 import json
 import os
+import shutil
 from datetime import datetime
 import re
 
 # Constantes
 DATE_CAPTURE = "2025-05-04"  # Date de la capture au format YYYY-MM-DD
 HDV_DIR = "hdv"  # Répertoire contenant les images à analyser
+ARCHIVES_DIR = "archives"  # Répertoire d'archives
 JSON_PATH = r"c:\Users\roman\OneDrive\Documents\ProjetPerso\Merchfu\data\items.json"
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
@@ -33,16 +35,16 @@ def extract_items(image_path):
         # Découpe du nom
         name_crop = img.crop((NAME_BOX[0], top + NAME_BOX[1],
                               NAME_BOX[2], top + NAME_BOX[3]))
-        name_text = pytesseract.image_to_string(name_crop, lang='eng').strip()
+        name_text = pytesseract.image_to_string(name_crop, lang='fra').strip()
         
         # Normaliser les apostrophes dans le nom
-        name_text = name_text.replace("'", "'").replace("`", "'").replace("'", "'")
+        name_text = replace_special_characters(name_text)
         
         # Découpe du prix
         price_crop = img.crop((PRICE_BOX[0], top + PRICE_BOX[1],
                                PRICE_BOX[2], top + PRICE_BOX[3]))
         price_text = pytesseract.image_to_string(
-            price_crop, lang='eng', config='--psm 7 -c tessedit_char_whitelist=0123456789'
+            price_crop, lang='fra', config='--psm 7 -c tessedit_char_whitelist=0123456789'
         ).strip()
 
         if name_text and price_text:
@@ -55,6 +57,9 @@ def extract_items(image_path):
 
     return items
 
+def replace_special_characters(text):
+    return text.replace("’", "'").replace(" IT", " II").replace(" IIT", " III").replace("\n", " ").replace("Mélée", "Mêlée")
+
 def update_items_json(items_data):
     # Charger le JSON existant
     try:
@@ -65,12 +70,12 @@ def update_items_json(items_data):
         print("Fichier JSON non trouvé ou corrompu. Création d'un nouveau fichier.")
     
     # Créer un dictionnaire normalisé des clés existantes pour faciliter la recherche
-    normalized_keys = {key.replace("'", "'").replace("`", "'").replace("'", "'"): key for key in items_json.keys()}
+    normalized_keys = {replace_special_characters(key): key for key in items_json.keys()}
     
     # Traitement de chaque item détecté
     for name, price in items_data:
         # Normaliser le nom pour la recherche
-        normalized_name = name.replace("'", "'").replace("`", "'").replace("'", "'")
+        normalized_name = replace_special_characters(name)
         
         # Vérifier si l'item existe déjà (en utilisant le nom normalisé)
         if normalized_name in normalized_keys:
@@ -124,6 +129,34 @@ def get_image_files(directory):
     
     return image_files
 
+def archive_images(image_files):
+    """Déplace les images traitées vers le répertoire d'archives avec la date en cours."""
+    # Créer le répertoire d'archives s'il n'existe pas
+    if not os.path.exists(ARCHIVES_DIR):
+        os.makedirs(ARCHIVES_DIR)
+        print(f"Répertoire d'archives créé: {ARCHIVES_DIR}")
+    
+    # Créer le répertoire de date s'il n'existe pas
+    date_dir = os.path.join(ARCHIVES_DIR, DATE_CAPTURE)
+    if not os.path.exists(date_dir):
+        os.makedirs(date_dir)
+        print(f"Répertoire de date créé: {date_dir}")
+    
+    # Déplacer chaque image vers le répertoire d'archives
+    for image_path in image_files:
+        try:
+            # Obtenir le nom du fichier sans le chemin
+            filename = os.path.basename(image_path)
+            # Créer le chemin de destination
+            destination = os.path.join(date_dir, filename)
+            # Déplacer le fichier
+            shutil.move(image_path, destination)
+            print(f"Image déplacée: {image_path} -> {destination}")
+        except Exception as e:
+            print(f"Erreur lors du déplacement de l'image {image_path}: {e}")
+    
+    return len(image_files)
+
 def main():
     # Récupérer toutes les images du répertoire HDV
     image_files = get_image_files(HDV_DIR)
@@ -158,6 +191,11 @@ def main():
         update_items_json(all_items)
     else:
         print("Aucun item détecté dans toutes les images.")
+    
+    # Archiver les images traitées
+    if image_files:
+        nb_archived = archive_images(image_files)
+        print(f"\n{nb_archived} images archivées dans {os.path.join(ARCHIVES_DIR, DATE_CAPTURE)}")
 
 if __name__ == "__main__":
     main()
