@@ -57,6 +57,10 @@
             {
                 "date": "2025-04-20",
                 "value": 499990
+            },
+            {
+                "date": "2025-05-04",
+                "value": 799978
             }
         ]
     },
@@ -70,6 +74,10 @@
             {
                 "date": "2025-04-20",
                 "value": 193998
+            },
+            {
+                "date": "2025-05-04",
+                "value": 168900
             }
         ]
     },
@@ -83,6 +91,10 @@
             {
                 "date": "2025-04-20",
                 "value": 299980
+            },
+            {
+                "date": "2025-05-04",
+                "value": 269997
             }
         ]
     },
@@ -96,6 +108,10 @@
             {
                 "date": "2025-04-20",
                 "value": 200000
+            },
+            {
+                "date": "2025-05-04",
+                "value": 189000
             }
         ]
     },
@@ -112,7 +128,7 @@
             }
         ]
     },
-    "Emeraude poli": {
+    "Emeraude Polie": {
         "type": "metier",
         "price": [
             {
@@ -122,10 +138,14 @@
             {
                 "date": "2025-04-20",
                 "value": 5200
+            },
+            {
+                "date": "2025-05-04",
+                "value": 6996
             }
         ]
     },
-    "Diamant poli": {
+    "Diamant Poli": {
         "type": "metier",
         "prio": true,
         "price": [
@@ -164,6 +184,10 @@
             {
                 "date": "2025-04-20",
                 "value": 20998
+            },
+            {
+                "date": "2025-05-04",
+                "value": 33491
             }
         ]
     },
@@ -28791,6 +28815,1653 @@
             {
                 "date": "2025-05-04",
                 "value": 10200
+            }
+        ]
+    },
+    "Sceau du Maître d'Armes": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 349999
+            }
+        ]
+    },
+    "Orbe Infernal": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 14998
+            }
+        ]
+    },
+    "Cuir Ancestral": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 13998
+            }
+        ]
+    },
+    "Giga-Bombe": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 7000
+            }
+        ]
+    },
+    "Rubis Poli": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 6986
+            }
+        ]
+    },
+    "Agate Polie": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 6238
+            }
+        ]
+    },
+    "Cuir Infernal": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 5998
+            }
+        ]
+    },
+    "Envelouté Divin": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 4300
+            }
+        ]
+    },
+    "Farine Eternelle": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 3790
+            }
+        ]
+    },
+    "Orbe Ancestral": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 3500
+            }
+        ]
+    },
+    "Acier Infernal": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2999
+            }
+        ]
+    },
+    "Cuir Divin": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2899
+            }
+        ]
+    },
+    "Epice Rudimentaire": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2899
+            }
+        ]
+    },
+    "Envelouté Rudimentaire": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2778
+            }
+        ]
+    },
+    "Orbe Divin": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2750
+            }
+        ]
+    },
+    "Manche Infernal": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2499
+            }
+        ]
+    },
+    "Cuir Eternel": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2499
+            }
+        ]
+    },
+    "Epice Exquise": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2499
+            }
+        ]
+    },
+    "Essence Mystique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2328
+            }
+        ]
+    },
+    "Planche Rudimentaire": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2289
+            }
+        ]
+    },
+    "Plaque Eternelle": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2098
+            }
+        ]
+    },
+    "Fibre Précieuse": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1998
+            }
+        ]
+    },
+    "Manche Précieux": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1994
+            }
+        ]
+    },
+    "Fil Ancestral": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1985
+            }
+        ]
+    },
+    "Gemme Raffinée": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1977
+            }
+        ]
+    },
+    "Manche Imparfait": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1970
+            }
+        ]
+    },
+    "Fil Eternel": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1940
+            }
+        ]
+    },
+    "Farine Mystique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1900
+            }
+        ]
+    },
+    "Farine Divine": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1898
+            }
+        ]
+    },
+    "Huile Brute": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1798
+            }
+        ]
+    },
+    "Gemme Ancestrale": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1797
+            }
+        ]
+    },
+    "Orbe Eternel": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1294
+            }
+        ]
+    },
+    "Equerre Infernale": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1797
+            }
+        ]
+    },
+    "Huile Rustique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1700
+            }
+        ]
+    },
+    "Manche Ancestral": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1690
+            }
+        ]
+    },
+    "Epice Infernale": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1689
+            }
+        ]
+    },
+    "Essence Précieuse": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1688
+            }
+        ]
+    },
+    "Essence Raffinée": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1666
+            }
+        ]
+    },
+    "Huile Exquise": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1600
+            }
+        ]
+    },
+    "Huile Eternelle": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1598
+            }
+        ]
+    },
+    "Envelouté Grossier": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1585
+            }
+        ]
+    },
+    "Manche Rudimentaire": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1583
+            }
+        ]
+    },
+    "Essence Eternelle": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1577
+            }
+        ]
+    },
+    "Fil Rudimentaire": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1516
+            }
+        ]
+    },
+    "Farine Rudimentaire": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1499
+            }
+        ]
+    },
+    "Huile Ancestrale": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1499
+            }
+        ]
+    },
+    "Fibre Exquise": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1497
+            }
+        ]
+    },
+    "Plaque Solide": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1495
+            }
+        ]
+    },
+    "Fibre Raffinée": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1492
+            }
+        ]
+    },
+    "Gemme Eternelle": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1487
+            }
+        ]
+    },
+    "Gemme Exquise": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1439
+            }
+        ]
+    },
+    "Equerre Ancestrale": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1396
+            }
+        ]
+    },
+    "Essence Grossière": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1349
+            }
+        ]
+    },
+    "Gemme Divine": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1349
+            }
+        ]
+    },
+    "Farine Solide": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1338
+            }
+        ]
+    },
+    "Farine Brute": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1333
+            }
+        ]
+    },
+    "Epice Mystique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1298
+            }
+        ]
+    },
+    "Huile Durable": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1290
+            }
+        ]
+    },
+    "Essence Rustique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1287
+            }
+        ]
+    },
+    "Essence Exquise": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1277
+            }
+        ]
+    },
+    "Huile Mystique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1246
+            }
+        ]
+    },
+    "Huile Divine": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1200
+            }
+        ]
+    },
+    "Gemme Infernale": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1195
+            }
+        ]
+    },
+    "Essence Brute": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1185
+            }
+        ]
+    },
+    "Farine Ancestrale": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1175
+            }
+        ]
+    },
+    "Manche Exquis": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1144
+            }
+        ]
+    },
+    "Fibre Mystique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1139
+            }
+        ]
+    },
+    "Fibre Infernale": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1100
+            }
+        ]
+    },
+    "Planche Fragile": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1099
+            }
+        ]
+    },
+    "Envelouté Durable": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1097
+            }
+        ]
+    },
+    "Fibre Grossière": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1079
+            }
+        ]
+    },
+    "Plaque Infernale": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1000
+            }
+        ]
+    },
+    "Farine Infernale": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 999
+            }
+        ]
+    },
+    "Huile Précieuse": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 999
+            }
+        ]
+    },
+    "Manche Raffiné": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 998
+            }
+        ]
+    },
+    "Essence Infernale": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 998
+            }
+        ]
+    },
+    "Envelouté Ancestral": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 998
+            }
+        ]
+    },
+    "Essence Rudimentaire": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 997
+            }
+        ]
+    },
+    "Huile Raffinée": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 996
+            }
+        ]
+    },
+    "Farine Rustique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 990
+            }
+        ]
+    },
+    "Epice Grossière": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 989
+            }
+        ]
+    },
+    "Essence Durable": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 984
+            }
+        ]
+    },
+    "Acier Précieux": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 984
+            }
+        ]
+    },
+    "Fil Divin": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 972
+            }
+        ]
+    },
+    "Cristal Poli": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 966
+            }
+        ]
+    },
+    "Epice Rustique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 949
+            }
+        ]
+    },
+    "Huile Imparfaite": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 943
+            }
+        ]
+    },
+    "Fil Infernal": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 940
+            }
+        ]
+    },
+    "Plaque Mystique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 939
+            }
+        ]
+    },
+    "Acier Grossier": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 903
+            }
+        ]
+    },
+    "Farine Raffinée": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 895
+            }
+        ]
+    },
+    "Manche Fragile": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 894
+            }
+        ]
+    },
+    "Orbe Rustique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 889
+            }
+        ]
+    },
+    "Farine Précieuse": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 870
+            }
+        ]
+    },
+    "Huile Solide": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 845
+            }
+        ]
+    },
+    "éga-Bombe": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 840
+            }
+        ]
+    },
+    "Huile Infernale": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 839
+            }
+        ]
+    },
+    "Farine Imparfaite": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 800
+            }
+        ]
+    },
+    "Manche Rustique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 800
+            }
+        ]
+    },
+    "Equerre Rudimentaire": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 799
+            }
+        ]
+    },
+    "Huile Fragile": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 799
+            }
+        ]
+    },
+    "Fibre Eternelle": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 798
+            }
+        ]
+    },
+    "Manche Mystique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 796
+            }
+        ]
+    },
+    "Acier Eternel": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 795
+            }
+        ]
+    },
+    "Acier Imparfait": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 794
+            }
+        ]
+    },
+    "Lapis Lezoli": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 793
+            }
+        ]
+    },
+    "Fil Précieux": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 793
+            }
+        ]
+    },
+    "Plaque Précieuse": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 780
+            }
+        ]
+    },
+    "Fibre Rustique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 750
+            }
+        ]
+    },
+    "Plaque Divine": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 748
+            }
+        ]
+    },
+    "Farine Durable": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 699
+            }
+        ]
+    },
+    "Fil Durable": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 697
+            }
+        ]
+    },
+    "Acier Brut": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 694
+            }
+        ]
+    },
+    "Fibre Rudimentaire": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 679
+            }
+        ]
+    },
+    "Fil Mystique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 668
+            }
+        ]
+    },
+    "Equerre Eternelle": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 655
+            }
+        ]
+    },
+    "Fibre Ancestrale": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 600
+            }
+        ]
+    },
+    "Manche Eternel": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 598
+            }
+        ]
+    },
+    "Farine Fragile": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 596
+            }
+        ]
+    },
+    "Planche Solide": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 595
+            }
+        ]
+    },
+    "Manche Divin": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 589
+            }
+        ]
+    },
+    "Fibre Solide": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 579
+            }
+        ]
+    },
+    "Acier Ancestral": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 578
+            }
+        ]
+    },
+    "Manche Durable": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 577
+            }
+        ]
+    },
+    "Huile Rudimentaire": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 540
+            }
+        ]
+    },
+    "Equerre Solide": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 518
+            }
+        ]
+    },
+    "Envelouté Fragile": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 500
+            }
+        ]
+    },
+    "Epice Eternelle": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 500
+            }
+        ]
+    },
+    "Planche Grossière": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 499
+            }
+        ]
+    },
+    "Equerre Exquise": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 499
+            }
+        ]
+    },
+    "Gemme Fragile": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 498
+            }
+        ]
+    },
+    "Plaque Raffinée": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 498
+            }
+        ]
+    },
+    "Gemme Durable": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 498
+            }
+        ]
+    },
+    "Fibre Fragile": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 496
+            }
+        ]
+    },
+    "Essence Ancestrale": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 488
+            }
+        ]
+    },
+    "Essence Fragile": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 486
+            }
+        ]
+    },
+    "Manche Grossier": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 480
+            }
+        ]
+    },
+    "Huile Grossière": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 466
+            }
+        ]
+    },
+    "Equerre Précieuse": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 450
+            }
+        ]
+    },
+    "Manche Solide": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 446
+            }
+        ]
+    },
+    "Acier Exquis": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 443
+            }
+        ]
+    },
+    "Orbe Précieux": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 400
+            }
+        ]
+    },
+    "Fibre Imparfaite": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 400
+            }
+        ]
+    },
+    "Plaque Brute": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 400
+            }
+        ]
+    },
+    "Fil Rustique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 399
+            }
+        ]
+    },
+    "Planche Divine": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 399
+            }
+        ]
+    },
+    "Gemme Grossière": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 397
+            }
+        ]
+    },
+    "Acier Mystique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 391
+            }
+        ]
+    },
+    "Fil Fragile": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 389
+            }
+        ]
+    },
+    "Essence Divine": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 380
+            }
+        ]
+    },
+    "Manche Brut": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 372
+            }
+        ]
+    },
+    "Cuir Précieux": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 363
+            }
+        ]
+    },
+    "Envelouté Eternel": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2
+            }
+        ]
+    },
+    "Acier Solide": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 350
+            }
+        ]
+    },
+    "Equerre Divine": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 345
+            }
+        ]
+    },
+    "Plaque Exquise": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 345
+            }
+        ]
+    },
+    "Gemme Mystique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 342
+            }
+        ]
+    },
+    "Gemme Brute": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 342
+            }
+        ]
+    },
+    "Cuir Durable": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 339
+            }
+        ]
+    },
+    "Fil Exquis": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 337
+            }
+        ]
+    },
+    "Gemme Précieuse": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 310
+            }
+        ]
+    },
+    "Plaque Rustique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 298
+            }
+        ]
+    },
+    "Planche Brute": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 296
+            }
+        ]
+    },
+    "Fibre Durable": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 294
+            }
+        ]
+    },
+    "Essence Imparfaite": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 293
+            }
+        ]
+    },
+    "Acier Raifiné": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 291
+            }
+        ]
+    },
+    "Fibre Divine": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 290
+            }
+        ]
+    },
+    "Plaque Ancestrale": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 289
+            }
+        ]
+    },
+    "Fibre Brute": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 289
+            }
+        ]
+    },
+    "Fil Solide": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 287
+            }
+        ]
+    },
+    "Epice Imparfaite": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 285
+            }
+        ]
+    },
+    "Fil Raffiné": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 280
+            }
+        ]
+    },
+    "Planche Précieuse": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 277
+            }
+        ]
+    },
+    "Cuir Mystique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 264
+            }
+        ]
+    },
+    "Orbe Solide": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 248
+            }
+        ]
+    },
+    "Planche Mystique": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 235
+            }
+        ]
+    },
+    "Fil Brut": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 228
+            }
+        ]
+    },
+    "Cuir Fragile": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 226
+            }
+        ]
+    },
+    "Cuir Raffiné": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 223
+            }
+        ]
+    },
+    "Fil Imparfait": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 218
+            }
+        ]
+    },
+    "Farine Grossière": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 209
+            }
+        ]
+    },
+    "Menthole": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 200
+            }
+        ]
+    },
+    "Essence Solide": {
+        "type": "métier",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 199
             }
         ]
     }
