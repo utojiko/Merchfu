@@ -10744,6 +10744,10 @@
             {
                 "date": "2024-10-24",
                 "value": 1900000
+            },
+            {
+                "date": "2025-05-04",
+                "value": 5500000
             }
         ]
     },
@@ -31973,6 +31977,1140 @@
             {
                 "date": "2025-05-04",
                 "value": 70000
+            }
+        ]
+    },
+    "Costume de Goultard": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 19999999
+            }
+        ]
+    },
+    "Costume de la princesse": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 5999578
+            }
+        ]
+    },
+    "Costume de pirate maudit": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 9500000
+            }
+        ]
+    },
+    "Costume du Corbin": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 6999999
+            }
+        ]
+    },
+    "Costume démoniaque": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 6999999
+            }
+        ]
+    },
+    "Wonder-Costume": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 5500000
+            }
+        ]
+    },
+    "Costume du ronin": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 5500000
+            }
+        ]
+    },
+    "Costume du Magicien": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 5500000
+            }
+        ]
+    },
+    "Costume du Barde": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 5500000
+            }
+        ]
+    },
+    "Costume de Renne": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 4599999
+            }
+        ]
+    },
+    "Costume Shushu tentaculaire": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 4500000
+            }
+        ]
+    },
+    "Costume de Nora l'exploratrice": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 3999999
+            }
+        ]
+    },
+    "Costume Feast and Foodius": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 3998887
+            }
+        ]
+    },
+    "Costume de l'Horloger": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 3900000
+            }
+        ]
+    },
+    "Costume nostalgique": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 3750000
+            }
+        ]
+    },
+    "Costume de bucheron": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 3750000
+            }
+        ]
+    },
+    "Costume du démon ailé": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 3750000
+            }
+        ]
+    },
+    "Costume de chasseur de Mulou": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 3500000
+            }
+        ]
+    },
+    "Costume d'Hyrkul": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 3499999
+            }
+        ]
+    },
+    "Costume de Bouftou Rose": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 3400000
+            }
+        ]
+    },
+    "Costume des 7 Dofus de Cristal": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2850000
+            }
+        ]
+    },
+    "Costume du Voleur de Voix": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Costume d'Oropo (One More Gate)": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2499999
+            }
+        ]
+    },
+    "Costume de Flaqueux": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2500000
+            }
+        ]
+    },
+    "Costume désertique": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2150000
+            }
+        ]
+    },
+    "Costume Nécrome": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1999999
+            }
+        ]
+    },
+    "Costume d'ouvrier de l'usine": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1999999
+            }
+        ]
+    },
+    "Costume des Nations": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1999999
+            }
+        ]
+    },
+    "Costume du nouvel âge de guilde": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1999998
+            }
+        ]
+    },
+    "Costume bigarré": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1999999
+            }
+        ]
+    },
+    "Costume de Yugo ailé": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1939399
+            }
+        ]
+    },
+    "Costume de Fricadavera": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1995000
+            }
+        ]
+    },
+    "Costume cérémonial": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1900000
+            }
+        ]
+    },
+    "Costume de Flopin (colorable)": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1666666
+            }
+        ]
+    },
+    "Dynaste de Grenat": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "Costume du Traqueur": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1450000
+            }
+        ]
+    },
+    "Costume du mercenaire des ombres": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1399999
+            }
+        ]
+    },
+    "Tenue Flamboyante": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1200000
+            }
+        ]
+    },
+    "Costume de Valkyrie": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1200000
+            }
+        ]
+    },
+    "Costume 1001 Griffes": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1200000
+            }
+        ]
+    },
+    "Costume du Père Spirituel": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1200000
+            }
+        ]
+    },
+    "Costume du prince": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1200000
+            }
+        ]
+    },
+    "Costume du Dark Vlad": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1200000
+            }
+        ]
+    },
+    "Costume du nouvel âge singulier": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1000000
+            }
+        ]
+    },
+    "Costume du dragon d'émeraude": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1000000
+            }
+        ]
+    },
+    "Costume de Glip": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 999999
+            }
+        ]
+    },
+    "Costume de Nowel": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 998999
+            }
+        ]
+    },
+    "Costume du Boufbowleur de Bonta": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 997999
+            }
+        ]
+    },
+    "Costume des Etoiles": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 989999
+            }
+        ]
+    },
+    "Costume ruiniforme": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 950000
+            }
+        ]
+    },
+    "Costume d'Halouine": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 900000
+            }
+        ]
+    },
+    "Costume Pirate d'Amakna": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 900000
+            }
+        ]
+    },
+    "Costume de Shilay Lyu": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 900000
+            }
+        ]
+    },
+    "Costume de Momie Nova": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 900000
+            }
+        ]
+    },
+    "Costume de Grinch": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 900000
+            }
+        ]
+    },
+    "Costume d'Otomaï": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 740000
+            }
+        ]
+    },
+    "Costume de Kitsune": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 629999
+            }
+        ]
+    },
+    "Costume d'Aguabrial": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 550000
+            }
+        ]
+    },
+    "Costume de Kali": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 500000
+            }
+        ]
+    },
+    "Costume Râvissant": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 500000
+            }
+        ]
+    },
+    "Costume de la Fête du Printemps": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 490000
+            }
+        ]
+    },
+    "Costume du Lutin Malin": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 480000
+            }
+        ]
+    },
+    "Costume du Fleuret": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 469000
+            }
+        ]
+    },
+    "Costume Infernal": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 448998
+            }
+        ]
+    },
+    "Costume Pirate de Bonta": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 399996
+            }
+        ]
+    },
+    "La Capuche de Javého": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 317999
+            }
+        ]
+    },
+    "Costume Frigorifique": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 299999
+            }
+        ]
+    },
+    "Costume du repas de Nowel": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 100000
+            }
+        ]
+    },
+    "Costume d'Araknelle": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 299998
+            }
+        ]
+    },
+    "Costume de Raval": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 299995
+            }
+        ]
+    },
+    "Costume de Renne festif": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 298995
+            }
+        ]
+    },
+    "Costume de la Fin Patraque": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 259998
+            }
+        ]
+    },
+    "Costume de Silvosse": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 250000
+            }
+        ]
+    },
+    "Costume de Maïmane": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 250000
+            }
+        ]
+    },
+    "Costume de Citwouille": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 250000
+            }
+        ]
+    },
+    "Costume du Requin": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 250000
+            }
+        ]
+    },
+    "Costume des 5 ans": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 250000
+            }
+        ]
+    },
+    "Costume de Djaul": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 249900
+            }
+        ]
+    },
+    "Costume Dia de los Muertos": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 249000
+            }
+        ]
+    },
+    "Costume de Pouchecot": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 249000
+            }
+        ]
+    },
+    "Costume de Jacko": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 248499
+            }
+        ]
+    },
+    "Costume French Coincoin": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 240000
+            }
+        ]
+    },
+    "Costume de Goule": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 229999
+            }
+        ]
+    },
+    "La Capuche du Meneur": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 220000
+            }
+        ]
+    },
+    "Costume de Kralaman": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 200000
+            }
+        ]
+    },
+    "Costume de l'Eliatrope débutant": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 199999
+            }
+        ]
+    },
+    "Costume d'Encapuchonné Xélor": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 196000
+            }
+        ]
+    },
+    "Costume de Garde de Sufokia": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 179998
+            }
+        ]
+    },
+    "Costume de Jiva": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 170000
+            }
+        ]
+    },
+    "Costume de Brumaire": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 156000
+            }
+        ]
+    },
+    "Costume d'Hécate": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 156000
+            }
+        ]
+    },
+    "Costume de Rosal": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 150000
+            }
+        ]
+    },
+    "Costume du Roublard de Nowel": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 141999
+            }
+        ]
+    },
+    "Costume de Chasseur de Monstres d'Halouine": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 129000
+            }
+        ]
+    },
+    "Costume du Citwouillard": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 128884
+            }
+        ]
+    },
+    "Costume d'Ulgrude": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 119999
+            }
+        ]
+    },
+    "Costume de Garde de Bonta": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 100000
+            }
+        ]
+    },
+    "Costume de Sumens": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 100000
+            }
+        ]
+    },
+    "La Capuche de l'Eclairé": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 99999
+            }
+        ]
+    },
+    "Costume d'Encapuchonné Sadida": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 99999
+            }
+        ]
+    },
+    "Costume d'Encapuchonné Pandawa": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 94333
+            }
+        ]
+    },
+    "Costume d'Encapuchonné Enutrof": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 90000
+            }
+        ]
+    },
+    "Costume de Garde d'Amakna": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 74998
+            }
+        ]
+    },
+    "Costume de Sorcière": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 70000
+            }
+        ]
+    },
+    "Costume d'Encapuchonné Sram": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 70000
+            }
+        ]
+    },
+    "Costume de Chuchoteur": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 68999
+            }
+        ]
+    },
+    "Costume d'Encapuchonné Osamodas": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 60000
+            }
+        ]
+    },
+    "Costume d'Encapuchonné Iop": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 60000
+            }
+        ]
+    },
+    "Costume d'Encapuchonné Roublard": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 56997
+            }
+        ]
+    },
+    "Costume de Garde de Brâkmar": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 55000
+            }
+        ]
+    },
+    "Costume d'Encapuchonné Sacrieur": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 50000
+            }
+        ]
+    },
+    "Costume d'Encapuchonné Eniripsa": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 49998
+            }
+        ]
+    },
+    "La Capuche de l'apprenti": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 49948
+            }
+        ]
+    },
+    "Costume d'Encapuchonné Ecatlip": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 47997
+            }
+        ]
+    },
+    "Costume d'Encapuchonné Zobal": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 44998
+            }
+        ]
+    },
+    "Costume d'Ocushus": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 42000
+            }
+        ]
+    },
+    "Costume d'Encapuchonné Crâ": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 40000
+            }
+        ]
+    },
+    "La Capuche du Guide": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 39945
+            }
+        ]
+    },
+    "Costume du Culte Occulte": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 38998
+            }
+        ]
+    },
+    "Costume du Tourmenteur": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 33331
+            }
+        ]
+    },
+    "Costume d'Encapuchonné Féca": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 24944
+            }
+        ]
+    },
+    "Costume de Shushu Fanatique": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 24000
+            }
+        ]
+    },
+    "Costume d'Encapuchonné Steamer": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 20000
+            }
+        ]
+    },
+    "Costume temporel": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 13998
+            }
+        ]
+    },
+    "Mercenaire d'Astrub": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 8997
+            }
+        ]
+    },
+    "Costume de Cacterre rafistolé": {
+        "type": "costume",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 498
             }
         ]
     }
