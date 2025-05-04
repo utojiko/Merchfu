@@ -1222,7 +1222,7 @@
             }
         ]
     },
-    "Concentration élémentaire": {
+    "Concentration Elémentaire": {
         "type": "subli_epique",
         "price": [
             {
@@ -1445,7 +1445,7 @@
             }
         ]
     },
-    "Aura de flamme": {
+    "Aura de Flammes": {
         "type": "subli_relique",
         "price": [
             {
