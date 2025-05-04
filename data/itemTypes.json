@@ -138,5 +138,9 @@
     "aura": {
         "name": "Aura",
         "img": "https://vertylo.github.io/wakassets/itemTypes/738.png"
+    },
+    "emote": {
+        "name": "Émote",
+        "img": "https://vertylo.github.io/wakassets/emotes/20015.png"
     }
 }

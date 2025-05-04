@@ -33113,5 +33113,662 @@
                 "value": 498
             }
         ]
+    },
+    "Ultima": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 799384
+            }
+        ]
+    },
+    "Ailes d'Ange": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Lune": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2000000
+            }
+        ]
+    },
+    "Rouge de Colère": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "Lancer une boule de neige": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1500000
+            }
+        ]
+    },
+    "Mika El Jacq-Son": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1100000
+            }
+        ]
+    },
+    "Taper sur les fesses": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 850000
+            }
+        ]
+    },
+    "Hurlement": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 499999
+            }
+        ]
+    },
+    "Rougir de Honte": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 500000
+            }
+        ]
+    },
+    "Chercher une piste": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 500000
+            }
+        ]
+    },
+    "Augmenter son sex appeal": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 450000
+            }
+        ]
+    },
+    "Cadeau effrayant": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 360000
+            }
+        ]
+    },
+    "Aura de Plumes": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 350000
+            }
+        ]
+    },
+    "Faites PAPIER pour gagner !": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 250000
+            }
+        ]
+    },
+    "Momification": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 244998
+            }
+        ]
+    },
+    "Prêter allégeance": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 244000
+            }
+        ]
+    },
+    "Prendre un remontant": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 199999
+            }
+        ]
+    },
+    "Faire de l'alchimie": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 198999
+            }
+        ]
+    },
+    "Montrer un mouki": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 197000
+            }
+        ]
+    },
+    "Pacificateur": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 190000
+            }
+        ]
+    },
+    "Lancer des Œufs": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 189990
+            }
+        ]
+    },
+    "Déclarer sa flamme": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 179997
+            }
+        ]
+    },
+    "Le Froid glacial": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 177999
+            }
+        ]
+    },
+    "Le soutien à toute épreuve": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 168999
+            }
+        ]
+    },
+    "Siffloter": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 150000
+            }
+        ]
+    },
+    "Bouffées de chaleur": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 149996
+            }
+        ]
+    },
+    "Je suis un Ti biscuit": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 149000
+            }
+        ]
+    },
+    "Supplier": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 142355
+            }
+        ]
+    },
+    "Brandir sa grosse épée": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 129000
+            }
+        ]
+    },
+    "Jouer de la Contrebasse": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 119999
+            }
+        ]
+    },
+    "Il faut manger du riz!": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 115000
+            }
+        ]
+    },
+    "Chatouiller": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 100000
+            }
+        ]
+    },
+    "Taper dans le dos": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 90000
+            }
+        ]
+    },
+    "Il fait trop chaud !": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 89799
+            }
+        ]
+    },
+    "Jouer de la Batterie": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 88887
+            }
+        ]
+    },
+    "Renifler sans avoir la classe": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 88165
+            }
+        ]
+    },
+    "Jouer de la Flûte": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 88000
+            }
+        ]
+    },
+    "Succomber à Morphée": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 79998
+            }
+        ]
+    },
+    "Jouer du Bongo": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 74998
+            }
+        ]
+    },
+    "Jouer du Charleston": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 69999
+            }
+        ]
+    },
+    "Jouer du Cor": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 69998
+            }
+        ]
+    },
+    "Jouer du Tuba": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 69997
+            }
+        ]
+    },
+    "Faites CAILLOU pour gagner !": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 60000
+            }
+        ]
+    },
+    "Se creuser la tête": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 59990
+            }
+        ]
+    },
+    "Appeler un chacha": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 50000
+            }
+        ]
+    },
+    "Pouce en l'air": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 49998
+            }
+        ]
+    },
+    "Jouer de l'Ocarina": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 49997
+            }
+        ]
+    },
+    "Faites CISEAUX pour gagner !": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 49994
+            }
+        ]
+    },
+    "Demander de l'aide": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 47998
+            }
+        ]
+    },
+    "Avoir la nausée": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 45899
+            }
+        ]
+    },
+    "Boucher ses oreilles": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 44500
+            }
+        ]
+    },
+    "Entarter": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 40000
+            }
+        ]
+    },
+    "Appeler un chienchien": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 30000
+            }
+        ]
+    },
+    "Tousser": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 29999
+            }
+        ]
+    },
+    "Fermer sa bouche": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 29999
+            }
+        ]
+    },
+    "Jouer de la Guitare électrique": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 22222
+            }
+        ]
+    },
+    "Jouer du Ukulele": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 22222
+            }
+        ]
+    },
+    "Jouer de la Vibes": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 22222
+            }
+        ]
+    },
+    "Nauséeux": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 19999
+            }
+        ]
+    },
+    "Danse du Slevtar": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 19999
+            }
+        ]
+    },
+    "L'art d'huer": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 19000
+            }
+        ]
+    },
+    "Aura Blizzard": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 18898
+            }
+        ]
+    },
+    "Un cadeau merveilleux": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 12996
+            }
+        ]
+    },
+    "Danse du Travlota": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 10000
+            }
+        ]
+    },
+    "Danse du Requinou": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 10000
+            }
+        ]
+    },
+    "Danse du Roublard": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 9998
+            }
+        ]
+    },
+    "Cacher ses yeux": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 9500
+            }
+        ]
+    },
+    "Cadeau de Nowel": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 9300
+            }
+        ]
+    },
+    "Mendier": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 6645
+            }
+        ]
+    },
+    "Dab": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 2499
+            }
+        ]
+    },
+    "Danse de l'initiation": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 1000
+            }
+        ]
+    },
+    "Danse - Twist": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 990
+            }
+        ]
+    },
+    "Beatbox": {
+        "type": "emote",
+        "price": [
+            {
+                "date": "2025-05-04",
+                "value": 90
+            }
+        ]
     }
 }
