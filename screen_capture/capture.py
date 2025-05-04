@@ -7,9 +7,12 @@ import re
 
 # Constantes
 DATE_CAPTURE = "2025-05-04"  # Date de la capture au format YYYY-MM-DD
-IMG_PATH = "hdv_wakfu3.png"
+HDV_DIR = "hdv"  # Répertoire contenant les images à analyser
 JSON_PATH = r"c:\Users\roman\OneDrive\Documents\ProjetPerso\Merchfu\data\items.json"
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+
+# Extensions d'images supportées
+SUPPORTED_EXTENSIONS = ['.png', '.jpg', '.jpeg']
 
 # Dimensions approximatives pour chaque ligne
 TOP_OFFSET = 380   # Position verticale du premier item
@@ -33,7 +36,7 @@ def extract_items(image_path):
         name_text = pytesseract.image_to_string(name_crop, lang='eng').strip()
         
         # Normaliser les apostrophes dans le nom
-        name_text = name_text.replace("’", "'")
+        name_text = name_text.replace("'", "'").replace("`", "'").replace("'", "'")
         
         # Découpe du prix
         price_crop = img.crop((PRICE_BOX[0], top + PRICE_BOX[1],
@@ -104,18 +107,57 @@ def update_items_json(items_data):
     
     print(f"Fichier JSON mis à jour: {JSON_PATH}")
 
-def main():
-    print(f"Traitement de l'image: {IMG_PATH}")
-    items_data = extract_items(IMG_PATH)
+def get_image_files(directory):
+    """Récupère toutes les images dans le répertoire spécifié."""
+    image_files = []
     
-    if items_data:
-        print(f"{len(items_data)} items détectés:")
-        for i, (nom, prix) in enumerate(items_data, 1):
-            print(f"{i}. {nom} - {prix}")
+    if not os.path.exists(directory):
+        print(f"Le répertoire '{directory}' n'existe pas.")
+        return image_files
+    
+    for filename in os.listdir(directory):
+        file_path = os.path.join(directory, filename)
+        if os.path.isfile(file_path):
+            _, extension = os.path.splitext(filename)
+            if extension.lower() in SUPPORTED_EXTENSIONS:
+                image_files.append(file_path)
+    
+    return image_files
+
+def main():
+    # Récupérer toutes les images du répertoire HDV
+    image_files = get_image_files(HDV_DIR)
+    
+    if not image_files:
+        print(f"Aucune image trouvée dans le répertoire '{HDV_DIR}'.")
+        return
+    
+    print(f"{len(image_files)} images trouvées dans le répertoire '{HDV_DIR}'.")
+    
+    # Liste pour stocker tous les items détectés
+    all_items = []
+    
+    # Traiter chaque image
+    for image_path in image_files:
+        print(f"\nTraitement de l'image: {image_path}")
+        items_data = extract_items(image_path)
         
-        update_items_json(items_data)
+        if items_data:
+            print(f"{len(items_data)} items détectés dans cette image:")
+            for i, (nom, prix) in enumerate(items_data, 1):
+                print(f"{i}. {nom} - {prix}")
+            
+            # Ajouter les items à la liste complète
+            all_items.extend(items_data)
+        else:
+            print("Aucun item détecté dans cette image.")
+    
+    # Mettre à jour le fichier JSON avec tous les items détectés
+    if all_items:
+        print(f"\nAu total, {len(all_items)} items détectés dans toutes les images.")
+        update_items_json(all_items)
     else:
-        print("Aucun item détecté dans l'image.")
+        print("Aucun item détecté dans toutes les images.")
 
 if __name__ == "__main__":
     main()
