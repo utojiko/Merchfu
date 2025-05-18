@@ -146,5 +146,9 @@
     "monture": {
         "name": "Monture",
         "img": "https://vertylo.github.io/wakassets/itemTypes/611.png"
+    },
+    "panoplie": {
+        "name": "Panoplie",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/604.png"
     }
 }

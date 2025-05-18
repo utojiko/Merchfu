@@ -7,7 +7,7 @@ from datetime import datetime
 import re
 
 # Constantes
-DATE_CAPTURE = "2025-05-04"  # Date de la capture au format YYYY-MM-DD
+DATE_CAPTURE = "2025-05-18"  # Date de la capture au format YYYY-MM-DD
 HDV_DIR = "hdv"  # Répertoire contenant les images à analyser
 ARCHIVES_DIR = "archives"  # Répertoire d'archives
 JSON_PATH = r"c:\Users\roman\OneDrive\Documents\ProjetPerso\Merchfu\data\items.json"
@@ -80,6 +80,8 @@ def replace_special_characters(text):
         .replace("!@#dh\"-", "!@#dh`~")
         .replace("''", "'")
         .replace("1os Muertos", "los Muertos")
+        .replace("Kwakwaife", "Kwakwaffe")
+        .replace("Fuissante Ceinture", "Puissante Ceinture")
     )
 
 
@@ -203,16 +205,18 @@ def main():
     if not image_files:
         print(f"Aucune image trouvée dans le répertoire '{HDV_DIR}'.")
         return
-
-    print(f"{len(image_files)} images trouvées dans le répertoire '{HDV_DIR}'.")
+    
+    total_images = len(image_files)
+    print(f"{total_images} images trouvées dans le répertoire '{HDV_DIR}'.")
 
     # Liste pour stocker tous les items détectés
     all_items = []
 
     # Traiter chaque image
-    for image_path in image_files:
-        print(f"\nTraitement de l'image: {image_path}")
+    for index, image_path in enumerate(image_files, 1):
+        print(f"\nTraitement de l'image: {image_path} ({index}/{total_images})")
         items_data = extract_items(image_path)
+
 
         if items_data:
             print(f"{len(items_data)} items détectés dans cette image:")
