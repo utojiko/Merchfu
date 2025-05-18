@@ -150,5 +150,9 @@
     "panoplie": {
         "name": "Panoplie",
         "img": "https://vertylo.github.io/wakassets/itemTypes/604.png"
+    },
+    "livre": {
+        "name": "Livre",
+        "img": "https://vertylo.github.io/wakassets/itemTypes/496.png"
     }
 }
