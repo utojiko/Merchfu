@@ -7,7 +7,7 @@ from datetime import datetime
 import re
 
 # Constantes
-DATE_CAPTURE = "2025-05-18"  # Date de la capture au format YYYY-MM-DD
+DATE_CAPTURE = "2025-06-19"  # Date de la capture au format YYYY-MM-DD
 HDV_DIR = "hdv"  # Répertoire contenant les images à analyser
 ARCHIVES_DIR = "archives"  # Répertoire d'archives
 JSON_PATH = r"c:\Users\roman\OneDrive\Documents\ProjetPerso\Merchfu\data\items.json"
@@ -82,6 +82,10 @@ def replace_special_characters(text):
         .replace("1os Muertos", "los Muertos")
         .replace("Kwakwaife", "Kwakwaffe")
         .replace("Fuissante Ceinture", "Puissante Ceinture")
+        .replace("Fraggment", "Fragment")
+        .replace("Fragment de clet", "Fragment de clef")
+        .replace("brêche", "brèche")
+        
     )
 
 
@@ -198,7 +202,31 @@ def archive_images(image_files):
 
     return len(image_files)
 
+def demander_confirmation_date(date_capture):
+    """
+    Demande à l'utilisateur de confirmer la date de capture.
+    Si la date n'est pas confirmée, l'utilisateur peut en saisir une nouvelle.
+    Retourne la date confirmée ou modifiée (au format YYYY-MM-DD).
+    """
+    print(f"Date de capture actuelle : {date_capture}")
+    confirmation = input("Confirmez-vous cette date ? (o/n) : ").strip().lower()
+    if confirmation == "o":
+        return date_capture
+    else:
+        while True:
+            nouvelle_date = input("Entrez la date de capture souhaitée (YYYY-MM-DD) : ").strip()
+            # Vérification simple du format
+            if re.match(r"^\d{4}-\d{2}-\d{2}$", nouvelle_date):
+                return nouvelle_date
+            else:
+                print("Format invalide. Veuillez entrer la date au format YYYY-MM-DD.")
+
+
 def main():
+    global DATE_CAPTURE
+    # Demander confirmation ou modification de la date
+    DATE_CAPTURE = demander_confirmation_date(DATE_CAPTURE)
+
     # Récupérer toutes les images du répertoire HDV
     image_files = get_image_files(HDV_DIR)
 
