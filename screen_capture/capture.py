@@ -7,7 +7,7 @@ from datetime import datetime
 import re
 
 # Constantes
-DATE_CAPTURE = "2025-06-19"  # Date de la capture au format YYYY-MM-DD
+DATE_CAPTURE = "2025-08-04"  # Date de la capture au format YYYY-MM-DD
 HDV_DIR = "hdv"  # Répertoire contenant les images à analyser
 ARCHIVES_DIR = "archives"  # Répertoire d'archives
 JSON_PATH = r"c:\Users\roman\OneDrive\Documents\ProjetPerso\Merchfu\data\items.json"
@@ -22,7 +22,7 @@ LINE_HEIGHT = 61  # Hauteur d'un bloc item
 NUM_ITEMS = 9  # Nombre d'items visibles
 
 # Coordonnées relatives pour le nom et le prix dans chaque ligne
-NAME_BOX = (445, 0, 763, 61)  # (x1, y1, x2, y2) relative à chaque ligne
+NAME_BOX = (440, 0, 727, 61)  # (x1, y1, x2, y2) relative à chaque ligne
 PRICE_BOX = (1058, 0, 1181, 61)
 
 
@@ -85,7 +85,8 @@ def replace_special_characters(text):
         .replace("Fraggment", "Fragment")
         .replace("Fragment de clet", "Fragment de clef")
         .replace("brêche", "brèche")
-        
+        .replace("N.L.O", "N.I.O")
+        .replace("Chêne Moi", "Chêne Mou")
     )
 
 
