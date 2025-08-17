@@ -1,5 +1,3 @@
-
-
 document.addEventListener("DOMContentLoaded", function () {
     Promise.all([
         fetch('./data/items.json').then(response => response.json()),
@@ -32,7 +30,11 @@ document.addEventListener("DOMContentLoaded", function () {
                     });
                     moyenne_prix = parseInt(moyenne_prix / priceKeys.length);
 
-                    const pourcentage = Math.round((lastPrice - moyenne_prix) * 100 / moyenne_prix);
+                    // Calcul de la progression basée sur les 3 derniers prix
+                    const lastThreePriceKeys = priceKeys.slice(-3);
+                    const lastThreePrices = lastThreePriceKeys.map(key => item.price[key].value);
+                    const moyenne_3_derniers = lastThreePrices.reduce((sum, value) => sum + parseInt(value), 0) / lastThreePrices.length;
+                    const pourcentage = Math.round((lastPrice - moyenne_3_derniers) * 100 / moyenne_3_derniers);
 
                     return {
                         id: key,
