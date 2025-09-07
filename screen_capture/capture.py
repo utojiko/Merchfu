@@ -7,7 +7,7 @@ from datetime import datetime
 import re
 
 # Constantes
-DATE_CAPTURE = "2025-08-04"  # Date de la capture au format YYYY-MM-DD
+DATE_CAPTURE = "2025-09-07"  # Date de la capture au format YYYY-MM-DD
 HDV_DIR = "hdv"  # Répertoire contenant les images à analyser
 ARCHIVES_DIR = "archives"  # Répertoire d'archives
 JSON_PATH = r"c:\Users\roman\OneDrive\Documents\ProjetPerso\Merchfu\data\items.json"
