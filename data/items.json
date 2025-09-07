@@ -60480,11 +60480,15 @@
         ]
     },
     "Espadon de Tal Kasha": {
-        "type": "unknown",
+        "type": "epee",
         "price": [
             {
                 "date": "2025-08-04",
                 "value": 2500000
+            },
+            {
+                "date": "2025-09-04",
+                "value": 3055555
             }
         ]
     },
@@ -61716,5 +61720,5 @@
                 "value": 98000
             }
         ]
-    },
+    }
 }
